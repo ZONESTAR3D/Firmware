@@ -1,0 +1,27 @@
+=============================================================================
+Version: Z9M3_V5.4.0   
+Date:    2020-12-23
+NOTE:
+[CHG] Correct the display data transmit speed of LCD12864
+[NEW] Modify the Random mixing feature
+1-1. add a "Height" parameter, When the z-axis height change is greater than or equal to this value, the color mixing ratio change is performed once
+1-2. add a "Extruders" parameter, it means how many extruders involved in random mixing;
+when Extruders = 1,switch between the all of extruders randomlly.
+when Extruders = 2, extruder 1,2 will be mixed on a random mixing ratio.
+when Extruders = 3, extruder 1,2,3 will be mixed on a random mixing ratio.
+when Extruders = 4, extruder 1,2,3,4 will be mixed on a random mixing ratio.
+[NEW] Auto reset the VTOOL setting to default if printed complete from SD card.
+=============================================================================
+Version: Z9M3_V5.3.2   
+Release Date: 2020-11-17
+Author : Hally
+Description:
+[DEBUG] Fix bug of power loss resume
+[DEBUG] Fix bug of dual Z drive 
+=============================================================================
+Version: Z9M3_V5.3.0   (Base on Marlin 2.0.8)
+Release Date: 2020-10-30
+Author : Hally
+Description:
+[NEW] Modify the firmware base on marlin2.0.8
+=============================================================================

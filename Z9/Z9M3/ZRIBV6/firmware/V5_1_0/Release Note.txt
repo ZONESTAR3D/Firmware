@@ -1,0 +1,31 @@
+=============================================================================
+Version: Z9M3_V5.0   (Base on Marlin 2.0.5)
+Release Date: 2020-07-01
+Author : Hally
+Description:
+1. Modify the firmware base on marlin2.0.5
+2. Add power loss revover feature
+3. Add Filament Load/Unload feature
+4. Improved mix feature, about the detail, please refer to "Mix_Feature_User_Guide_V2.pdf"
+5. Improved Filament run out detection
+6. Improved Firmware retraction feature
+=============================================================================
+
+About features:
+TFT-LCD:  	 	
+TFT-LCD screen use EXP1 connector pins of +5/GNG/D16/D17,it is connected to UART2 of ATMEGA2560
+D16<=>TXD2 
+D17<=>RXD2
+
+TMC2208:
+TMC2208 motor dirver is reversed on the work direction with A4988
+PS:If you only changed two (X, Y) driver modules, please modify the motor wires (1A and 1B)
+
+TITAN:
+In the older version, Z9 use a default extruder part, from 2020-05, we have upgraded it to Titan exturder, by using Titan extuder, it can provide more torque to extruder.
+
+3Dtouch:
+Defaulf Z9 use a proximity sensor as a bed leveling sensor, if you upgrade it to BLtouch or 3D touch, please choose this firmware
+Hardware:
+D4 - SERVO PIN (S PIN of 3DTouch)
+Z+ - Probe Pin (Z- PIN of 3DTouch)

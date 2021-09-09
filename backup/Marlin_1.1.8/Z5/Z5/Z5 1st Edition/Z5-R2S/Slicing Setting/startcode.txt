@@ -1,0 +1,20 @@
+; start code for R2S hotend
+G28 ; Home extruder
+G1 Z15 F{Z_TRAVEL_SPEED}
+M107 ; Turn off fan
+G90 ; Absolute positioning
+M82 ; Extruder in absolute mode
+{IF_BED}M190 S{BED}
+; Activate all used extruder
+{IF_EXT0}M104 S{TEMP0}
+{IF_EXT1}M104 S{TEMP1}
+; Wait for all used extruders to reach temperature
+{IF_EXT0}M109 S{TEMP0}
+{IF_EXT1}M109 S{TEMP1}
+T0
+G1 E12 F1200
+G92 E0 ; Reset extruder position
+T1
+G1 E12 F1200
+G92 E0 ; Reset extruder position
+T0

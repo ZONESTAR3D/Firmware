@@ -1,0 +1,13 @@
+***************************************************************
+	Model: Z6B
+	Control Boar: ZMIB
+***************************************************************
+Version: V4.1
+Date: 20190320
+[DEBUG ]Fix filament run out detection issue
+[CHANGE]Calibrate the HOTEND temperature
+***************************************************************
+Version: V4.0
+Date: 20190122
+[CHANGE]Modify to 1.3INCH OLED
+***************************************************************

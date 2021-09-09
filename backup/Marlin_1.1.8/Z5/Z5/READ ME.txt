@@ -1,0 +1,34 @@
+==========================================================================================
+!!!!KNOW WHICH CONTROL BOARD YOU HAVE !!!!!
+!!!LCD screen doesn't work if you upload wrong HEX file!!!
+
+Z5 1st Edition, control board is ZMIB V1
+Z5 2nd Edition, control board is ZMIB V2
+==========================================================================================
+
+==========================================================================================
+1.How to choose the correct HEX file of firmware?
+==========================================================================================
+You need to know between product model, motherboard version and Menu language first, for example: 
+Printer model: Z5M2
+Control board: ZMIBV1
+Menu languge: Russian
+
+Choose the firmware from the below directory: "\Z5\Z5 1st Edition\2-IN-1-OUT Extruder", and the correct HEX file is "Z5NM2_ZMIBV1_Vx_ru.hex"
+Z5NM2: Printer Model
+ZRIBV1: Control Board
+Vx: Firmware Version
+ru: Menu Language
+==========================================================================================
+
+==========================================================================================
+2. How to upload firmware?
+==========================================================================================
+Step 1: Please download UPLOAD tools and unzip it in your PC. 
+Download link: https://drive.google.com/drive/folders/0B9Z1DbrxfqbpSWtwbFA5SUVORTQ
+Filename: Firmware Upload tools.zip
+
+Step 2: Download HEX file and store it to the same directory with "UpdateFw_ZRIB.bat" file.
+
+Step 3: Refer to the Tools use guide to upload firmware to the control board, The guide is in this directory" Firmware Upload tools\Guide".
+==========================================================================================

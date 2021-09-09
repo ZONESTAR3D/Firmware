@@ -1,0 +1,45 @@
+NOTE: if your printer hasn't a Titan extruder, please use the older version firmware.
+
+Titan Extruder purchase link:
+https://www.aliexpress.com/item/1005001678239017.html
+
+=============================================================================
+Version: Z9M3_V5.3   (Base on Marlin 2.0.8)
+Release Date: 2020-10-30
+Author : Hally
+Description:
+1. Modify the firmware base on marlin2.0.8
+=============================================================================
+Deafult features:
+------------------------------------------------
+1. TITAN Extruder:
+In the older version, Z9 use a default extruder part, from 2020-05, we have upgraded it to Titan exturder, by using Titan extuder, it can provide more torque to extruder this feature is default on since V5.3
+
+2. Power off after printer:
+a POWER push button (Non self locking button) can be connected to the control 
+board, when power on, you need to push button until LCD show LOGO, add a M81 
+command in the ENDcode of slicing software, it can realize automatic shutdown 
+after printing. 
+NOTE: It is only shut down the control board, but not the Power supply
+  Hardware:
+  -a push button should connect to the power on jumper.
+  -a LED connect to VCC & GND
+this feature is default on since V5.3
+=============================================================================
+Option feature:
+------------------------------------------------
+TMC220x:
+TMC220x motor dirver is reversed on the work direction with A4988
+PS:If you only changed (X, Y,Z) driver modules, please modify the motor wires (1A and 1B) of X(YZ) motor and use the default feature
+
+TFT-LCD:  	 	
+TFT-LCD screen use EXP1 connector pins of +5/GNG/D16/D17,it is connected to UART2 of ATMEGA2560
+D16<=>TXD2 
+D17<=>RXD2
+ATTENTION: for ZRIB control board, TFT-LCD and LCD12864 can't work at the same time 
+
+3Dtouch:
+Defaulf Z9 use a proximity sensor as a bed leveling sensor, if you upgrade it to BLtouch or 3D touch, please choose this firmware
+Hardware:
+D4 - SERVO PIN (S PIN of 3DTouch)
+Z+ - Probe Pin (Z- PIN of 3DTouch)

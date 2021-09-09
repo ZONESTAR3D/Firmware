@@ -1,0 +1,18 @@
+V1.1
+======================================================
+Add a string on the LCD screen to show the filament run out sensor state 
+
+V2.0
+======================================================
+Add "firmware retraction" to improve the string issue, there are 2 method to apply it.
+1. if the slicing software support firmware retraction feature, you can set the firmware retraction command "G10 for retraction and G11 for recover"
+2. if the slicing software doesn't support firwmware retraction feature, you can add a "M209 S1" commamd in the start code, it will convert the retraction to a "firmware retraction" feature. You can enable it on the LCD MENU too.
+MENU>>Control>>Retract
+
+PS: you can set the below setting of Retraction on LCD MENU.
+AutoRetr.    >> Enable or disable firmware retraction
+Retract mm   >> Retraction lenght
+Retract V:   >> Retraction speedd (mm/s)
+Hop mm:      >> Z hop height when retract
+UnRet mm:    >> Recover lenght after retracted
+UnRet V:     >> Recover speed 

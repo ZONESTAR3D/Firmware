@@ -1,0 +1,15 @@
+Date:    2021-1-23
+Version: V5.0.0
+NOTE:
+[NEW] Move to Base on Marlin2.0.7.2
+[NEW] Add XYZ offset menu
+[NEW] Modify the auto mixing engine
+[a] Modify the Random mixing feature
+[b] Auto reset the VTOOL setting to default if printed complete from SD card.
+1-1. add a "Height" parameter, When the z-axis height change is greater than or equal to this value, the color mixing ratio change is performed once
+1-2. add a "Extruders" parameter, it means how many extruders involved in random mixing;
+when Extruders = 1,switch between the all of extruders randomlly.
+when Extruders = 2, extruder 1,2 will be mixed on a random mixing ratio.
+when Extruders = 3, extruder 1,2,3 will be mixed on a random mixing ratio.
+when Extruders = 4, extruder 1,2,3,4 will be mixed on a random mixing ratio.
+

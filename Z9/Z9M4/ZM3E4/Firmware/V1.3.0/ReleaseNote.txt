@@ -1,0 +1,30 @@
+Date:    2020-12-23
+Version: V1.3.0
+NOTE:
+[CHG] Correct the display data transmit speed of LCD12864
+[NEW] Modify the Random mixing feature
+1-1. add a "Height" parameter, When the z-axis height change is greater than or equal to this value, the color mixing ratio change is performed once
+1-2. add a "Extruders" parameter, it means how many extruders involved in random mixing;
+when Extruders = 1,switch between the all of extruders randomlly.
+when Extruders = 2, extruder 1,2 will be mixed on a random mixing ratio.
+when Extruders = 3, extruder 1,2,3 will be mixed on a random mixing ratio.
+when Extruders = 4, extruder 1,2,3,4 will be mixed on a random mixing ratio.
+[NEW] Auto reset the VTOOL setting to default if printed complete from SD card.
+
+Date:    2020-12-04
+Version: V1.2.5
+NOTE:
+[DEBUG] Correct the display temperature when the ambient temperature is low
+
+
+Date:    2020-11-09
+Version: V1.2.4
+NOTE:
+[DEBUG] fix an issue of power loss resume:
+when auto leveling feature is enable, it doesn't work well when resume from power loss
+
+Date:    2020-11-05
+Version: V1.2.3
+NOTE:
+[DEBUG] fix an issue: when the file in the root directory on SD card, 
+"power loss fail resume" can't start to work.
