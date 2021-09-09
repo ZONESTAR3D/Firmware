@@ -10,7 +10,6 @@ NOTE:
 email: Support@zonestar3d.com
 ##########################################################################################
 
-
 ##########################################################################################
 Firmware Upload steps
 ##########################################################################################
@@ -41,5 +40,4 @@ For ZMIB control board
 3. Unzip "Firmware Upload tools.zip" , there is a user guide in this zip file, please read it. 
 4. Connect the printer to your PC, please make sure driver has been installed correctly. 
 5. Follow "Arduloader user guide.pdf" to upload the firmware to your control board.
-##########################################################################################
-
+#########################################################################################
