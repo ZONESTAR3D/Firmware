@@ -12,7 +12,7 @@ email: Support@zonestar3d.com
 
 
 ##########################################################################################
-													Upload firmware steps
+Firmware Upload steps
 ##########################################################################################
 IMPORTANT: 
 Please distinguish the type of control panel and control board model before upload firmware
