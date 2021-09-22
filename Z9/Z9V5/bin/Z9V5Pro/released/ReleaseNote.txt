@@ -67,10 +67,13 @@ For more description of the auto leveling function, please refer to the director
 [NEW]Add WiFi BaudRate setting menu, please refer to "How to Change WiFi BaudRate.pdf"
 [CHG]M163 command is compatible with native Marlin instruction format, that is the mixing ratio is 0.0 ~ 10.0 
 
-2021-07-015   Z9V5Pro_V1_2_5
+2021-07-15   Z9V5Pro_V1_2_5
 [NEW]Add feedback on menu scroll
 [CHG]Improbe menu operature (auto return to the last item)
 [CHG]Change leveling table to 5x5 grid and improve the accuracy of automatic leveling
 [BUG]fix the display issue when G29 command in the gcode file
 [BUG]fix the issue on filament run out when mixing printing 
 [BUG]fix several known bugs
+
+2021-07-16   Z9V5Pro_V1_2_6
+[BUG] fix the display issue of mix rate after modified it while printing
