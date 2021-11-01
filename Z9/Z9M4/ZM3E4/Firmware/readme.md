@@ -4,10 +4,9 @@
 3. Power off the printer and plug the Micro-SD card into socket on control board
 4. Power on the printer, wait about 30 seconds
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
-**for LCD12864** MENU>>Configuration>>Advanced setting>>initialize  EEPROM
-**for LCD_DWIN** MENU>>Control>>Restore setings
-----
-----
+- **for LCD12864** MENU>>Configuration>>Advanced setting>>initialize  EEPROM
+- **for LCD_DWIN** MENU>>Control>>Restore setings
+
 # Wiring
 About wiring, please refer to "Z9M4 Firmware and Wiring Diagram.pdf"
 
