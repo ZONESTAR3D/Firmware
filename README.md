@@ -8,7 +8,7 @@
 1. Download the zip file and unzip it, you will got a firmware.bin file
 2. Copy firmware.bin to the root directory of Micro-SD card
 3. Power off the printer and plug the Micro-SD card into card socket of the control board
-5. Power on the printer, wait about 30 seconds
+4. Power on the printer, wait about 30 seconds
 
 - **Upload firmware to the ZRIB control board**
 1. Download firmware upgrade tools (\HEX\Firmware Upload tools.zip)
