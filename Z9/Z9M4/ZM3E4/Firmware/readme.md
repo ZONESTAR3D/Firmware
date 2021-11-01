@@ -6,6 +6,7 @@
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
 - **for LCD12864** ***MENU>>Configuration>>Advanced setting>>initialize  EEPROM***
 - **for LCD_DWIN** ***MENU>>Control>>Restore setings***
+- **you can also copy "ResetNVRAM.gcode" to SD card and print it to reset the EEPROM**
 
 # Wiring
 About wiring, please refer to "Z9M4 Firmware and Wiring Diagram.pdf"
