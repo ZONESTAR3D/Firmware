@@ -11,7 +11,7 @@
 About wiring, please refer to "Z9M4 Firmware and Wiring Diagram.pdf"
 
 # Motor Working Direction
-If the motor working direction is reserved, please refer to this photo
+**If the motor working direction is reserved, please refer to the below photo to modify it:**
 ![how to change motor woking direction](https://github.com/ZONESTAR3D/Firmware/blob/master/Z9/Z9M4/ZM3E4/Firmware/how%20to%20change%20motor%20woking%20direction.png)
 
 
