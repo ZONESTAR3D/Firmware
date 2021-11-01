@@ -6,6 +6,6 @@
 
 # Wiring for V1-xxxxxxxx
 ***connect the ZL-SENSOR to EXP1 connector, please refer to the below picture***
-![ZL SENSOR Wiring]()
+![ZL SENSOR Wiring](https://github.com/ZONESTAR3D/Firmware/blob/master/Z9/Z9V5/bin/Z9V5Pro/released/ZLSENSOR/SN-V1xxxx/Wiring.jpg)
 
 
