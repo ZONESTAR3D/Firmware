@@ -36,24 +36,7 @@
 
 #include "../core/boards.h"
 #include "../core/macros.h"
-
-#ifdef	__Z9V5_ZM3E4__
-#include "../../../Z9V5/config/Configuration.h"
-#elif defined(__Z9M4_ZM3E4__)
-#include "../../../Z9M4_ZM3E4/config/Configuration.h"
-#elif defined(__Z9M3_ZM3E4__)
-#include "../../../Z9M3_ZM3E4/config/Configuration.h"
-#elif defined(__Z9M3_ZRIB__)
-#include "../../../Z9M3_ZM3E4/config/Configuration.h"
-#elif defined(__Z8T_ZM3E4__)
-#include "../../../Z8T_ZM3E4/config/Configuration.h"
-#elif defined(__Z8T_ZRIB__)
-#include "../../../Z8T_ZRIB/config/Configuration.h"
-#elif defined(__Z8P_ZM3E4__)
-#include "../../../Z8P_ZM3E4/config/Configuration.h"
-#else
 #include "../../Configuration.h"
-#endif
 
 #ifdef CUSTOM_VERSION_FILE
   #if __has_include(STRINGIFY(../../CUSTOM_VERSION_FILE))
@@ -70,27 +53,9 @@
 #endif
 
 #include "../core/drivers.h"
-
-#ifdef	__Z9V5_ZM3E4__
-#include "../../../Z9V5/config/Configuration_adv.h"
-#elif defined(__Z9M4_ZM3E4__)
-#include "../../../Z9M4_ZM3E4/config/Configuration_adv.h"
-#elif defined(__Z9M3_ZM3E4__)
-#include "../../../Z9M3_ZM3E4/config/Configuration_adv.h"
-#elif defined(__Z9M3_ZRIB__)
-#include "../../../Z9M3_ZM3E4/config/Configuration_adv.h"
-#elif defined(__Z8T_ZM3E4__)
-#include "../../../Z8T_ZM3E4/config/Configuration_adv.h"
-#elif defined(__Z8T_ZRIB__)
-#include "../../../Z8T_ZRIB/config/Configuration_adv.h"
-#elif defined(__Z8P_ZM3E4__)
-#include "../../../Z8P_ZM3E4/config/Configuration_adv.h"
-#else
 #include "../../Configuration_adv.h"
-#endif
 
 #include "Conditionals_adv.h"
-
 
 #ifndef __MARLIN_DEPS__
   #include HAL_PATH(../HAL, inc/Conditionals_adv.h)
