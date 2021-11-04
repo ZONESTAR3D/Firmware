@@ -1,4 +1,16 @@
-Firmware Upload Steps:
+# NOTE
+- ***Default the Z9M3 used a ZRIBV6 control board, if you have upgraded the control board to a 32bits ZM3E4 control board, please download the firmware from here***
+
+# firmware
+- ***Firmware bin file***
+
+# hardware
+- ***Wiring diagram***
+
+# sourcode
+- ***Firmware source code***
+
+# Firmware Upload Steps
 1. Download and unzip the firmware zip file
 2. Copy firmware.bin to the root directoy of Micro-SD card
 3. Power off the printer and plug the Micro-SD card into socket on control board
