@@ -77,3 +77,6 @@ For more description of the auto leveling function, please refer to the director
 
 2021-07-16   Z9V5Pro_V1_2_6
 [BUG] fix the display issue of mix rate after modified it while printing
+
+2021-11-19   Z9V5Pro_V1_2_7
+[CHG]Improve auto testing
