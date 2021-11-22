@@ -1,11 +1,11 @@
+# Released
+***Released firmware*** are for the mass production machine. If you did not upgrade any features, please use the firmware in this directory.
+
 # beta
-Beta firmware have the latest update feature, but it may be unstable
+***Beta firmware*** have the latest updata firmware, but it may be unstable.
 
 # Customize
-Customize firmware is for upgrade features, if you have upgraded bed leveling sensor, please find the firmware there
-
-# Released
-Released firmware is for the mass production machine. If you did not upgrade and features, please find the firmware there
+***Customize firmware*** is for upgrade features, if you have upgraded bed leveling sensor, please use the firmware  in this directory.
 
 # User Guide
 If the firmware is upgraded with new features, please check the instructions for the new features here
