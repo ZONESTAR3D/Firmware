@@ -1,6 +1,6 @@
-# ***Release Note***
+﻿# ***Release Note***
 ## Z9V5Pro V1.2.8 beta
-- **Date:** 2021-11-03
+- **Date:** 2021-11-22
 - [**BUG**] Updata the hotend temperature measure table to correct bed temperature display  
 
 ## Z9V5Pro V1.2.7 beta

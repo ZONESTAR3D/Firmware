@@ -1,6 +1,6 @@
-# ***Release Note***
+﻿# ***Release Note***
 ## Z9V5Pro V1.2.7 
-- **Date:** 2021-11-03  
+- **Date:** 2021-11-19 
 - [**BUG**] fix the issue on auto testing  
 ***Auto testing feature: move the cursor to the "Info>>Data:xx-xx-xx" and click the knob 5 time to start an auto testing process***      
 
