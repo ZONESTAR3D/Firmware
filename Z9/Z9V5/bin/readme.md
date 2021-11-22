@@ -1,10 +1,10 @@
 # Z9V5
 **Z9V5 equiped with LCD12864 LCD screen and hotbed sticker**
-![Z9V5](..\Z9V5.jpg)
+![Z9V5](Z9V5.jpg)
 
 # Z9V5Pro
 **Z9V5Pro equiped with a 4.3INCH TFT-LCD screen and a glass print platform**
-![Z9V5Pro](..\Z9V5PRO.jpg)
+![Z9V5Pro](Z9V5PRO.jpg)
 
 # Firmware Upload Steps:
 1. Download the zip file and unzip it
