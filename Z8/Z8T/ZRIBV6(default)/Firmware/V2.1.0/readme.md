@@ -8,8 +8,4 @@
 [**4.3" LCD screen sell link**](ttps://www.aliexpress.com/item/1005002378065646.html)  
 ![](LCDDWIN.jpg)  
 
-# TFTLCD35
-**Firmware hex file for 3.5" TFT-LCD screen**  
-[**3.5" LCD screen sell link**](https://www.aliexpress.com/item/1005001314076252.html)  
-![](TFTLCD35.jpg)
  

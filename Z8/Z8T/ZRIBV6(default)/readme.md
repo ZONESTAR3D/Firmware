@@ -1,8 +1,8 @@
 # Firmware
-- firmware hex file
+**Firmware hex file**  
 
 # Wiring
-- Wiring diagram
+**Wiring diagram**
 
 # Source Code
-- Firmware source code
+**Firmware source code**
