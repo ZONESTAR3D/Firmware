@@ -1,6 +1,6 @@
 ### How to upload firmware to ZRIBV6 control board
 > **Windows>**  
-1. Download [**"Firmware upload tool and guide"**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware%20Upload%20tools%20for%20ZRIB%20and%20ZMIB).  
+1. Download [**"Firmware upload tool and guide"**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tools_for_ZRIB_ZMIB/Arduloader.zip).  
 2. Connect the printer to PC by USB cable and refer to the guide to upload firmware to the control board.
 3. Should you have any question on uploading firmware, please contact us by email: [***support@zonestar3d.com***](support@zonestar3d.com).
 NOTE:  
