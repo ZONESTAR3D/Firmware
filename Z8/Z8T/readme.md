@@ -1,6 +1,6 @@
 # How to choose correct firmware for your Z8T printer
-- Default Z8T use a ZRIBV6 control board, please find the firmware in "ZRIBV6" directory
-- If you have upgrade control to a 32 bits control board ZM3E4, please find the firmware in "ZM3E4" directory
+- If you haven't upgrade any features, please choose the [***default firmware***](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8T/ZRIBV6(default)/Firmware/V2.0.0/LCD12864)  
+- If you upgraded some features, please choose the firmware according to the below guide.    
 ![](1.jpg)
 ![](2.jpg)
 
