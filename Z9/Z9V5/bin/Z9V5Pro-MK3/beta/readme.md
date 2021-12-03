@@ -9,6 +9,10 @@ MENU>>config>>Restore Defaults
 
 # ***Release Note***
 ## Z9V5Pro_MK3 V2.1.0 beta 
+- **Date:** 2021-12-03
+- [**New**] force to do once HOME while start bed leveling
+
+## Z9V5Pro_MK3 V2.1.0 beta 
 - **Date:** 2021-12-01 
 - [**New**] Add a "***Control>>configre>>Max HOTEND Temp***" menu, so that you can upgrade to high temperature hotend. **ATTETION: Overheating may damaged the hotend, ensure your hotend can work in that temperature before set the temperature.**  
 - [**New**] Add a "***Control>>configre>>PID AutoTune***" menu to auto tune the PID parameter.   **NOTE: While do PID autotune, please wait until the LCD show PID Auto tune finished!**  
