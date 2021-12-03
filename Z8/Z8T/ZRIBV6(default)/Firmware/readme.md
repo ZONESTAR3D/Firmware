@@ -1,18 +1,22 @@
-# How to upload firmware to the ZRIBV6 control board
-1. Download Upload tool from the below link.
-2. Connect the printer to PC by USB cable and refer to the guide in the below link, and upload firmware to the control board.  
-[**Download frmware upload tool and guide**](https://github.com/ZONESTAR3D/Firmware-Upload-tool)
+### How to upload firmware to ZRIBV6 control board
+> **Windows>**  
+1. Download [**"Firmware upload tool and guide"**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware%20Upload%20tools%20for%20ZRIB%20and%20ZMIB).  
+2. Connect the printer to PC by USB cable and refer to the guide to upload firmware to the control board.
+3. Should you have any question on uploading firmware, please contact us by email: [***support@zonestar3d.com***](support@zonestar3d.com).
+NOTE:  
+**Macos or Linux OS>**  
+If you use macos and linux, please upload firmware by cura, [**video toturial**](https://www.youtube.com/watch?v=I7Kn7YI0fIo)  
 
 #Release Note:
 ## Version: V2.1.0
 - **Date:**    2021-07-08  
 - **NOTE:** 
-- [**CHG**] Change the bltouch wiring, about detail, please refer to the readme file in "3DTouch" directory    
+- [**CHG**] Change the BLtouch(3DTouch) wiring, about detail, please refer to the readme file in "3DTouch" directory.
 
 ## Version: V2.0.0
 - **Date:**    2021-07-08  
 - **NOTE:** 
-- [**BUG**] Add leveling measure points to improve bed leveling accuracy  
+- [**BUG**] Add leveling measure points to improve bed leveling accuracy.  
   
 ## Version: V1.8.1
 - **Date:**    2021-01-10    
