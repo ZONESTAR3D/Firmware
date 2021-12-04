@@ -1,4 +1,4 @@
-## Firmware for ZONESTAR Z9M3 
+## Firmware for Z9M3 
 ### ZRIBV6 
 Default Z9M3 used a ZRIBV6 control board, if you upgraded the control board to ZM3E4, please used the firmware in ZM3E4 directory.  
 
