@@ -1,28 +1,28 @@
-# ***Release Note***
-## Z9V5Pro V1.3.1 beta
+## ***Release Note***
+### Z9V5Pro V1.3.1 beta
 - **Date:** 2021-12-03
 - [**New**] force to do once HOME while start bed leveling 
 
-## Z9V5Pro V1.3.0 beta
+### Z9V5Pro V1.3.0 beta
 - **Date:** 2021-12-01
 - [**New**] Add a "***Control>>configre>>Max HOTEND Temp***" menu, so that you can upgrade to high temperature hotend. **ATTETION:Overheating may damaged the hotend, ensure your hotend can work in that temperature before set the temperature**.    
 - [**New**] Add a "***Control>>configre>>PID AutoTune***" menu to auto tune the PID parameter.  **NOTE: While do PID autotune, please wait until the LCD show PID Auto tune finished!**   
 - [**CHG**] Correct the temperature table of hotend and hotbed to get more accurate temperature display    
 
-## Z9V5Pro V1.2.8 beta
+### Z9V5Pro V1.2.8 beta
 - **Date:** 2021-11-22
 - [**BUG**] Updata the hotend temperature measure table to correct bed temperature display  
 
-## Z9V5Pro V1.2.7 beta
+### Z9V5Pro V1.2.7 beta
 - **Date:** 2021-11-03  
 - [**BUG**] fix the issue on auto testing  
 ***Auto testing feature: move the cursor to the "Info>>Data:xx-xx-xx" and click the knob 5 time to start an auto testing process***      
 
-## Z9V5Pro V1.2.6 beta
+### Z9V5Pro V1.2.6 beta
 - **Date:** 2021-07-15  
 - [**BUG**] fix the issue on filament run out
 
-## Z9V5Pro V1.2.5 beta
+### Z9V5Pro V1.2.5 beta
 - **Date:** 2021-07-15   
 - [**BUG**] fix the issue on power loss recovery  
 - [**NEW**]Add feedback on menu scroll
@@ -32,27 +32,27 @@
 - [**BUG**]fix the issue on filament run out when mixing printing 
 - [**BUG**]fix several known bugs
 
-## Z9V5Pro V1.2.4 beta
+### Z9V5Pro V1.2.4 beta
 - **Date:** 2021-07-14
 - [**NEW**]Add feedback on menu scroll  
 - [**BUG**]fix the disply issue when G29 command in the gcode file  
 - [**BUG**]fix the issue on filament run out when mixing printing   
 - [**CHG**]Improbe menu operature (auto return to the last item)  
 
-## Z9V5Pro V1.2.0 beta
+### Z9V5Pro V1.2.0 beta
 - **Date:** 2021-07-07
 - [**NEW**] Add filament Load/Unload menu, please refer to "user guide\LCD-DWIN MENU Description V1_2.pdf"
 - [**NEW**] Add WiFi BaudRate setting menu, please refer to "user guide\How to Change WiFi BaudRate.pdf"  
 
-## Z9V5Pro V1.1.2 beta
+### Z9V5Pro V1.1.2 beta
 - **Date:** 2021-6-26 
 - [**BUG**] fix the bug on powerloss recovery and pause print
 
-## Z9V5Pro V1.1.1 beta
+### Z9V5Pro V1.1.1 beta
 - **Date:** 2021-6-24  
 - [**CHG**] Set the highest temperature of hotend to 260 degree
 
-## Z9V5Pro V1.1.0 beta
+### Z9V5Pro V1.1.0 beta
 - **Date:** 2021-6-19
 - [**CHG**] Optimize the menu arrangement and display effect.
 - [**CHG**] Fix the confirmation logic of WiFi module.
@@ -63,12 +63,12 @@
 - [**CHG**]Change the text of the menu item "bed coasting" to "home Z offset"
 - [**BUG**] Fixed several known bugs  
 
-## Z9V5Pro V1.0.8 beta
+### Z9V5Pro V1.0.8 beta
 - **Date:** 2021-5-15   
 - [**CHG**] Save WiFi On Off  
 - [**CHG**] Remove unactived menu option of config when printing from SD card  
 
-## Z9V5Pro V1.0.7 beta
+### Z9V5Pro V1.0.7 beta
 - **Date:** 2021-4-18   
 - [**CHG**] Improve the auto leveling feature for glass bed
 Following the below steps to do:  
@@ -82,27 +82,26 @@ Following the below steps to do:
   - Print "level_test_310.gcode" file again to check.  
 ***NOTE: if you find the nozzle is too Heigth/Low when printing the first layer, Redunce/Add the coating thickness value on menu (Config>>configure>>Coating Thickness)***   
 
-
-## Z9V5Pro V1.0.6 beta
+### Z9V5Pro V1.0.6 beta
 - **Date:** 2021-3-18   
 - [**NEW**] Add WIFI function
 
-## Z9V5Pro V1.0.5 beta
+### Z9V5Pro V1.0.5 beta
 - **Date:** 2021-3-9   
 - [**CHG**] Modifying bed leveling display；
 - [**BUG**] Fix several known bugs
 
-## Z9V5Pro V1.0.4 beta
+### Z9V5Pro V1.0.4 beta
 - **Date:** 2021-2-25   
 - [**CHG**] Modify the bug of manual extrusion of extruder in the move menu;
 - [**CHG**] Modify the display of several menu names;
 
-## Z9V5Pro V1.0.3 beta
+### Z9V5Pro V1.0.3 beta
 - **Date:** 2021-2-4   
 - [**NEW**] Add the function of all extruders moving at the same time in the move menu;
 - [**BUG**] fixed some other known bugs;
 
-## Z9V5Pro V1.0.1 beta
+### Z9V5Pro V1.0.1 beta
 - **Date:** 2021-1-26
 - [**CHG**] Dwin screen refreshes the display after receiving m166 m167 instruction;
 - [**CHG**] Automatic retraction speed modification;

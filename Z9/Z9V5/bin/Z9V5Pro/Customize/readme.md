@@ -1,5 +1,5 @@
-# ZLSENSOR
-- ***the firmware for Updata ZLSensor bed leveling sensor***
+## ZLSENSOR
+- ***The firmware for upgrade ZLSensor bed leveling sensor***
 
-# 3DTouch
-- ***the firmware for upgrade 3DTouch/BLTouch bed leveling sensor***
+## 3DTouch
+- ***The firmware for upgrade 3DTouch/BLTouch bed leveling sensor***
