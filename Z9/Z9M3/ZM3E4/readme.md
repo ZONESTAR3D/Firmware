@@ -1,17 +1,11 @@
-# NOTE
-- ***Default the Z9M3 used a ZRIBV6 control board, if you have upgraded the control board to a 32bits ZM3E4 control board, please download the firmware from here***
+## Firmware
+Included firmware bin files
 
-# Firmware
-- ***Firmware bin file***
+## Sourcecode
+Please download firmware source code from [**Here**](https://github.com/ZONESTAR3D/source-code-for-3d-printer).  
 
-# Hardware
-- ***Wiring diagram***
 
-# Sourcecode
-- ***Firmware source code***
-
----
-# Firmware Upload Steps
+## Firmware Upload Steps
 1. Download and unzip the firmware zip file
 2. Copy firmware.bin to the root directoy of Micro-SD card
 3. Power off the printer and plug the Micro-SD card into socket on control board
@@ -19,4 +13,7 @@
 5. reset the EEPROM after uploaded frimware:
 for LCD12864, MENU>>Configuration>>Advanced setting>>Initialize EEPROM
 for LCD_DWIN, MCNU>>Config>>Restore default
----
+
+
+## Wiring Diagram
+![](Z9M3_ZM3E4_Wiring_Diagram.jpg)
