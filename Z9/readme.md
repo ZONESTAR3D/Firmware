@@ -63,7 +63,10 @@
 
 
 # About the control board:
+## ZRIBV6
 ![ZRIBV6](ZRIBV6.jpg)
+
+## ZM3E4
 ![ZM3E4](ZM3E4.jpg)
 
 
