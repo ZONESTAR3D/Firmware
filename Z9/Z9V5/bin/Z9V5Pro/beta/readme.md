@@ -1,4 +1,8 @@
 # ***Release Note***
+## Z9V5Pro V1.3.1 beta
+- **Date:** 2021-12-03
+- [**New**] force to do once HOME while start bed leveling 
+
 ## Z9V5Pro V1.3.0 beta
 - **Date:** 2021-12-01
 - [**New**] Add a "***Control>>configre>>Max HOTEND Temp***" menu, so that you can upgrade to high temperature hotend. **ATTETION:Overheating may damaged the hotend, ensure your hotend can work in that temperature before set the temperature**.    

@@ -11,7 +11,7 @@
 4. Power on the printer, wait about 30 seconds
 
 ### Upload firmware to ZRIB & ZMIB control board  
-1. Download firmware upgrade tool: **/Firmware\_Upload\_tool\_for\_ZRIB\_ZMIB/Arduloader.zip**.
+1. Download firmware upgrade tool: **./Firmware\_Upload\_tool\_for\_ZRIB\_ZMIB/Arduloader.zip**.
 2. Download HEX file and copy the hex file to the same directory with the tool.   
 3. Unzip "Arduloader.zip" , there is a user guide"Arduloader_user_guide.pdf" in this zip file, please read it. 
 4. Connect the printer to your PC, please make sure the driver has been installed correctly. 
