@@ -1,8 +1,0 @@
-﻿2021-1-18  Z9V5_V1_0_0_EN.bin 	First issue
-
-2021-1-26  Z9V5_V1_0_1_EN.bin. 
-1.fixed some other known bugs;
-
-2021-4-5  Z9V5_V1_0_6_EN.bin. 
-1.LCD12864 interface moved from EXP2(outside) to EXP1(inside);
-2.Add WiFi function
