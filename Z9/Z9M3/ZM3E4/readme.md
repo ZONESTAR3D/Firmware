@@ -12,7 +12,7 @@ Please download firmware source code from [**Here**](https://github.com/ZONESTAR
 4. Power on the printer, wait about 30 seconds (need to push the DC power switch if you have installed it)
 5. Reset the EEPROM after uploaded frimware:    
 For LCD12864, `MENU>>Configuration>>Advanced setting>>Initialize EEPROM`   
-For LCD_DWIN, `MENU>>Contol>>Restore default`
+For LCD_DWIN, `MENU>>Contol>>Restore defaults`
 
 
 ## Wiring Diagram
