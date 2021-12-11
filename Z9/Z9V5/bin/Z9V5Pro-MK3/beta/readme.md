@@ -8,9 +8,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 # ***Release Note***
-## Z9V5Pro_MK3 V2.1.0 beta 
-- **Date:** 2021-12-03
+## Z9V5Pro_MK3 V2.1.1 beta
+- **Date:** 2021-12-11 
 - [**New**] force to do once HOME while start bed leveling
+- [**CHG**] Change MAX_AUTORETRACT to 20 (from 10 ). to solve the issue that the automatic extraction does not work while slicing set the "retraction length is bigger than 10 mm". About the setting of MAX_AUTORETRACT, please refer to  [**here**](https://marlinfw.org/docs/configuration/configuration.html#firmware-retraction)  
 
 ## Z9V5Pro_MK3 V2.1.0 beta 
 - **Date:** 2021-12-01 
