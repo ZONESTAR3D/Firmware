@@ -1,4 +1,9 @@
 ## Release Note
+### Z9V5Pro V1.3.2
+- **Date:** 2021-12-11
+- [**New**] force to do once HOME while start bed leveling 
+- [**CHG**] Change MAX_AUTORETRACT to 20 (from 10 ). to solve the issue that the automatic extraction does not work while slicing set the "retraction length is bigger than 10 mm". About the setting of MAX_AUTORETRACT, please refer to  [**here**](https://marlinfw.org/docs/configuration/configuration.html#firmware-retraction)      
+
 ### Z9V5Pro V1.3.0 
 - **Date:** 2021-12-01
 - [**New**] Add a "***Control>>configre>>Max HOTEND Temp***" menu, so that you can upgrade to high temperature hotend. **ATTETION:Overheating may damaged the hotend, ensure your hotend can work in that temperature before set the temperature**.    
