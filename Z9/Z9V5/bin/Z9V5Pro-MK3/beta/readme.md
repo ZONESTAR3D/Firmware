@@ -8,6 +8,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 # ***Release Note***
+## Z9V5Pro_MK3 V2.1.3 beta
+- **Date:** 2021-12-15 
+- [**CHG**] Auto HOME when do "Catch Z probe offset" and "Bed auto leveling" on LCD screen
+
 ## Z9V5Pro_MK3 V2.1.2 beta
 - **Date:** 2021-12-13 
 - [**BUG**] Initlize the current Extruder to #1 while starting print from SD card.   

@@ -8,13 +8,20 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 # ***Release Note***
-## Z9V5Pro_MK3 V2.1.0 
+## Z9V5Pro_MK3 V2.2
+- **Date:** 2021-12-15 
+- [**CHG**] Auto HOME first while do "Catch Z probe offset" and "Bed auto leveling" on LCD screen
+- [**BUG**] Initlize the current Extruder to #1 while starting print from SD card.   
+- [**New**] force to do once HOME while start bed leveling
+- [**CHG**] Change MAX_AUTORETRACT to 20 (from 10 ). to solve the issue that the automatic extraction does not work while slicing set the "retraction length is bigger than 10 mm". About the setting of MAX_AUTORETRACT, please refer to  [**here**](https://marlinfw.org/docs/configuration/configuration.html#firmware-retraction)  
+
+## Z9V5Pro_MK3 V2.1
 - **Date:** 2021-12-01 
 - [**New**] Add a "***Control>>configre>>Max HOTEND Temp***" menu, so that you can upgrade to high temperature hotend. **ATTETION: Overheating may damaged the hotend, ensure your hotend can work in that temperature before set the temperature.**  
 - [**NEW**] Add a "***Control>>configre>>PID AutoTune***" menu to auto tune the PID parameter.   **NOTE: While do PID autotune, please wait until the LCD show PID Auto tune finished!**  
 - [**CHG**] Correct the temperature table of hotend and hotbed to get more accurate temperature display  
 
-## Z9V5Pro_MK3 V2.0.1 
+## Z9V5Pro_MK3 V2.0
 - **Date:** 2021-10-26 
 - ***First release***
 
