@@ -9,6 +9,9 @@
 2. Copy firmware.bin to the root directory of Micro-SD card
 3. Power off the printer and plug the Micro-SD card into card socket of the control board
 4. Power on the printer, wait about 30 seconds
+5. Reset the EEPROM after uploaded firmware:
+	- For LCD12864: "MENU>>Configuration>>Advanced setting>>initialize  EEPROM"
+	- For LCD_DWIN: "MENU>>Control>>Restore Defaults" 
 
 ### Upload firmware to ZRIB & ZMIB control board  
 1. Download firmware upgrade tool: **./Firmware\_Upload\_tool\_for\_ZRIB\_ZMIB/Arduloader.zip**.
