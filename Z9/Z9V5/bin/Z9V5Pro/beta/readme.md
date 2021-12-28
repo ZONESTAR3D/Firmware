@@ -1,4 +1,8 @@
 ## ***Release Note***
+### Z9V5Pro V1.3.3 beta
+- **Date:** 2021-12-28
+- [**New**] Add auto repeat printing feature. 
+
 ### Z9V5Pro V1.3.1 beta
 - **Date:** 2021-12-03
 - [**New**] force to do once HOME while start bed leveling 
