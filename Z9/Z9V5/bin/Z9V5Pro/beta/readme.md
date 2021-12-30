@@ -1,4 +1,8 @@
 ## ***Release Note***
+### Z9V5Pro V1.3.4 beta
+- **Date:** 2021-12-30
+- [**New**] Add Base Heigth settings 
+
 ### Z9V5Pro V1.3.3 beta
 - **Date:** 2021-12-28
 - [**New**] Add auto repeat printing feature. 
