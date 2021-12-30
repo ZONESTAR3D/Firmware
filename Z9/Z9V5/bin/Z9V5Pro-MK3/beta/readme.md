@@ -8,6 +8,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 ## Release Note
+### Z9V5Pro_MK3 V2.2.2 beta
+- **Date:** 2021-12-30
+- [**BUG**] Add Base Heigth settings for repeat printing feature. 
+
 ### Z9V5Pro_MK3 V2.2.1 beta
 - **Date:** 2021-12-28
 - [**New**] Add auto repeat printing feature. 
