@@ -1,4 +1,8 @@
 ## Release Note
+### Z9V5Pro V1.3.3
+- **Date:** 2022-01-04
+- [**New**]Remove the OPTIONAL features. If you have upgrade the optional parts, please use the firmware in "beta" directory. 
+
 ### Z9V5Pro V1.3.2
 - **Date:** 2021-12-11
 - [**New**] force to do once HOME while start bed leveling 
