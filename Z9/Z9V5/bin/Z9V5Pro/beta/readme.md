@@ -1,4 +1,9 @@
 ## ***Release Note***
+### Z9V5Pro V1.3.5 beta
+- **Date:** 2022-01-07
+- [**New**] Add PID Tune menu 
+- [**CHG**] Change a little menu display 
+
 ### Z9V5Pro V1.3.1 beta
 - **Date:** 2021-12-03
 - [**New**] force to do once HOME while start bed leveling 
