@@ -1,7 +1,10 @@
 ## Release Note
-### Z9V5Pro V1.3.3
-- **Date:** 2022-01-04
-- [**New**]Remove the OPTIONAL features. If you have upgrade the optional parts, please use the firmware in "beta" directory. 
+### Z9V5Pro V1.3.5
+- **Date:** 2022-01-07
+- [**New**]Add "Hotend PID tune" menu.  
+- [**CHG**]Optimize the setting of motion to improve the printing quality.  
+- [**CHG**]Optimize menu display characters.
+- [**CHG**]Optimize automatic test display and process.
 
 ### Z9V5Pro V1.3.2
 - **Date:** 2021-12-11
