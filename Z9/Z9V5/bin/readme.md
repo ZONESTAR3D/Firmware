@@ -8,8 +8,8 @@
 
 ## Z9V5Pro-MK3
 ***what's different on Z9V5Pro-MK3 with Z9V5Pro(-MK1/MK2)**  
-1. Used TMC2225 on all extrdur motor drivers.  
-2. Used ZLsensor to replace PL-08N on bed leveling sensor.        
+1. Upgraded extruder motor driver module to TMC2225 from A4988.  
+2. Upgraded bed leveling sensor to ZL-sensor from PL-08N.        
 ![Z9V5Pro-MK3](Z9V5PRO-MK3.jpg)  
 
 ## How do I know if my machine is MK1, MK2 or MK3?
@@ -23,9 +23,9 @@ You can distinguish by serial number, there is a white lable on the power supply
 You can check the printer name from the LCD screen, refer to the below picture:
 
     Menu>>Info>>Model:
-- **Z9V5-MK1** and **Z9V5-MK2**: model is **Z9V5Pro**  
+- **Z9V5-MK1** and **Z9V5-MK2**: model is **Z9V5Pro** or **Z9V5Pro-MK1(2)**  
 - **Z9V5-MK3**: model is **Z9V5Pro-MK3**    
-![Z9V5_Info](Z9V5_Info.jPG)   
+![Z9V5_Info](info.jPG)   
 
 ## Firmware Upload Steps:
 1. Download the zip file and unzip it
