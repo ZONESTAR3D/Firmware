@@ -10,7 +10,7 @@ MENU>>config>>Restore Defaults
 ## Release Note
 ### Z9V5Pro V1.3.5
 - **Date:** 2022-01-07
-- [**New**]Add "Hotend PID tune" menu.  
+- [**New**]Add "Hotend PID tune" menu. Details of PID, please refer to [**here**](https://marlinfw.org/docs/configuration/configuration.html#pid).
 - [**CHG**]Optimize the setting of motion to improve the printing quality.  
 - [**CHG**]Optimize menu display characters.
 - [**CHG**]Optimize automatic test display and process.
