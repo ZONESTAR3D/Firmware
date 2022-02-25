@@ -1,4 +1,9 @@
 ## ***Release Note***
+### Z9V5Pro V1.3.6 beta
+- **Date:** 2022-02-23
+- [**BUG**] fix the bug of setting max hotend temperature.  
+- [**CHG**] Change LCD message while temperature error occured.  
+ 
 ### Z9V5Pro V1.3.5 beta
 - **Date:** 2022-01-07
 - [**New**] Add PID Tune menu 
