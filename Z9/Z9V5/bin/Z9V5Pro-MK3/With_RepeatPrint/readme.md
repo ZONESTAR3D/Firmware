@@ -1,4 +1,4 @@
-## Firmware Upload Steps:
+#### Firmware Upload Steps:
 1. Download the zip file and unzip it
 2. Copy firmware.bin to the root directory of Micro-SD card, 
 NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
@@ -8,20 +8,24 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 ## Release Note
-### Z9V5Pro_MK3 V2.3.1 beta
-- **Date:** 2022-02-25
-- [**BUG**] fix the bug of setting max hotend temperature.  
+### Z9V5Pro_MK3_RePrint_V2_3_1_beta
+- **Date:** 2022-02-26
+- [**BUG**] Fix the bug of setting max hotend temperature.  
 - [**CHG**] Change LCD message while temperature error occured.  
 
-### Z9V5Pro_MK3 V2.3.0 beta
-- **Date:** 2022-01-07
+### Z9V5Pro_MK3_RePrint_V2_3_0_beta
+- **Date:** 2022-01-05
 - [**New**]Add "Hotend PID tune" menu.  
 - [**CHG**]Optimize the setting of motion to improve the printing quality.  
 - [**CHG**]Optimize menu display characters.
 - [**CHG**]Optimize automatic test display and process.
 
+### Z9V5Pro_MK3 V2.2.3 beta
+- **Date:** 2021-01-06
+- [**BUG**] Add M183 command to print the next file. 
+
 ### Z9V5Pro_MK3 V2.2.2 beta
-- **Date:** 2021-12-30
+- **Date:** 2021-01-04
 - [**BUG**] Add Base Heigth settings for repeat printing feature. 
 
 ### Z9V5Pro_MK3 V2.2.1 beta
