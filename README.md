@@ -19,3 +19,9 @@
 3. Unzip "Arduloader.zip" , there is a user guide"Arduloader_user_guide.pdf" in this zip file, please read it. 
 4. Connect the printer to your PC, please make sure the driver has been installed correctly. 
 5. Follow "Arduloader_user_guide.pdf" to upload the firmware to your control board.
+
+## How to downlod files from Github page
+#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
+#### Step 2: Copy the Github file or direcotry link which you want to download.
+#### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
+![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   

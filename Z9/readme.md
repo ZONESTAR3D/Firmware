@@ -1,5 +1,11 @@
 # Firmware for ZONESTAR Z9  
 
+## How to downlod files from Github page
+####Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/)   
+####Step 2: Copy the Github file or direcotry link which you want to download.  
+####Step 3: Click download button and wait a few seconds, it will start to download automatically.  
+![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
+
 # Z9V5(-MK1/MK2)
 ## Default configurations:
 - Control board: ZM3E4 (32 bits control board)
