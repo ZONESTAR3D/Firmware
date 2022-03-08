@@ -1,4 +1,11 @@
 ## ***Release Note***
+### Z9V5Pro V1.3.7 beta
+- **Date:** 2022-03-08
+- [**CHG**] Correct HOTEND temperature.
+- [**CHG**] Change the menu [HOTEND Temp] to [Nozzle Temp].   
+- [**NEW**] Auto save "baby Z offset adjustment" on the previous printing. 
+- [**NEW**] Auto disable motors after did "Stop printing".
+
 ### Z9V5Pro V1.3.6 beta
 - **Date:** 2022-02-23
 - [**BUG**] fix the bug of setting max hotend temperature.  
