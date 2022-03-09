@@ -8,6 +8,13 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 ## Release Note
+### Z9V5Pro V2.4.0 beta
+#### :warning: You must to upgrade the DWIN LCD screen firmware before upgrade this firmware, otherwise it will cause some display issue on LCD MENU. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)
+- **Date:** 2022-03-09
+- [**NEW**] Upgrade to DWIN LCD MENU V2, [**See MENU V2 Guide**]()
+- [**NEW**] Add a "Mixing Feature" to switch on/off mixing feature.
+- [**NEW**] Add a Extruder sequence menu (only work on Non-mixing hotend).  
+
 ### Z9V5Pro V2.3.2 beta
 - **Date:** 2022-03-08
 - [**CHG**] Correct HOTEND temperature.
