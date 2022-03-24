@@ -12,9 +12,9 @@ Please download firmware source code from [**Here**](https://github.com/ZONESTAR
 ![](Z9V5.jpg)
 
 ## How to downlod files from Github page
-####Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/)   
-####Step 2: Copy the Github file or direcotry link which you want to download.  
-####Step 3: Click download button and wait a few seconds, it will start to download automatically.  
+#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/)   
+#### Step 2: Copy the Github file or direcotry link which you want to download.  
+#### Step 3: Click download button and wait a few seconds, it will start to download automatically.  
 ![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
 
 
