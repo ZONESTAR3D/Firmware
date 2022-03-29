@@ -1,3 +1,8 @@
+## :warning: !ATTETION PLEASE!
+You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4 or last version, otherwise it will cause some display issue on LCD MENU. 
+About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
+About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
+
 ## Firmware Upload Steps:
 1. Download the zip file and unzip it
 2. Copy firmware.bin to the root directory of Micro-SD card, 
@@ -7,9 +12,13 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
 MENU>>config>>Restore Defaults
 
+
 ## Release Note
+### Z9V5Pro V2.4.1 beta
+- **Date:** 2022-03-29
+- [**CHG**] Add nozzle temperature settings on Prepare>>Filament menu. 
+
 ### Z9V5Pro V2.4.0 beta
-#### :warning: You must to upgrade the DWIN LCD screen firmware before upgrade this firmware, otherwise it will cause some display issue on LCD MENU. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)
 - **Date:** 2022-03-09
 - [**NEW**] Upgrade to DWIN LCD MENU V2 [**Read the guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)
 - [**NEW**] Add a "Mixing Feature" to switch on/off mixing feature.
