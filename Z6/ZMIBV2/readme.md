@@ -12,7 +12,7 @@ Included firmware suource code
 ZMIB used a CP2102 USB to UART bridge chip, please download the new driver from [***Here***](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
 ## Upload firmware
-If you want to upload firmware to your 3D printer, please refer to the guide in [***Here***](../../Firmware_Upload_tool_for_ZRIB_ZMIB)
+If you want to upload firmware to your 3D printer, please refer to the guide in [***Here***](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
 
 ## Wiring
 ### Wiring diagram for Z6F
