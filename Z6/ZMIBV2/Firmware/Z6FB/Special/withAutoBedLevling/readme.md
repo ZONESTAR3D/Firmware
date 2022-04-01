@@ -16,10 +16,10 @@ Refer to the below picture to wiring the probe.
 ## Updata firmware
 1. Download the hex file from the "HEX" direcoty.  
 2. Upload the firmware to the control board.  
-:star: About how to upload firmware to the ZMIB control board, please refer to [***Here***](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
+:star2: About how to upload firmware to the ZMIB control board, please refer to [***Here***](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
 
 ## Set the Probe Z offset
-#### After the following conditions is occured, you may need to adjust the "Probe Z offset":   
+#### :warning: After the following conditions is occured, you may need to adjust the "Probe Z offset":   
 1. First time installation the probe or moved the probe position.    
 2. Hot bed height adjustment.  
 3. Hot bed sticker or the nozzle was replaced.  
@@ -30,8 +30,8 @@ Refer to the below picture to wiring the probe.
 3. Menu>>Motion>>Auto Home, wait it done.
 4. Menu>>Motion>>Move Axis>>Move Z>>Move 0.1mm, rotate the knob and watch the nozzle, stop until the nozzle is touched the bed, remember the Z axis height. e.g. (1.8mm)
 5. Menu>>Configration>>Probe Z Offset, set to -1.8mm
-6. Menu>>Configration>>Store Settings
-:star: After adjusted "Probe Z Offset", you need to do bed leveling again.
+6. Menu>>Configration>>Store Settings  
+:star2: After adjusted "Probe Z Offset", you need to do bed leveling again.
 
 ## Apply bed auto leveling feature
 There are two motheds to apply the bed auto leveling feature:  
