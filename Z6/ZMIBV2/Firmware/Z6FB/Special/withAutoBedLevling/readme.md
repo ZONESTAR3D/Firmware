@@ -3,18 +3,20 @@
 If your control board is ZMIB V2.1 or V2.2, you can upgrade bed automatic leveling feature for your Z6 machine by add the proximity sensor.  
 ## Wiring leveling sensor
 Refer to the below picture to wiring the probe.  
-![](wiring.png)
+![](wiring.svg)
 ## Install leveling sensor
 #### 1. Remove the Z ENDSTOP
-![](ZENDSTOP.png)
+![](ZENDSTOP.svg)
 #### 2. Refer to the below picture to install the probe to the right side of the hotend housing.  
 :warning: The installation height of the sensor shall meet the following two conditions:
 1. When the sensor works, the nozzle should be 1~3mm higher than the hot bed.
 2. The sensor bottom shall be no less than 2mm higher than the nozzle.
-![](install.png)
+![](Install.svg)
 
 ## Updata firmware
-About how to upload firmware to the ZMIB control board, please refer to [***Here***](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
+1. Download the hex file from the "HEX" direcoty.  
+2. Upload the firmware to the control board.  
+:star: About how to upload firmware to the ZMIB control board, please refer to [***Here***](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
 
 ## Set the Probe Z offset
 #### After the following conditions is occured, you may need to adjust the "Probe Z offset":   
@@ -40,8 +42,9 @@ Do the below steps:
 Then you can find the "Motion>>Bed Leveling>>Bed leveling:" show **ON**, it means the bed auto leveling is working.   
 Then you can print some gcode file from SD card, it will do auto bed leveling automatically.
 :warning: You need to do these steps again after the printer is reset (power off).  
-### Add a G29 command following the G28 command in the "start gcode" of slicing software. 
-![](G29.png)
+### Add a G29 command following the G28 command in the "start gcode" of slicing software.
+- Cura: Machine Settings>>Start Gcode 
+![](G29.svg)
 
 
 
