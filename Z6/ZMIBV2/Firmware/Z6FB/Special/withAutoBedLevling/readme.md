@@ -1,10 +1,10 @@
 # Z6FB firmware with bed leveling sensor
 ## Introduction
 If your control board is ZMIB V2.1 or V2.2, you can upgrade bed automatic leveling feature for your Z6 machine by add the proximity sensor.  
-## Wiring leveling sensor
+## Wiring
 Refer to the below picture to wiring the probe.  
 ![](wiring.svg)
-## Install leveling sensor
+## Installtion
 #### 1. Remove the Z ENDSTOP
 ![](ZENDSTOP.svg)
 #### 2. Refer to the below picture to install the probe to the right side of the hotend housing.  
@@ -13,7 +13,7 @@ Refer to the below picture to wiring the probe.
 2. The sensor bottom shall be no less than 2mm higher than the nozzle.
 ![](Install.svg)
 
-## Updata firmware
+## Upload firmware
 1. Download the hex file from the "HEX" direcoty.  
 2. Upload the firmware to the control board.  
 :star2: About how to upload firmware to the ZMIB control board, please refer to [***Here***](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
@@ -33,17 +33,17 @@ Refer to the below picture to wiring the probe.
 6. Menu>>Configration>>Store Settings  
 :star2: After adjusted "Probe Z Offset", you need to do bed leveling again.
 
-## Apply bed auto leveling feature
+## Apply the bed auto leveling feature
 There are two motheds to apply the bed auto leveling feature:  
-### Do bed leveling from the LCD screen  
+#### Do bed leveling from the LCD screen  
 Do the below steps:  
 1. Motion>>Bed Leveling>>Auto Home    
 2. Motion>>Bed Leveling>>Level Bed  
 Then you can find the "Motion>>Bed Leveling>>Bed leveling:" show **ON**, it means the bed auto leveling is working.   
 Then you can print some gcode file from SD card, it will do auto bed leveling automatically.
 :warning: You need to do these steps again after the printer is reset (power off).  
-### Add a G29 command following the G28 command in the "start gcode" of slicing software.
-- Cura: Machine Settings>>Start Gcode 
+#### Add a G29 command following the G28 command in the "start gcode" of slicing software.
+Take Cura as an example, add G29 in the "Machine Settings>>Start Gcode"
 ![](G29.svg)
 
 
