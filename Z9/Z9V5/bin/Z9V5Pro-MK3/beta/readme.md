@@ -15,7 +15,6 @@ MENU>>config>>Restore Defaults
 ## Release Note
 ### Z9V5Pro-MK3 V2.4.2 beta
 - **Date:** 2022-04-02
-- [**CHG**] Add Nozzle temperature setting on filament menu.
 - [**BUG**] Extend the waiting time to confirm the connection to prevent misjudgment (Connecting fail).
 
 ### Z9V5Pro-MK3 V2.4.1 beta
