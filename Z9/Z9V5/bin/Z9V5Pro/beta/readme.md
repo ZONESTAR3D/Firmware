@@ -1,4 +1,9 @@
 ## ***Release Note***
+### Z9V5Pro V1.3.8 beta
+- **Date:** 2022-04-01
+- [**CHG**] Add Nozzle temperature setting on filament menu.
+- [**BUG**] Extend the waiting time to confirm the connection to prevent misjudgment (Connecting fail).
+
 ### Z9V5Pro V1.3.7 beta
 - **Date:** 2022-03-08
 - [**CHG**] Correct HOTEND temperature.

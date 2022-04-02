@@ -1,5 +1,5 @@
-Date:    2021-07-15
-Version: V1.6.0
+### Date:    2021-07-15
+### Version: V1.6.0
 NOTE: 
 [NEW] (for LCD_DWIN) Add filament load/unload menu
 [NEW] (for LCD_DWIN) Add bed leveling data table shows on LCD screen
@@ -8,15 +8,15 @@ NOTE:
 [CHG] Automatically correct Z offset after "bed automatic leveling"(G29 command)
 
 
-Date:    2021-04-25
-Version: V1.5.0
+### Date:    2021-04-25
+### Version: V1.5.0
 NOTE:
 [NEW] Add Bedcoating setting
 [NEW] Add Auto Leveling featurn switch on configure Menu(DWIN_LCD)
 
 
-Date:    2021-04-25
-Version: V1.4.0
+### Date:    2021-04-25
+### Version: V1.4.0
 NOTE:
 [NEW] Add WiFi feature
 [CHG] Remaping the BLTouch wiring if 3DTouch feature is enabled
@@ -25,8 +25,8 @@ for LCD_DWIN            : LCD_DWIN>>EXP2 3DTouch>>EXP1
 
 
 
-Date:    2020-12-23
-Version: V1.3.0
+### Date:    2020-12-23
+### Version: V1.3.0
 NOTE:
 [CHG] Correct the display data transmit speed of LCD12864
 [NEW] Modify the Random mixing feature
@@ -38,20 +38,20 @@ when Extruders = 3, extruder 1,2,3 will be mixed on a random mixing ratio.
 when Extruders = 4, extruder 1,2,3,4 will be mixed on a random mixing ratio.
 [NEW] Auto reset the VTOOL setting to default if printed complete from SD card.
 
-Date:    2020-12-04
-Version: V1.2.5
+### Date:    2020-12-04
+### Version: V1.2.5
 NOTE:
 [DEBUG] Correct the display temperature when the ambient temperature is low
 
 
-Date:    2020-11-09
-Version: V1.2.4
+### Date:    2020-11-09
+### Version: V1.2.4
 NOTE:
 [DEBUG] fix an issue of power loss resume:
 when auto leveling feature is enable, it doesn't work well when resume from power loss
 
-Date:    2020-11-05
-Version: V1.2.3
+### Date:    2020-11-05
+### Version: V1.2.3
 NOTE:
 [DEBUG] fix an issue: when the file in the root directory on SD card, 
 "power loss fail resume" can't start to work.

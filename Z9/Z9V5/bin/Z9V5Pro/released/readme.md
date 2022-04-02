@@ -8,6 +8,17 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 ## Release Note
+### Z9V5Pro V1.3.8 beta
+- **Date:** 2022-04-01
+- [**CHG**] Add Nozzle temperature setting on filament menu.
+- [**BUG**] Extend the waiting time to confirm the connection to prevent misjudgment (Connecting fail).
+- [**CHG**] Correct HOTEND temperature.
+- [**CHG**] Change the menu [HOTEND Temp] to [Nozzle Temp].   
+- [**NEW**] Auto save "baby Z offset adjustment" on the previous printing. 
+- [**NEW**] Auto disable motors after did "Stop printing".
+- [**BUG**] fix the bug of setting max hotend temperature.  
+- [**CHG**] Change LCD message while temperature error occured.
+
 ### Z9V5Pro V1.3.5
 - **Date:** 2022-01-07
 - [**New**]Add "Hotend PID tune" menu. Details of PID, please refer to [**here**](https://marlinfw.org/docs/configuration/configuration.html#pid).
