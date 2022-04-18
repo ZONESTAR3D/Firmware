@@ -1,4 +1,9 @@
 ## ***Release Note***
+### Z9V5Pro V1.3.9 beta
+- **Date:** 2022-04-14
+- [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.
+- [**NEW**] Add "View User Guide" on INFO menu.
+
 ### Z9V5Pro V1.3.8 beta
 - **Date:** 2022-04-01
 - [**CHG**] Add Nozzle temperature setting on filament menu.

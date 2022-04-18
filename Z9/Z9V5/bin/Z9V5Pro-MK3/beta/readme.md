@@ -13,9 +13,19 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 ## Release Note
+
+-----------------------------------------
+#### LCD MENU 2.0
+-----------------------------------------
+
+### Z9V5Pro-MK3 V2.4.3 beta
+- **Date:** 2022-04-14
+- [**NEW**] Auto return to print menu if doesn't operature on tune menu.
+- [**NEW**] Add "View User Guide" on INFO menu.
+
 ### Z9V5Pro-MK3 V2.4.2 beta
 - **Date:** 2022-04-02
-- [**BUG**] Extend the waiting time to confirm the connection to prevent misjudgment (Connecting fail).
+- [**BUG**] Extend the waiting time to confirm the WiFi.
 
 ### Z9V5Pro-MK3 V2.4.1 beta
 - **Date:** 2022-03-29
@@ -26,6 +36,16 @@ MENU>>config>>Restore Defaults
 - [**NEW**] Upgrade to DWIN LCD MENU V2 [**Read the guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)
 - [**NEW**] Add a "Mixing Feature" to switch on/off mixing feature.
 - [**NEW**] Add a "Extr.Sequence" menu to exchange the extrders sequence (only work on Non-mixing hotend).  
+
+
+-----------------------------------------
+#### LCD MENU 1.0
+-----------------------------------------
+
+### Z9V5Pro-MK3 V2.3.4 beta
+- **Date:** 2022-04-14
+- [**NEW**] Auto return to print menu if doesn't operature on tune menu.
+- [**NEW**] Add "View User Guide" on INFO menu.
 
 ### Z9V5Pro-MK3 V2.3.3 beta
 - **Date:** 2022-04-02
