@@ -17,6 +17,10 @@ MENU>>config>>Restore Defaults
 -----------------------------------------
 #### LCD MENU 2.0
 -----------------------------------------
+### Z9V5Pro-MK3 V2.4.5 beta
+- **Date:** 2022-04-20
+- [**BUG**] Fix the issue can't find the SD card.
+- [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected(need to add WiFi module).
 
 ### Z9V5Pro-MK3 V2.4.3 beta
 - **Date:** 2022-04-14
@@ -41,6 +45,10 @@ MENU>>config>>Restore Defaults
 -----------------------------------------
 #### LCD MENU 1.0
 -----------------------------------------
+### Z9V5Pro-MK3 V2.3.5 beta
+- **Date:** 2022-04-20
+- [**BUG**] Fix the issue can't find the SD card.
+- [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected(need to add WiFi module).
 
 ### Z9V5Pro-MK3 V2.3.4 beta
 - **Date:** 2022-04-14

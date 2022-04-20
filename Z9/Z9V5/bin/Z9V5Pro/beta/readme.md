@@ -1,4 +1,9 @@
 ## ***Release Note***
+### Z9V5Pro V1.4.0 beta
+- **Date:** 2022-04-15
+- [**BUG**] Fix the issue can't find the SD card.
+- [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected(need to add WiFi module).
+
 ### Z9V5Pro V1.3.9 beta
 - **Date:** 2022-04-14
 - [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.
