@@ -1,4 +1,4 @@
-#### Firmware Upload Steps
+#### :green_book: Firmware Upload Steps
 1. Download the zip file and unzip it
 2. Copy firmware.bin to the root directory of Micro-SD card, 
 NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
@@ -7,14 +7,14 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
 MENU>>config>>Restore Defaults
 
-#### :warning: !ATTETION PLEASE!
+#### :warning: !ATTETION PLEASE! DWIN LCD MENU V2
 1. You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
 2. We will stop to release firmware for "DWIN LCD MENU V1" from 2022-04-20, V1.4.0 will be the last version for "DWIN LCD MENU V1".
 3. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
 4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
 
 ## Release Note
-DWIN LCD MENU V2
+DWIN LCD MENU V2:point_up:
 ----------------
 
 ### Z9V5Pro V2.0.0
