@@ -16,7 +16,7 @@
   - 4x A4988 used on extruder steps motors
 - LCD Screen: 
  - Z9V5: 128x64 dots LCD screen for   
- - Z9Pro: 4.3INCH TFT-LCD  
+ - Z9V5Pro: 4.3" TFT-LCD  
 ## Upgradeable configurations:- 
 - Upgrade to Dual Gear extruders
 - Upgrade to BL-Touch/ZLSensor bed leveling sensor
@@ -27,7 +27,7 @@
 - Extrude system: 4 Titan Extrusion feeder + 4-IN-1-OUT hotend.
 - Bed Auto leveling sensor: ZL-SENSOR
 - Motor drivers: 8x TMC2225 motor drivers
-- LCD Screen: 4.3INCH TFT-LCD  
+- LCD Screen: 4.3" TFT-LCD  
 
 # Z9M4
 ## Default configurations:
