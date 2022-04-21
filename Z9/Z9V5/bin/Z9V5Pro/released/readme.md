@@ -1,4 +1,4 @@
-### [Firmware Upload Steps](#firmware-updload-steps)
+### [Firmware Upload Steps](#firmware_updload_step)
 
 ### :warning: !ATTETION PLEASE!
 1. You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
@@ -154,7 +154,7 @@ Following the below steps to do:
 - **Date:** 2021-1-15
 - ***First release***
 
-#### Firmware Upload Steps
+#### Firmware_Upload_Steps
 1. Download the zip file and unzip it
 2. Copy firmware.bin to the root directory of Micro-SD card, 
 NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
