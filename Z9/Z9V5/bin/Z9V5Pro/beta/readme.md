@@ -2,7 +2,7 @@
 ### Z9V5Pro V1.4.0 beta
 - **Date:** 2022-04-15
 - [**BUG**] Fix the issue can't find the SD card.
-- [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected(need to add WiFi module).
+- [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected (WiFi module is required).
 
 ### Z9V5Pro V1.3.9 beta
 - **Date:** 2022-04-14
@@ -12,7 +12,7 @@
 ### Z9V5Pro V1.3.8 beta
 - **Date:** 2022-04-01
 - [**CHG**] Add Nozzle temperature setting on filament menu.
-- [**BUG**] Extend the waiting time to confirm the connection to prevent misjudgment (Connecting fail).
+- [**BUG**] Extend the waiting time to confirm the connection of WiFi.
 
 ### Z9V5Pro V1.3.7 beta
 - **Date:** 2022-03-08

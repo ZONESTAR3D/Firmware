@@ -15,7 +15,7 @@ MENU>>config>>Restore Defaults
 ## Release Note
 
 -----------------------------------------
-#### LCD MENU 2.0
+#### DWIN LCD MENU 2
 -----------------------------------------
 ### Z9V5Pro-MK3 V2.4.5 beta
 - **Date:** 2022-04-20
@@ -43,7 +43,7 @@ MENU>>config>>Restore Defaults
 
 
 -----------------------------------------
-#### LCD MENU 1.0
+#### DWIN LCD MENU V1
 -----------------------------------------
 ### Z9V5Pro-MK3 V2.3.5 beta
 - **Date:** 2022-04-20

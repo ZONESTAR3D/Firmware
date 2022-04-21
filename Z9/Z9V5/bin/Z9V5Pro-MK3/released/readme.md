@@ -42,8 +42,3 @@ MENU>>config>>Restore Defaults
 ### Z9V5Pro-MK3 V2.0
 - **Date:** 2021-10-26 
 - ***First release***
-
-
-
-
-

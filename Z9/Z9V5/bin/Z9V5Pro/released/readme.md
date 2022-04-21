@@ -1,17 +1,36 @@
-#### Firmware Upload Steps:
-1. Download the zip file and unzip it
-2. Copy firmware.bin to the root directory of Micro-SD card, 
-NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
-3. Power off the printer and plug the Micro-SD card into socket on control board
-4. Power on the printer, push the power button and wait about 30 seconds
-5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
-MENU>>config>>Restore Defaults
+### [Firmware Upload Steps](#firmware-updload-steps)
+
+### :warning: !ATTETION PLEASE!
+1. You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
+2. We will stop to release firmware for "DWIN LCD MENU V1" from 2022-04-20, V1.4.0 will be the last version for "DWIN LCD MENU V1".
+3. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
+4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
 
 ## Release Note
-### Z9V5Pro V1.3.8 beta
+----------------
+DWIN LCD MENU V2
+----------------
+
+### Z9V5Pro V2.0.0
+- **Date:** 2022-04-20
+- [**NEW**] Upgrade to DWIN LCD MENU V2
+
+----------------
+DWIN LCD MENU V1
+----------------
+### Z9V5Pro V1.4.0
+- **Date:** 2022-04-20
+- [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.
+- [**NEW**] Add "View User Guide" on INFO menu.
+- [**NEW**] Add "View Update News" on INFO menu.
+- [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected (WiFi module is required).
+- [**CHG**] Change "Mixing Feature" to "Hotend Type" on "Control>>Configure" menu.
+- [**NEW**] Add "Extr. Sequence" menu to exchange the extruders while hotend type is Non-mixing hotend.
+
+### Z9V5Pro V1.3.8
 - **Date:** 2022-04-01
 - [**CHG**] Add Nozzle temperature setting on filament menu.
-- [**BUG**] Extend the waiting time to confirm the connection to prevent misjudgment (Connecting fail).
+- [**BUG**] Extend the waiting time to confirm the connection of WiFi.
 - [**CHG**] Correct HOTEND temperature.
 - [**CHG**] Change the menu [HOTEND Temp] to [Nozzle Temp].   
 - [**NEW**] Auto save "baby Z offset adjustment" on the previous printing. 
@@ -135,7 +154,11 @@ Following the below steps to do:
 - **Date:** 2021-1-15
 - ***First release***
 
-
-
-
-
+#### Firmware Upload Steps
+1. Download the zip file and unzip it
+2. Copy firmware.bin to the root directory of Micro-SD card, 
+NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
+3. Power off the printer and plug the Micro-SD card into socket on control board
+4. Power on the printer, push the power button and wait about 30 seconds
+5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
+MENU>>config>>Restore Defaults
