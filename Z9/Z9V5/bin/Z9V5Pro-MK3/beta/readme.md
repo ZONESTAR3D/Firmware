@@ -1,9 +1,9 @@
-## :warning: !ATTETION PLEASE!
-You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4 or last version, otherwise it will cause some display issue on LCD MENU. 
-About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
+#### :warning: !ATTETION PLEASE! About DWIN LCD MENU 2
+1. You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4 or last version, otherwise it will cause some display issue on LCD MENU. 
+2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
+3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
 
-## Firmware Upload Steps:
+#### Firmware Upload Steps:
 1. Download the zip file and unzip it
 2. Copy firmware.bin to the root directory of Micro-SD card, 
 NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
@@ -15,8 +15,15 @@ MENU>>config>>Restore Defaults
 ## Release Note
 
 -----------------------------------------
-#### DWIN LCD MENU 2
------------------------------------------
+### DWIN LCD MENU 2 ::
+
+### Z9V5Pro-MK3 V2.4.6 beta
+- **Date:** 2022-04-22
+- [**BUG**] Fix bug on hotend max temp setting.
+- [**BUG**] Fix bug on display on hotend high temperature.
+- [**NEW**] Turn off WiFi settings if WiFi connection is fail.
+- [**NEW**] Add a "Updates News" on info Menu.
+
 ### Z9V5Pro-MK3 V2.4.5 beta
 - **Date:** 2022-04-20
 - [**BUG**] Fix the issue can't find the SD card.
@@ -41,10 +48,16 @@ MENU>>config>>Restore Defaults
 - [**NEW**] Add a "Mixing Feature" to switch on/off mixing feature.
 - [**NEW**] Add a "Extr.Sequence" menu to exchange the extrders sequence (only work on Non-mixing hotend).  
 
+-----------------------------------------
+### DWIN LCD MENU V1
 
------------------------------------------
-#### DWIN LCD MENU V1
------------------------------------------
+### Z9V5Pro-MK3 V2.3.6 beta
+- **Date:** 2022-04-22
+- [**BUG**] Fix bug on hotend max temp setting.
+- [**BUG**] Fix bug on display on hotend high temperature.
+- [**NEW**] Turn off WiFi settings if WiFi connection is fail.
+- [**NEW**] Add a "Updates News" on info Menu
+
 ### Z9V5Pro-MK3 V2.3.5 beta
 - **Date:** 2022-04-20
 - [**BUG**] Fix the issue can't find the SD card.
