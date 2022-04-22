@@ -14,15 +14,18 @@ MENU>>config>>Restore Defaults
 4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
 
 ## Release Note
-DWIN LCD MENU V2:point_up:
+
 ----------------
+DWIN LCD MENU V2:point_up:
+
 
 ### Z9V5Pro V2.0.0
 - **Date:** 2022-04-20
 - [**NEW**] Upgrade to DWIN LCD MENU V2
 
-DWIN LCD MENU V1
 ----------------
+DWIN LCD MENU V1
+
 ### Z9V5Pro V1.4.0
 - **Date:** 2022-04-20
 - [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.

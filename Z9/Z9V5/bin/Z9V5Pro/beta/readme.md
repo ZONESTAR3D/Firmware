@@ -1,4 +1,39 @@
+#### :warning: !ATTETION PLEASE! About 
+#### About DWIN LCD MENU V2
+1. You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
+2. We will stop releasing firmware for "DWIN LCD MENU V1" after the end of April 2022, V1.4.x will be the last version for "DWIN LCD MENU V1", we recommend that you upgrade the firmware of the 4.2" DWIN LCD screen as soon as possible.
+3. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
+4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
+
+#### :green_book: Firmware Upload Steps
+1. Download the zip file and unzip it
+2. Copy firmware.bin to the root directory of Micro-SD card, 
+NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
+3. Power off the printer and plug the Micro-SD card into socket on control board
+4. Power on the printer, push the power button and wait about 30 seconds
+5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
+MENU>>config>>Restore Defaults
+
 ## ***Release Note***
+
+----
+DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
+
+### Z9V5Pro V2.0.1 beta
+- [**BUG**] Fix bug on hotend max temp setting.
+- [**BUG**] Fix bug on display on hotend high temperature.
+- [**NEW**] Turn off WiFi settings if WiFi connection is fail.
+- [**NEW**] Add a "Viwe Update News" on info Menu.
+
+----
+DWIN LCD MENU V1
+
+### Z9V5Pro V1.4.1 beta
+- [**BUG**] Fix bug on hotend max temp setting.
+- [**BUG**] Fix bug on display on hotend high temperature.
+- [**NEW**] Turn off WiFi settings if WiFi connection is fail.
+- [**NEW**] Add a "Viwe Update News" on info Menu.
+
 ### Z9V5Pro V1.4.0 beta
 - **Date:** 2022-04-15
 - [**BUG**] Fix the issue can't find the SD card.
@@ -138,8 +173,3 @@ Following the below steps to do:
 - [**CHG**] Dwin screen refreshes the display after receiving m166 m167 instruction;
 - [**CHG**] Automatic retraction speed modification;
 - [**BUG**] fixed some other known bugs;
-
-
-
-
-
