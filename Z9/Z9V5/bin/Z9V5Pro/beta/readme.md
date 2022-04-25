@@ -22,13 +22,19 @@ DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
 ### Z9V5Pro V2.0.1 beta
 - [**BUG**] Fix bug on hotend max temp setting.
 - [**BUG**] Fix bug on display on hotend high temperature.
+- [**BUG**] Fix bug on print time.
 - [**NEW**] Turn off WiFi settings if WiFi connection is fail.
 - [**NEW**] Add a "Viwe Update News" on info Menu.
 
 ----
 DWIN LCD MENU V1
 
+### Z9V5Pro V1.4.2 beta
+- **Date:** 2022-04-25
+- [**BUG**] Fix bug on print time.
+
 ### Z9V5Pro V1.4.1 beta
+- **Date:** 2022-04-22
 - [**BUG**] Fix bug on hotend max temp setting.
 - [**BUG**] Fix bug on display on hotend high temperature.
 - [**NEW**] Turn off WiFi settings if WiFi connection is fail.

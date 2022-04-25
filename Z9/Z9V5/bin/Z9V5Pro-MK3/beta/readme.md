@@ -17,6 +17,9 @@ MENU>>config>>Restore Defaults
 
 -----------------------------------------
 ### DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
+## Z9V5Pro-MK3 V2.4.5 beta
+- **Date:** 2022-04-25
+- [**BUG**] Fix bug on print time
 
 ### Z9V5Pro-MK3 V2.4.6 beta
 - **Date:** 2022-04-22
