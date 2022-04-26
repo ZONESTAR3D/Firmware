@@ -31,7 +31,7 @@ DWIN LCD MENU V1
 
 ### Z9V5Pro V1.4.2 beta
 - **Date:** 2022-04-25
-- [**BUG**] Fix bug on print time.
+- [**BUG**] Fix bug on print time shows.
 
 ### Z9V5Pro V1.4.1 beta
 - **Date:** 2022-04-22
