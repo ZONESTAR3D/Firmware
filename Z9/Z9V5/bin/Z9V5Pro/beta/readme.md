@@ -18,6 +18,9 @@ MENU>>config>>Restore Defaults
 
 ----
 DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
+### Z9V5Pro V2.0.2 beta
+- **Date:** 2022-04-25
+- [**BUG**] Fix bug on print time shows.
 
 ### Z9V5Pro V2.0.1 beta
 - [**BUG**] Fix bug on hotend max temp setting.
