@@ -17,9 +17,13 @@ MENU>>config>>Restore Defaults
 
 -----------------------------------------
 ### DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
-## Z9V5Pro-MK3 V2.4.5 beta
+### Z9V5Pro-MK3 V2.4.8 beta
+- **Date:** 2022-05-13
+- [**NEW**] Add a menu to adjust the brightness of LOGO backlight
+
+### Z9V5Pro-MK3 V2.4.7 beta
 - **Date:** 2022-04-25
-- [**BUG**] Fix bug on print time
+- [**BUG**] Correct print time (printed time and remain time)
 
 ### Z9V5Pro-MK3 V2.4.6 beta
 - **Date:** 2022-04-22

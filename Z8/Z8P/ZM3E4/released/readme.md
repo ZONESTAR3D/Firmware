@@ -15,6 +15,10 @@ MENU>>config>>Restore Defaults
 4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
 
 ## Release Note
+### Z8PM4Pro V2.1.0
+- **Date:** 2022-04-25
+- [**BUG**] Correct print and remine time
+
 ### Z8PM4Pro V2.0.0
 - **Date:** 2022-04-25
 - [**NEW**] Upgrade to DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
