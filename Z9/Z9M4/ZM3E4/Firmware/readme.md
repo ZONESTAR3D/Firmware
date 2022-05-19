@@ -1,8 +1,9 @@
-## Firmware Upload Steps:
+## :book: Firmware Upload Steps:
 1. Download the zip file and unzip it
-2. Copy firmware.bin to the root directoy of Micro-SD card
+2. Copy firmware.bin to the root directory of Micro-SD card, 
+NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 3. Power off the printer and plug the Micro-SD card into socket on control board
-4. Power on the printer, wait about 30 seconds
+4. Power on the printer, push the power button and wait about 30 seconds
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
 - **for LCD12864** ***MENU>>Configuration>>Advanced setting>>initialize  EEPROM***
 - **for LCD_DWIN** ***MENU>>Control>>Restore Default***
@@ -15,15 +16,25 @@ About wiring, please refer to "Z9M4 Firmware and Wiring Diagram.pdf"
 ![how to change motor woking direction](./how_to_change_motor_woking_direction.jpg)
 
 ## Release Note
+### Version: V2.0.0_beta
++ Date: 	 2022-05-19
++ NOTE:
+>
+- [**NEW**] Upgrade to DWIN LCD MENU V2
+#### :warning: About DWIN LCD MENU V2
+1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
+2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
+3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
+
 ### Version: V1.7.0_beta  
 + Date: 	 2022-01-14
 + NOTE:
 >
 - [**CHG**]Optimize the setting of motion to improve the printing quality.  
-- [**CHG**]Optimize menu display characters.
-- [**CHG**]Optimize automatic test display and process.
-- [**CHG**]Add "Hotend PID Tune" menu (for LCD_DWIN)
-- [**BUG**]fix some bugs
+- [**CHG**]Optimize menu display characters (for LCD_DWIN).
+- [**CHG**]Optimize automatic test display and process (for LCD_DWIN).
+- [**CHG**]Add "Hotend PID Tune" menu (for LCD_DWIN).
+- [**BUG**]fix some bugs.
  
 ### Version: V1.6.0
 + Date:    2021-07-15
