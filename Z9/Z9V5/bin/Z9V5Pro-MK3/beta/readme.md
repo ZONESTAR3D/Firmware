@@ -2,9 +2,9 @@
 #### About DWIN LCD MENU V2
 1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4 or last version, otherwise it will cause some display issue on LCD MENU. 
 2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
+3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD%20DWIN%20MENU%20Description%20V2.pdf)  
 
-#### :green_book: Firmware Upload Steps:
+#### :book: Firmware Upload Steps:
 1. Download the zip file and unzip it
 2. Copy firmware.bin to the root directory of Micro-SD card, 
 NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
@@ -14,9 +14,15 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 MENU>>config>>Restore Defaults
 
 ## Release Note
-
 -----------------------------------------
 ### DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
+### Z9V5Pro-MK3 V2.4.9 beta
+- **Date:** 2022-06-18
+- [**BUG**] To solve the misjudgment issue on checking the hot bed when the ambient temperature is low in the automatic test program.
+- [**CHG**] Optimize automatic test display.
+- [**CHG**] Allow to move extruder motors without heating the nozzle.
+- [**CHG**] Allow to move extruder motors while printing is paused.
+
 ### Z9V5Pro-MK3 V2.4.8 beta
 - **Date:** 2022-05-13
 - [**NEW**] Add a menu to adjust the brightness of LOGO backlight
@@ -52,7 +58,7 @@ MENU>>config>>Restore Defaults
 
 ### Z9V5Pro-MK3 V2.4.0 beta
 - **Date:** 2022-03-09
-- [**NEW**] Upgrade to DWIN LCD MENU V2 [**Read the guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)
+- [**NEW**] Upgrade to DWIN LCD MENU V2. For details, please refer to [here](#about-dwin-lcd-menu-v2)
 - [**NEW**] Add a "Mixing Feature" to switch on/off mixing feature.
 - [**NEW**] Add a "Extr.Sequence" menu to exchange the extrders sequence (only work on Non-mixing hotend).  
 
