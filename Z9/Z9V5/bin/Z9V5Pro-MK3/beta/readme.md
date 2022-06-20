@@ -65,6 +65,15 @@ MENU>>config>>Restore Defaults
 -----------------------------------------
 ### DWIN LCD MENU V1
 
+### Z9V5Pro-MK3 V2.3.9 beta
+- **Date:** 2022-06-20
+- [**BUG**] Correct print time (printed time and remain time)
+- [**BUG**] To solve the misjudgment issue on checking the hot bed when the ambient temperature is low in the automatic test program.
+- [**CHG**] Optimize automatic test display.
+- [**CHG**] Allow to move extruder motors without heating the nozzle.
+- [**CHG**] Allow to move extruder motors while printing is paused.
+- [**NEW**] Add a menu to adjust the brightness of LOGO backlight
+
 ### Z9V5Pro-MK3 V2.3.6 beta
 - **Date:** 2022-04-22
 - [**BUG**] Fix bug on hotend max temp setting.
