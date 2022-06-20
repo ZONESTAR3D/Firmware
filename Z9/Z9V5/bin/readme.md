@@ -25,7 +25,7 @@ You can check the printer name from the LCD screen, refer to the below picture:
     Menu>>Info>>Model:
 - **Z9V5-MK1** and **Z9V5-MK2**: model is **Z9V5Pro** or **Z9V5Pro-MK1(2)**  
 - **Z9V5-MK3**: model is **Z9V5Pro-MK3**    
-![Z9V5_Info](info.jPG)   
+![Z9V5_Info](info.jpg)   
 
 ## Firmware Upload Steps:
 1. Download the zip file and unzip it
