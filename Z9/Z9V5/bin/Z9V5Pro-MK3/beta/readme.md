@@ -1,4 +1,9 @@
 #### :warning: !ATTETION PLEASE! 
+#### About DWIN LCD MENU V3
+1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. 
+2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
+3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD%20DWIN%20MENU%20Description%20V2.pdf)  
+
 #### About DWIN LCD MENU V2
 1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4 or last version, otherwise it will cause some display issue on LCD MENU. 
 2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
@@ -15,7 +20,20 @@ MENU>>config>>Restore Defaults
 
 ## Release Note
 -----------------------------------------
+### DWIN LCD MENU V3 [:point_up:](#about-dwin-lcd-menu-v3)
+### Z9V5Pro-MK3 V3.0.0 beta
+- **Date:** 2022-07-06
+- [**NEW**] Add a "flow rate" tune menu when priinting from SD card  
+**NOTE** it need upgrade to DWIN LCD MENU V3
+
+-----------------------------------------
 ### DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
+### Z9V5Pro-MK3 V2.5.0 beta
+- **Date:** 2022-07-01
+- [**BUG**] Fix issue on disply string.
+- [**BUG**] Fix issue when adjust Z offset when auto bed leveling is actived
+- [**CHG**] Backlight shows as "Breathing lamp" when auto shutdown is on
+
 ### Z9V5Pro-MK3 V2.4.9 beta
 - **Date:** 2022-06-18
 - [**BUG**] To solve the misjudgment issue on checking the hot bed when the ambient temperature is low in the automatic test program.
