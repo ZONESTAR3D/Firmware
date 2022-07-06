@@ -1,13 +1,9 @@
 #### :warning: !ATTETION PLEASE! 
 #### About DWIN LCD MENU V3
-1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. 
-2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD%20DWIN%20MENU%20Description%20V2.pdf)  
+You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 
 #### About DWIN LCD MENU V2
-1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4 or last version, otherwise it will cause some display issue on LCD MENU. 
-2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD%20DWIN%20MENU%20Description%20V2.pdf)  
+You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 
 #### :book: Firmware Upload Steps:
 1. Download the zip file and unzip it
@@ -76,7 +72,7 @@ MENU>>config>>Restore Defaults
 
 ### Z9V5Pro-MK3 V2.4.0 beta
 - **Date:** 2022-03-09
-- [**NEW**] Upgrade to DWIN LCD MENU V2. For details, please refer to [here](#about-dwin-lcd-menu-v2)
+- [**NEW**] Upgrade to DWIN LCD MENU V2. For details, please refer to :point_up: [**here**](#about-dwin-lcd-menu-v2)
 - [**NEW**] Add a "Mixing Feature" to switch on/off mixing feature.
 - [**NEW**] Add a "Extr.Sequence" menu to exchange the extrders sequence (only work on Non-mixing hotend).  
 
