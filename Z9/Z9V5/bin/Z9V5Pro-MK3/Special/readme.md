@@ -1,12 +1,9 @@
-#### Firmware Upload Step[#firmware-upload-step]
+#### [Firmware Upload Step](#firmware-upload-step)
 
-## :warning: These firmware aren't test, if there is any question, please feel free to let me know, thanks!
-email: hally@zonestar3d.com
+### :warning: These firmware haven't test, if there is any question, please feel free to let me know, thanks! Email: hally@zonestar3d.com
 
 ### Z9V5Pro-MK3-TMC2209_V3_0_0
 Z9V5Pro-MK3_V3.0.0, changed all motor drivers to TMC2209
-
-
 
 #### Firmware Upload Step
 1. Download the zip file and unzip it
