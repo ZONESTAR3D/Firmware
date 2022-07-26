@@ -1,6 +1,9 @@
 #### :warning: !ATTETION PLEASE! About 
+#### About DWIN LCD MENU V3
+You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
+
 #### About DWIN LCD MENU V2
-1. You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
+1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 2. We will stop releasing firmware for "DWIN LCD MENU V1" after the end of April 2022, V1.4.x will be the last version for "DWIN LCD MENU V1", we recommend that you upgrade the firmware of the 4.2" DWIN LCD screen as soon as possible.
 3. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
 4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD%20DWIN%20MENU%20Description%20V2.pdf)  
@@ -17,8 +20,23 @@ MENU>>config>>Restore Defaults
 ## ***Release Note***
 
 ----
+### DWIN LCD MENU V3 [:point_up:](#about-dwin-lcd-menu-v3)
+### Z9V5Pro V3.0.0 beta [:arrow_down:](Z9V5Pro_V3_0_0_beta.rar)
+- **Date:** 2022-07-06
+- [**NEW**] Add a "flow rate" tune menu when priinting from SD card  
+- [**NEW**] Add a menu to adjust the brightness of LOGO backlight
+- [**BUG**] Fix issue on disply string.
+- [**BUG**] Fix issue when adjust Z offset when auto bed leveling is actived
+- [**BUG**] To solve the misjudgment issue on checking the hot bed when the ambient temperature is low in the automatic test program.
+- [**CHG**] Optimize automatic test display.
+- [**CHG**] Allow to move extruder motors without heating the nozzle.
+- [**CHG**] Allow to move extruder motors while printing is paused.
+
+**NOTE** it need upgrade to DWIN LCD MENU V3
+
+----
 DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
-### Z9V5Pro V2.0.2 beta
+### Z9V5Pro V2.0.2 beta [:arrow_down:](Z9V5Pro_V2_0_2_beta.zip)
 - **Date:** 2022-04-25
 - [**BUG**] Fix bug on print time shows.
 
@@ -32,7 +50,7 @@ DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
 ----
 DWIN LCD MENU V1
 
-### Z9V5Pro V1.4.2 beta
+### Z9V5Pro V1.4.2 beta [:arrow_down:](Z9V5Pro_V1_4_2_Beta.zip)
 - **Date:** 2022-04-25
 - [**BUG**] Fix bug on print time shows.
 
