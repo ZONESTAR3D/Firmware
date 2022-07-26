@@ -15,10 +15,10 @@ You can check the printer name from the LCD screen, refer to the below picture:
 - **Z9V5-MK4**: model is **Z9V5Pro-MK4**    
 ![Z9V5_Info](info.jpg)   
 
-## what's different on Z9V5Pro-MK1, MK2, MK3 and MK4 
+## What's different on Z9V5Pro-MK1, MK2, MK3 and MK4 
 **Please refer to :point_right: [here](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)**
 
-## what's different on Z9V5 and Z9V5-PRO
+## What's different between Z9V5 with Z9V5Pro
 **Z9V5 equiped with LCD12864 LCD screen and hotbed sticker**    
 **Z9V5Pro equiped with a 4.3" TFT-LCD screen and a glass print platform**    
 **NOTE: We stop to produce Z9V5 since Z9V5-MK2.**  
