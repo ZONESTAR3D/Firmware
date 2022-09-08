@@ -21,5 +21,4 @@ If the firmware is upgraded with new features, please check the instructions for
 **NOTE:!!if there is a "old_fw.bin" in the SD card, delete it first!!**
 1. Power off the printer and plug the Micro-SD card into socket on control board.
 1. Power on the printer, push the power button and wait about 30 seconds.
-1. Do the below step on LCD screen to initialize EEPROM after upload firmware:  
-    `MENU>>Control>>Restore Defaults`
+1. Do the below step on LCD screen to initialize EEPROM after upload firmware:  ***MENU>>Control>>Restore Defaults***
