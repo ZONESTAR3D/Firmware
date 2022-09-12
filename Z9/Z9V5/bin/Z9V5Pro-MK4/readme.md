@@ -1,10 +1,10 @@
-## Released
-**Released firmware** are for the mass production machine. If you did not upgrade any features, please use the firmware in this directory.  
-
+## [Released](./Released/)
+Released firmware are for the mass production machine. If you did not upgrade any features, please use the firmware in this directory.    
+:point_right:[**Released firmware**](./Released/readme.md)
  
-## Beta
-**Beta firmware** have the latest update features, but it may be unstable.
-
+## [Beta](./Beta/)
+Beta firmware have the latest update features, but it may be unstable.    
+:point_right:[**Beta firmware**](./Beta/readme.md)
 
 #### Firmware Upload Steps  
 1. Download the zip file and unzip it
