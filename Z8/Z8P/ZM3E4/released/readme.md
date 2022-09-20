@@ -14,11 +14,11 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
 
 ## Release Note
-### Z8PM4Pro V2.1.0
+### Z8PM4Pro V2.1.0 [:arrow_down:Download](./Z8PM4Pro_V2_1_0.zip)
 - **Date:** 2022-04-25
 - [**BUG**] Correct print and remine time
 
-### Z8PM4Pro V2.0.0
+### Z8PM4Pro V2.0.0 [:arrow_down:Download](./Z8PM4Pro_V2_0_0.zip)
 - **Date:** 2022-04-25
 - [**NEW**] Upgrade to DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
 - [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.
@@ -38,6 +38,6 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 - [**CHG**] Change the menu [HOTEND Temp] to [Nozzle Temp].   
 - [**CHG**] Change LCD message while temperature error occured.
 
-### Z8PM4Pro V1.3.0
-- **Date:** 2022-03-25
+### Z8PM4Pro V1.3.0 [:arrow_down:Download](./Z8PM4Pro_V1_3_0.zip)
+- **Date:** 2022-03-2
 - ***First release***
