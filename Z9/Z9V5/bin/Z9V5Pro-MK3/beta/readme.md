@@ -2,9 +2,6 @@
 #### About DWIN LCD MENU V3
 You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 
-#### About DWIN LCD MENU V2
-You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
-
 #### :book: Firmware Upload Steps:
 1. Download the zip file and unzip it
 2. Copy firmware.bin to the root directory of Micro-SD card, 
@@ -15,14 +12,17 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ## Release Note
 -----------------------------------------
-### DWIN LCD MENU V3 [:point_up:](#about-dwin-lcd-menu-v3)
+### :warning: Firmware V3.x.x or later version need to upgrade the LCD screen [:point_up: DWIN LCD MENU V3](#about-dwin-lcd-menu-v3)
+### Z9V5Pro-MK3 V3.0.2 beta [:arrow_down:](./Z9V5Pro-MK3_V3_0_2_Beta.zip)
+- **Date:** 2022-09-22
+- [**NEW**] Add a **"HOME Offset"** menu to replace the **"HOME Z Offset"** menu. It can correct the offset between the nozzle and the original position of the printing platform when printing and do bed leveling. e.g., if you uprgaded a "Direct Drive Extruder" to replace the origin hot end, you can set **"HOME OFFSET X = -15, HOME Y OFFSET = -15"**.  
+
 ### Z9V5Pro-MK3 V3.0.0 beta [:arrow_down:](Z9V5Pro-MK3_V3_0_0_beta.zip)
 - **Date:** 2022-07-06
-- [**NEW**] Add a "flow rate" tune menu when priinting from SD card  
-**NOTE** it need upgrade to DWIN LCD MENU V3
+- [**NEW**] Add a "flow rate" tune menu when printing from SD card  
 
 -----------------------------------------
-### DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
+### :warning: Firmware V2.4.x or later version need to upgrade the LCD screen [:point_up: DWIN LCD MENU V3](#about-dwin-lcd-menu-v3) 
 ### Z9V5Pro-MK3 V2.5.0 beta [:arrow_down:](Z9V5Pro-MK3_V2_5_0_beta.zip)
 - **Date:** 2022-07-01
 - [**BUG**] Fix issue on disply string.
