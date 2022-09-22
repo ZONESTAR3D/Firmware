@@ -15,7 +15,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ### :warning: Firmware V3.x.x or later version need to upgrade the LCD screen [:point_up: DWIN LCD MENU V3](#about-dwin-lcd-menu-v3)
 ### Z9V5Pro-MK3 V3.0.2 beta [:arrow_down:](./Z9V5Pro-MK3_V3_0_2_Beta.zip)
 - **Date:** 2022-09-22
-- [**NEW**] Add a **"HOME Offset"** menu to replace the **"HOME Z Offset"** menu. It can correct the offset between the nozzle and the original position of the printing platform when printing and do bed leveling. e.g., if you uprgaded a "Direct Drive Extruder" to replace the origin hot end, you can set **"HOME OFFSET X = -15, HOME Y OFFSET = -15"**.  
+- [**NEW**] Add a **"HOME Offset"** menu to replace the **"HOME Z Offset"** menu. It can correct the offset between the nozzle and the original position of the printing platform when printing and do bed leveling. e.g., if you uprgaded a "Direct Drive Extruder" to replace the origin hot end, you can set **"HOME OFFSET X = -15, HOME OFFSET Y = -15"**.  
 
 ### Z9V5Pro-MK3 V3.0.0 beta [:arrow_down:](Z9V5Pro-MK3_V3_0_0_beta.zip)
 - **Date:** 2022-07-06
