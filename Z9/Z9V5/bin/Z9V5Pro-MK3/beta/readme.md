@@ -14,7 +14,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 -----------------------------------------
 ### :warning: Firmware V3.x.x or later version need to upgrade the LCD screen [:point_up: DWIN LCD MENU V3](#about-dwin-lcd-menu-v3)
 
-### Z9V5Pro-MK3 V3.1.0 beta [:arrow_down:](./Z9V5ProMK3_V3_1_0_beta.zip)
+### Z9V5Pro-MK3 V3.1.0 beta [:arrow_down:](./Z9V5Pro-MK3_V3_1_0_beta.zip)
 - **Date:** 2022-09-26
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
 - [**CHG**] Change "PID auto tune" feature.
