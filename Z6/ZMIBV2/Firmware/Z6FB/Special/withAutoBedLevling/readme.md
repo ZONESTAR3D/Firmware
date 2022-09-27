@@ -14,8 +14,8 @@ Refer to the below picture to wiring the probe.
 ![](Install.svg)
 
 ## Upload firmware
-1. Download the hex file from the "HEX" direcoty.  
-2. Upload the firmware to the control board.  
+1. Download the hex file [:arrow_down:](./HEX.zip).  
+2. Upload the correct firmware to the control board.  
 :star2: About how to upload firmware to the ZMIB control board, please refer to [***Here***](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
 
 ## Set the Probe Z offset
