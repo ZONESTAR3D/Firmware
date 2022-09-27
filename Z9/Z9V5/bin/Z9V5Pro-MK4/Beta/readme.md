@@ -9,8 +9,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ## Release Note
 ### Z9V5Pro-MK4 V1.1.0 [:arrow_down:](./Z9V5ProMK4_V1_1_0.zip)
 - **Date:** 2022-09-26
-- [**BUG**] To sollve the PID parameter of hotend stored issue.
-- [**NEW**] Add a **"HOME Offset"** menu to replace the **"HOME Z Offset"** menu. It can correct the offset between the nozzle and the original position of the printing platform when printing and do bed leveling. e.g., if you uprgaded a "Direct Drive Extruder" to replace the origin hot end, you can set **"HOME OFFSET X = -15, HOME OFFSET Y = -15"**.  
+- [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
+- [**CHG**] Change "PID auto tune" feature.
+- [**CHG**] Delete "HOT end Max temperature" setting menu, but you still need to take care when setting temperature of the mixing color hotend.
+- [**BUG**] Fixed some bugs.
 
 ### Z9V5Pro-MK4 V1.0.6 [:arrow_down:](./Z9V5ProMK4_V1_0_6.zip)
 - **Date:** 2022-06-18
