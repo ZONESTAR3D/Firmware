@@ -12,9 +12,9 @@ Beta firmware have the latest updata firmware, but it may be unstable.
 :point_right:[**Details of beta firmware**](./beta/readme.md)
 
 
-## :file_folder:[Customized](./Customized/)
+## :file_folder:[Customized](./customized/)
 Customized firmware for some customers who upgraded some parts or feature, e.g. 3d touch leveling sensor, etc.
-:point_right:[**Details of special firmware**](./Customized/readme.md)
+:point_right:[**Details of special firmware**](./customized/readme.md)
 
 ----
 ### Firmware upload steps:
