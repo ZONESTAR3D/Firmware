@@ -1,12 +1,5 @@
 #### :warning: !ATTETION PLEASE! About 
-#### About DWIN LCD MENU V3
-- You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN). 
-
-#### About DWIN LCD MENU V2
-- You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN). 
-- We will stop releasing firmware for "DWIN LCD MENU V1" after the end of April 2022, V1.4.x will be the last version for "DWIN LCD MENU V1", we recommend that you upgrade the firmware of the 4.3" DWIN LCD screen as soon as possible. 
-- About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-- About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/)  
+#### You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.1.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN). 
 
 #### :green_book: Firmware Upload Steps
 1. Download the zip file and unzip it
@@ -18,7 +11,6 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ## Release Note
 ----
-### DWIN LCD MENU V3 [:point_up:](#about-dwin-lcd-menu-v3)
 ### Z9V5Pro V3.1.0 beta [:arrow_down:](./Z9V5Pro_V3_1_0_beta.zip)
 - **Date:** 2022-09-26
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
@@ -37,8 +29,6 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 - [**CHG**] Allow to move extruder motors without heating the nozzle.
 - [**CHG**] Allow to move extruder motors while printing is paused.
 
-----
-DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
 ### Z9V5Pro V2.1.0 beta [:arrow_down:](./Z9V5Pro_V2_1_0_beta.zip)
 - **Date:** 2022-09-26
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
