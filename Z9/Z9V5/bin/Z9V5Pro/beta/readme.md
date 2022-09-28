@@ -1,12 +1,12 @@
 #### :warning: !ATTETION PLEASE! About 
 #### About DWIN LCD MENU V3
-You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
+- You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN). 
 
 #### About DWIN LCD MENU V2
-1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
-2. We will stop releasing firmware for "DWIN LCD MENU V1" after the end of April 2022, V1.4.x will be the last version for "DWIN LCD MENU V1", we recommend that you upgrade the firmware of the 4.2" DWIN LCD screen as soon as possible.
-3. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD%20DWIN%20MENU%20Description%20V2.pdf)  
+- You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN). 
+- We will stop releasing firmware for "DWIN LCD MENU V1" after the end of April 2022, V1.4.x will be the last version for "DWIN LCD MENU V1", we recommend that you upgrade the firmware of the 4.3" DWIN LCD screen as soon as possible. 
+- About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
+- About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/)  
 
 #### :green_book: Firmware Upload Steps
 1. Download the zip file and unzip it
@@ -16,11 +16,17 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 4. Power on the printer, push the power button and wait about 30 seconds
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:  ***MENU>>Control>>Restore Defaults***
 
-## ***Release Note***
-
+## Release Note
 ----
 ### DWIN LCD MENU V3 [:point_up:](#about-dwin-lcd-menu-v3)
-### Z9V5Pro V3.0.0 beta [:arrow_down:](Z9V5Pro_V3_0_0_beta.rar)
+### Z9V5Pro V3.1.0 beta [:arrow_down:](./Z9V5Pro_V3_1_0_beta.zip)
+- **Date:** 2022-09-26
+- [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
+- [**CHG**] Change "PID auto tune" feature.
+- [**CHG**] Delete "HOT end Max temperature" setting menu, but you still need to take care when setting temperature of the mixing color hotend.
+- [**BUG**] Fixed some bugs.
+
+### Z9V5Pro V3.0.0 beta [:arrow_down:](Z9V5Pro_V3_0_0_beta.zip)
 - **Date:** 2022-07-06
 - [**NEW**] Add a "flow rate" tune menu when priinting from SD card  
 - [**NEW**] Add a menu to adjust the brightness of LOGO backlight
@@ -31,10 +37,22 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 - [**CHG**] Allow to move extruder motors without heating the nozzle.
 - [**CHG**] Allow to move extruder motors while printing is paused.
 
-**NOTE** it need upgrade to DWIN LCD MENU V3
-
 ----
 DWIN LCD MENU V2 [:point_up:](#about-dwin-lcd-menu-v2)
+### Z9V5Pro V2.1.0 beta [:arrow_down:](./Z9V5Pro_V2_1_0_beta.zip)
+- **Date:** 2022-09-26
+- [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
+- [**NEW**] Add a menu to adjust the brightness of LOGO backlight
+- [**CHG**] Change "PID auto tune" feature.
+- [**CHG**] Delete "HOT end Max temperature" setting menu, but you still need to take care when setting temperature of the mixing color hotend.
+- [**CHG**] Optimize automatic test display.
+- [**CHG**] Allow to move extruder motors without heating the nozzle.
+- [**CHG**] Allow to move extruder motors while printing is paused.
+- [**BUG**] Fixed some bugs.
+- [**BUG**] Fix issue on disply string.
+- [**BUG**] Fix issue when adjust Z offset when auto bed leveling is actived
+- [**BUG**] To solve the misjudgment issue on checking the hot bed when the ambient temperature is low in the automatic test program.
+
 ### Z9V5Pro V2.0.2 beta [:arrow_down:](Z9V5Pro_V2_0_2_beta.zip)
 - **Date:** 2022-04-25
 - [**BUG**] Fix bug on print time shows.
@@ -53,69 +71,65 @@ DWIN LCD MENU V1
 - **Date:** 2022-04-25
 - [**BUG**] Fix bug on print time shows.
 
-### Z9V5Pro V1.4.1 beta
+### Z9V5Pro V1.4.1 beta [:arrow_down:](./Z9V5Pro_V1_4_1_Beta.zip)
 - **Date:** 2022-04-22
 - [**BUG**] Fix bug on hotend max temp setting.
 - [**BUG**] Fix bug on display on hotend high temperature.
 - [**NEW**] Turn off WiFi settings if WiFi connection is fail.
 - [**NEW**] Add a "Viwe Update News" on info Menu.
 
-### Z9V5Pro V1.4.0 beta
+### Z9V5Pro V1.4.0 beta [:arrow_down:](./Z9V5Pro_V1_4_0_Beta.zip)
 - **Date:** 2022-04-15
 - [**BUG**] Fix the issue can't find the SD card.
 - [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected (WiFi module is required).
 
-### Z9V5Pro V1.3.9 beta
+### Z9V5Pro V1.3.9 beta [:arrow_down:](./Z9V5Pro_V1_3_9_Beta.zip)
 - **Date:** 2022-04-14
 - [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.
 - [**NEW**] Add "View User Guide" on INFO menu.
 
-### Z9V5Pro V1.3.8 beta
+### Z9V5Pro V1.3.8 beta [:arrow_down:](./Z9V5Pro_V1_3_8_Beta.zip)
 - **Date:** 2022-04-01
 - [**CHG**] Add Nozzle temperature setting on filament menu.
 - [**BUG**] Extend the waiting time to confirm the connection of WiFi.
 
-### Z9V5Pro V1.3.7 beta
+### Z9V5Pro V1.3.7 beta [:arrow_down:](./Z9V5Pro_V1_3_7_Beta.zip)
 - **Date:** 2022-03-08
 - [**CHG**] Correct HOTEND temperature.
 - [**CHG**] Change the menu [HOTEND Temp] to [Nozzle Temp].   
 - [**NEW**] Auto save "baby Z offset adjustment" on the previous printing. 
 - [**NEW**] Auto disable motors after did "Stop printing".
 
-### Z9V5Pro V1.3.6 beta
+### Z9V5Pro V1.3.6 beta [:arrow_down:](./Z9V5Pro_V1_3_6_Beta.zip)
 - **Date:** 2022-02-23
 - [**BUG**] fix the bug of setting max hotend temperature.  
 - [**CHG**] Change LCD message while temperature error occured.  
  
-### Z9V5Pro V1.3.5 beta
+### Z9V5Pro V1.3.5 beta [:arrow_down:](./Z9V5Pro_V1_3_5_Beta.zip)
 - **Date:** 2022-01-07
 - [**New**] Add PID Tune menu 
 - [**CHG**] Change a little menu display 
 
-### Z9V5Pro V1.3.1 beta
+### Z9V5Pro V1.3.1 beta [:arrow_down:](./Z9V5Pro_V1_3_1_Beta.zip)
 - **Date:** 2021-12-03
 - [**New**] force to do once HOME while start bed leveling 
 
-### Z9V5Pro V1.3.0 beta
+### Z9V5Pro V1.3.0 beta [:arrow_down:](./Z9V5Pro_V1_3_0_Beta.zip)
 - **Date:** 2021-12-01
 - [**New**] Add a "***Control>>configre>>Max HOTEND Temp***" menu, so that you can upgrade to high temperature hotend. **ATTETION:Overheating may damaged the hotend, ensure your hotend can work in that temperature before set the temperature**.    
 - [**New**] Add a "***Control>>configre>>PID AutoTune***" menu to auto tune the PID parameter.  **NOTE: While do PID autotune, please wait until the LCD show PID Auto tune finished!**   
 - [**CHG**] Correct the temperature table of hotend and hotbed to get more accurate temperature display    
 
-### Z9V5Pro V1.2.8 beta
+### Z9V5Pro V1.2.8 beta [:arrow_down:](./Z9V5Pro_V1_2_8_beta.zip)
 - **Date:** 2021-11-22
 - [**BUG**] Updata the hotend temperature measure table to correct bed temperature display  
 
-### Z9V5Pro V1.2.7 beta
+### Z9V5Pro V1.2.7 beta [:arrow_down:](./Z9V5Pro_V1_2_7_beta.zip)
 - **Date:** 2021-11-03  
 - [**BUG**] fix the issue on auto testing  
 ***Auto testing feature: move the cursor to the "Info>>Data:xx-xx-xx" and click the knob 5 time to start an auto testing process***      
 
-### Z9V5Pro V1.2.6 beta
-- **Date:** 2021-07-15  
-- [**BUG**] fix the issue on filament run out
-
-### Z9V5Pro V1.2.5 beta
+### Z9V5Pro V1.2.5 beta [:arrow_down:](./Z9V5Pro_V1_2_5_beta.zip)
 - **Date:** 2021-07-15   
 - [**BUG**] fix the issue on power loss recovery  
 - [**NEW**]Add feedback on menu scroll
@@ -125,7 +139,7 @@ DWIN LCD MENU V1
 - [**BUG**]fix the issue on filament run out when mixing printing 
 - [**BUG**]fix several known bugs
 
-### Z9V5Pro V1.2.4 beta
+### Z9V5Pro V1.2.4 beta 
 - **Date:** 2021-07-14
 - [**NEW**]Add feedback on menu scroll  
 - [**BUG**]fix the disply issue when G29 command in the gcode file  
