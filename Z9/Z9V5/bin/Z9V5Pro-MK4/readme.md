@@ -1,11 +1,15 @@
-## [Released](./Released/)
+## :file_folder: [Released](./released/)
 Released firmware are for the mass production machine. If you did not upgrade any features, please use the firmware in this directory.    
 :point_right:[**Released firmware**](./Released/readme.md)
  
-## [Beta](./Beta/)
+## :file_folder: [Beta](./beta/)
 Beta firmware have the latest update features, but it may be unstable.    
 :point_right:[**Beta firmware**](./Beta/readme.md)
 
+## :file_folder:[Customized](./customized/)
+Customized firmware for some customers who upgraded some parts or features.
+
+----
 #### Firmware Upload Steps  
 1. Download the zip file and unzip it
 2. Copy firmware.bin to the root directory of Micro-SD card, 

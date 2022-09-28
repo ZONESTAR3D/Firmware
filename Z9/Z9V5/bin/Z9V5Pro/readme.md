@@ -11,9 +11,9 @@ Released firmware are for the mass production machine. If you did not upgrade an
 Beta firmware have the latest updata firmware, but it may be unstable.
 :point_right:[**Details of beta firmware**](./beta/readme.md)
 
-## :file_folder:[Customize](./Customize/)
+## :file_folder:[Customize](./customized/)
 Customized firmware for some customers who upgraded some parts or feature, e.g. 3d touch leveling sensor, etc.
-:point_right:[**Details of customized firmware**](./Customize/readme.md)
+:point_right:[**Details of customized firmware**](./customized/readme.md)
 
 ----
 ### :book: [User Guide](./User%20Guide/)
