@@ -1,6 +1,5 @@
 #### :warning: !ATTETION PLEASE! 
-#### About DWIN LCD MENU V3
-You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
+#### You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.4.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 
 #### :book: Firmware Upload Steps:
 1. Download the zip file and unzip it
@@ -11,9 +10,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware: ***MENU>>Control>>Restore Defaults***
 
 ## Release Note
------------------------------------------
-### :warning: Firmware V3.x.x or later version need to upgrade the LCD screen [:point_up: DWIN LCD MENU V3](#about-dwin-lcd-menu-v3)
-
+-------
 ### Z9V5Pro-MK3 V3.1.0 beta [:arrow_down:](./Z9V5Pro-MK3_V3_1_0_beta.zip)
 - **Date:** 2022-09-26
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
@@ -25,8 +22,6 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 - **Date:** 2022-07-06
 - [**NEW**] Add a "flow rate" tune menu when printing from SD card  
 
------------------------------------------
-### :warning: Firmware V2.4.x or later version need to upgrade the LCD screen [:point_up: DWIN LCD MENU V3](#about-dwin-lcd-menu-v3) 
 ### Z9V5Pro-MK3 V2.5.0 beta [:arrow_down:](Z9V5Pro-MK3_V2_5_0_beta.zip)
 - **Date:** 2022-07-01
 - [**BUG**] Fix issue on disply string.
@@ -75,13 +70,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ### Z9V5Pro-MK3 V2.4.0 beta [:arrow_down:](Z9V5Pro_MK3_V2_4_0_beta.zip)
 - **Date:** 2022-03-09
-- [**NEW**] Upgrade to DWIN LCD MENU V2. For details, please refer to :point_up: [**here**](#about-dwin-lcd-menu-v2)
 - [**NEW**] Add a "Mixing Feature" to switch on/off mixing feature.
 - [**NEW**] Add a "Extr.Sequence" menu to exchange the extrders sequence (only work on Non-mixing hotend).  
 
------------------------------------------
-### DWIN LCD MENU V1
-
+------
 ### Z9V5Pro-MK3 V2.3.9 beta [:arrow_down:](Z9V5Pro_MK3_V2_3_9_beta.zip)
 - **Date:** 2022-06-20
 - [**BUG**] Correct print time (printed time and remain time)
