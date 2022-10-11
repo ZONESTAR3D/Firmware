@@ -1,4 +1,4 @@
-#### :warning: !ATTETION PLEASE! About 
+#### :warning: !ATTETION PLEASE!  
 #### You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.1.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN). 
 
 #### :green_book: Firmware Upload Steps
