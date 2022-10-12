@@ -7,6 +7,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware: ***MENU>>Control>>Restore Defaults***
 
 ## Release Note
+### Z9V5Pro-MK4 V1.1.1 [:arrow_down:](./Z9V5ProMK4_V1_1_1.zip)
+- **Date:** 2022-10-12
+- [**BUG**] Fixed "Home Z Offset" saved issue.
+
 ### Z9V5Pro-MK4 V1.1.0 [:arrow_down:](./Z9V5ProMK4_V1_1_0.zip)
 - **Date:** 2022-09-26
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
