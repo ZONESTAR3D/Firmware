@@ -11,11 +11,11 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ## Release Note
 -------
-### Z9V5Pro-MK3 V3.1.0 beta [:arrow_down:](./Z9V5Pro-MK3_V3_1_0_beta.zip)
-- **Date:** 2022-09-26
+### Z9V5Pro-MK3 V3.1.1 beta [:arrow_down:](./Z9V5Pro-MK3_V3_1_1_beta.zip)
+- **Date:** 2022-10-12
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
 - [**CHG**] Change "PID auto tune" feature.
-- [**CHG**] Delete "HOT end Max temperature" setting menu, but you still need to take care when setting temperature of the mixing color hotend.
+- [**CHG**] Delete "Max Hotend temp" menu, but you still need to take care when setting temperature of the mixing color hotend.
 - [**BUG**] Fixed some bugs.
 
 ### Z9V5Pro-MK3 V3.0.0 beta [:arrow_down:](Z9V5Pro-MK3_V3_0_0_beta.zip)
