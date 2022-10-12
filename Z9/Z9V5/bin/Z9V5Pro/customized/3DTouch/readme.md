@@ -12,8 +12,8 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 ## Release Note
-### Z9V5Pro3DTouch V3.1.0 beta [:arrow_down:](./Z9V5Pro_3DTouch_V3_1_0_beta.zip)
-- **Date:** 2022-10-11
+### Z9V5Pro3DTouch V3.1.1 beta [:arrow_down:](./Z9V5Pro_3DTouch_V3_1_1_beta.zip)
+- **Date:** 2022-10-12
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
 - [**NEW**] Add a "flow rate" tune menu when priinting from SD card  
 - [**NEW**] Add a menu to adjust the brightness of LOGO backlight
