@@ -21,9 +21,10 @@ About wiring, please refer to "[Z9M4 Firmware and Wiring Diagram.pdf](.\./Z9M4%2
 #### About DWIN LCD MENU V3
 You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 
-### :file_folder: [Version: V3.0.0_beta](./V3_0_0_beta/)
-- Date: 	 2022-10-18
-- NOTE:
+### :file_folder: [V3.0.0_beta](./V3_0_0_beta/)    
+#### :warning: Only for 4.3" DWIN_LCD
+- **Date:** 	 2022-10-18
+- **NOTE:** 	 
 	- [**NEW**] Upgrade to DWIN LCD MENU V3 [:point_up: About detail](#about-dwin-lcd-menu-v3)
 	- [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
 	- [**NEW**] Add a "flow rate" tune menu when printing from SD card.
@@ -46,13 +47,14 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
 3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
 
-### :file_folder: [Version: V2.0.0_beta](./V2_0_0_beta/)
+### :file_folder: [V2.0.0_beta](./V2_0_0_beta/)
+#### :warning: Only for 4.3" DWIN_LCD
 - **Date:** 	 2022-05-19
 - **Note:**
 	- [**NEW**] Upgrade to DWIN LCD MENU V2 [:point_down:](#about-dwin-lcd-menu-v2)
 
 
-### :file_folder: [Version: V1.7.0_beta](./V1_7_0_beta/)
+### :file_folder: [V1.7.0_beta](./V1_7_0_beta/)
 - **Date:** 	 2022-01-14
 - **Note:**
 	- [**CHG**]Optimize the setting of motion to improve the printing quality.  
@@ -61,7 +63,7 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 	- [**CHG**]Add "Hotend PID Tune" menu (for LCD_DWIN).
 	- [**BUG**]fix some bugs.
  
-### :file_folder: [Version: V1.6.0](./V1_6_0/)
+### :file_folder: [V1.6.0](./V1_6_0/)
 - **Date:**    2021-07-15
 -**Note:** 
 	- [**NEW**] (for LCD_DWIN) Add filament load/unload menu
@@ -70,13 +72,13 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 	- [**CHG**] add "bed automatic leveling" to 5x5 Grid
 	- [**CHG**] Automatically correct Z offset after "bed automatic leveling"(G29 command)
 
-### :file_folder: [Version: V1.5.0](./V1.5.0(Beta)/)
+### :file_folder: [ V1.5.0](./V1.5.0(Beta)/)
 - **Date:**    2021-04-25
 - **Note:**
 	- [**NEW**] Add Bedcoating setting
 	- [**NEW**] Add Auto Leveling featurn switch on configure Menu(DWIN_LCD)
 
-### :file_folder: [Version: V1.4.0](./V1.4.0/)
+### :file_folder: [V1.4.0](./V1.4.0/)
 - **Date:**    2021-04-25
 - **Note:**
 	- [**NEW**] Add WiFi feature
@@ -84,7 +86,7 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 	for LCD12864[+TFT-LCD35]: LCD12864>>EXP1 3DTouch>>EXP2 TFT-LCD35>>AUX1  
 	for LCD_DWIN            : LCD_DWIN>>EXP2 3DTouch>>EXP1
 
-### :file_folder: [Version: V1.3.0](./V1.3.0/)
+### :file_folder: [V1.3.0](./V1.3.0/)
 + **Date:**    2020-12-23
 + **Note:**
 	- [**CHG**] Correct the display data transmit speed of LCD12864
