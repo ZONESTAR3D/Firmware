@@ -21,11 +21,19 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ## Release Note
 --------------
+### Z8PM4Pro V3.1.0 [:arrow_down:Download](./Z8PM4Pro_V3_1_0.zip)
+- **Date:** 2022-10-18
+- [**BUG**] Fixed the bug HOME Z offset after did "Baby Step Z".
+
 ### Z8PM4Pro V3.0.0 [:arrow_down:Download](./Z8PM4Pro_V3_0_0.zip)
 - [**NEW**] Upgrade to **DWIN LCD MENU V3** [:point_up:](#about-dwin-lcd-menu-v3)
 - [**NEW**] Add a FlowRate Menu in "Print>>Tune" menu
 
 --------------
+### Z8PM4Pro V2.2.0 [:arrow_down:Download](./Z8PM4Pro_V2_3_0.zip)
+- **Date:** 2022-10-18
+- [**BUG**] Fixed the bug HOME Z offset after did "Baby Step Z".
+
 ### Z8PM4Pro V2.2.0 [:arrow_down:Download](./Z8PM4Pro_V2_2_0.zip)
 - **Date:** 2022-09-26
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
