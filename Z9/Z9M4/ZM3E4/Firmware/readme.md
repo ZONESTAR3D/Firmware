@@ -10,7 +10,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 ## Wiring
-About wiring, please refer to "Z9M4 Firmware and Wiring Diagram.pdf"
+About wiring, please refer to "[Z9M4 Firmware and Wiring Diagram.pdf](.\./Z9M4%20Firmware%20and%20Wiring%20Diagram.pdf)"
 ### Motor Working Direction
 **If the motor working direction is reserved, please refer to the below photo to modify it:**
 ![how to change motor woking direction](./how_to_change_motor_woking_direction.jpg)
