@@ -7,21 +7,45 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
 - **for LCD12864** ***MENU>>Configuration>>Advanced setting>>initialize  EEPROM***
 - **for LCD_DWIN** ***MENU>>Control>>Restore Default***
-- **you can also copy "ResetNVRAM.gcode" to SD card and print it to reset the EEPROM**
 
+----
 ## Wiring
 About wiring, please refer to "Z9M4 Firmware and Wiring Diagram.pdf"
 ### Motor Working Direction
 **If the motor working direction is reserved, please refer to the below photo to modify it:**
 ![how to change motor woking direction](./how_to_change_motor_woking_direction.jpg)
 
+----
+
 ## Release Note
+#### About DWIN LCD MENU V3
+You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
+
+### Version: V3.0.0_beta 
++ Date: 	 2022-10-18
++ NOTE:
+- [**NEW**] Upgrade to DWIN LCD MENU V3 [:point_down: About detail](#about-dwin-lcd-menu-v3)
+- [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
+- [**NEW**] Add a "flow rate" tune menu when printing from SD card.
+- [**NEW**] Add WiFi Feature. You need to add a WiFi module to the control board before active this feature, For details, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)
+- [**CHG**] Change "PID auto tune" feature.
+- [**CHG**] Delete "Max Hotend temp" menu, but you still need to take care when setting temperature of the mixing color hotend.
+- [**CHG**] Optimize automatic test display.
+- [**CHG**] Allow to move extruder motors without heating the nozzle.
+- [**CHG**] Allow to move extruder motors while printing is paused.
+- [**BUG**] Correct print time (printed time and remain time).
+- [**BUG**] Fixed some known bugs.
+
+#### :black_circle: Z9M4 + LCDDWIN [:arrow_down:](./V3_0_0_beta/Z9M4_LCDDWIN_V3_0_0.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@XYZ [:arrow_down:](./V3_0_0_beta/Z9M4_LCDDWIN_TMC220x@XYZ_V3_0_0.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All [:arrow_down:](./V3_0_0_beta/Z9M4_LCDDWIN_TMC220x@All_V3_0_0.zip)
+
+--------
 ### Version: V2.0.0_beta
 + Date: 	 2022-05-19
 + NOTE:
->
-- [**NEW**] Upgrade to DWIN LCD MENU V2
-#### :warning: About DWIN LCD MENU V2
+- [**NEW**] Upgrade to DWIN LCD MENU V2 [:point_down:](#about-dwin-lcd-menu-v2)
+#### About DWIN LCD MENU V2
 1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
 2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
 3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  

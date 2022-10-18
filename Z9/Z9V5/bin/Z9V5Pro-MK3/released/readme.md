@@ -10,11 +10,9 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 - [**NEW**] Add a "flow rate" tune menu when priinting from SD card  
 - [**NEW**] Add a "Viwe Update News" on info Menu.
 - [**NEW**] Add a menu to adjust the brightness of LOGO backlight
-
-:warning: **NOTE** WiFi is an optional feature [About WiFi Module]()
+:warning: **NOTE** WiFi is an optional feature [About WiFi Module](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)
 - [**NEW**] Turn off WiFi settings if WiFi connection is fail.
 - [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected(need to add WiFi module).
-
 - [**NEW**] Auto return to print menu if doesn't operature on tune menu.
 - [**NEW**] Add "View User Guide" on INFO menu.
 - [**CHG**] Backlight shows as "Breathing lamp" when auto shutdown is on
@@ -29,6 +27,18 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 - [**BUG**] Fix bug on hotend max temp setting.
 - [**BUG**] Fix bug on display on hotend high temperature.
 
+---------------
+### Z9V5Pro-MK3 V2.6.0 [:arrow_down:](Z9V5Pro-MK3_V2_6_0.zip)
+- **Date:** 2022-10-17
+- [**NEW**] Add a "Viwe Update News" on info Menu.
+- [**NEW**] Add a menu to adjust the brightness of LOGO backlight
+- [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
+- [**CHG**] Delete "Max Hotend temp" menu, but you still need to take care when setting temperature of the mixing color hotend.
+- [**CHG**] Backlight shows as "Breathing lamp" when auto shutdown is on.
+- [**CHG**] Optimize automatic test display.
+- [**CHG**] Allow to move extruder motors without heating the nozzle.
+- [**CHG**] Allow to move extruder motors while printing is paused.
+- [**BUG**] Fixed some known bugs.
 
 ### Z9V5Pro-MK3 V2.3.3 [:arrow_down:](Z9V5Pro_MK3_V2_3_3.zip)
 - **Date:** 2022-04-02
