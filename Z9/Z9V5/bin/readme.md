@@ -21,8 +21,8 @@ You can distinguish by serial number, there is a white lable on the power supply
 - **Z9V5Pro-MK1:** Serial Number is **xxxxxxxxxx**   
 - **Z9V5Pro-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
 - **Z9V5Pro-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
-- **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx**  
-![Z9V5_SN](Z9V5_SN.jpg)
+- **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx**     
+![Z9V5_SN](Z9V5_SN.jpg)    
 ### Method 2. Check the original firmware version:
 You can check the printer name from the LCD screen too, see "Menu>>**Info>>Model**", refer to the below picture:
 ![Z9V5_Info](info.jpg)   
