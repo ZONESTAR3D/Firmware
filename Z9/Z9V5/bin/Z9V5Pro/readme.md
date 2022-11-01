@@ -11,5 +11,5 @@ Customized firmware for some customers who upgraded some parts or feature, e.g. 
 :point_right:[**Details of customized firmware**](./customized/readme.md)
 
 ----
-### About how to upload firmware, please refer to [here]()
+### About how to upload firmware, please refer to [here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin#how-to-upload-firmware-to-z9v5pro)
 
