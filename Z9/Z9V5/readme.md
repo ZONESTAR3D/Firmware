@@ -1,23 +1,13 @@
 ## Firmware for Z9V5  
-### [bin](./bin/)
-Bin file is the complied file of the firmware, you can upload this file to the control board of 3d printer from SD card directly. 
+### :file_folder: [Firmware bin file](./bin/)
+Bin file is the complied file of the firmware, you can upload this file to the control board of 3d printer from SD card directly.     
+About how to choose the correct firmware for your kit, please refer to [:point_right: **here**](./bin/readme.md).
 
-### [Source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
-Z9V5 is open source on firmware, if you are interested in study or modifying the firmware, please download firmware source code from [**Here**](https://github.com/ZONESTAR3D/source-code-for-3d-printer).  
+### :file_folder:  [Firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
+Z9V5 is open source of firmware, if you are interested in study, modify and build the firmware by yourself, please refer to [:point_right: **here**](https://github.com/ZONESTAR3D/source-code-for-3d-printer).  
 
 ### Wiring block
 ![](Z9V5_WiringBlock.jpg)
 
 ### Wiring diagram
 ![](Z9V5.jpg)
-
-
-----
-### How to downlod files from Github page
-#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/)   
-#### Step 2: Copy the Github file or direcotry link which you want to download.  
-#### Step 3: Click download button and wait a few seconds, it will start to download automatically.  
-![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
-
-
-
