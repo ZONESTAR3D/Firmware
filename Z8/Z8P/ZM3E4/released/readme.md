@@ -21,6 +21,16 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ## Release Note
 --------------
+### Z8PM4Pro V3.2.0 [:arrow_down:Download](./Z8PM4Pro_V3_2_0.zip)
+- **Date:** 2022-11-11
+- [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
+  --**This feature only for 4-IN-1-OUT Non-Mix Color Hotend**.   
+- [**NEW**] Display the print elapsed time xxxHxxM after printing finished.
+- [**CHG**] Set the home-offset default value to 0
+- [**CHG**] Modify print remain time on LCD screen
+- [**BUG**] Fixed the system crashes on gradient and random mixing color printing.
+- [**BUG**] Fixed temperature instability issue on over 230 degreeC.
+
 ### Z8PM4Pro V3.1.0 [:arrow_down:Download](./Z8PM4Pro_V3_1_0.zip)
 - **Date:** 2022-10-18
 - [**BUG**] Fixed the bug HOME Z offset after did "Baby Step Z".
