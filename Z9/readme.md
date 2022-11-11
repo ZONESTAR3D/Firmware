@@ -7,9 +7,11 @@
 - Motor drivers: 8x [TMC2225](https://www.aliexpress.com/item/3256803084406467.html) motor drivers
 - LCD Screen: [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)   
 
-### Upgradeable configurations: 
-- [Mixing Color hotend](https://www.aliexpress.com/item/3256801395327031.html)
-- [WiFi wireless control](https://www.aliexpress.com/item/3256802192236737.html) 
+### Recommanded Upgrade Features 
+- **Mixing Color hotend** [:gift:](https://bit.ly/3QhWJtf) [:gift:](https://www.aliexpress.com/item/1005004547646195.html)
+- **Non-Mix Color hotend**[:gift:](https://www.aliexpress.com/item/3256802765462947.html) [:gift:](https://bit.ly/39qDtKp)
+- **WiFi wireless control** [:gift:](https://bit.ly/3rB7mx1)  [:gift:](https://www.aliexpress.com/item/3256802192236737.html)   
+- **PEI Bed Sticker** [:gift:](http://bit.ly/3GbI9Sr)
 
 ## Z9V5Pro-MK3
 ### Default configurations:
@@ -18,12 +20,14 @@
 - Bed Auto leveling sensor: [ZL-SENSOR](https://www.aliexpress.com/item/3256802678996718.html)
 - Motor drivers: 8x [TMC2225](https://www.aliexpress.com/item/3256803084406467.html) motor drivers
 - LCD Screen: [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)  
-### Upgradeable configurations: 
-- [Non-Mix Color hotend](https://www.aliexpress.com/item/3256802765462947.html)
-- [WiFi wireless control](https://www.aliexpress.com/item/3256802192236737.html) 
+### Recommanded Upgrade Features
+- **Non-Mix Color hotend**[:gift:](https://www.aliexpress.com/item/3256802765462947.html) [:gift:](https://bit.ly/39qDtKp)
+- **New Mixing Color hotend** [:gift:](https://bit.ly/3QhWJtf) [:gift:](https://www.aliexpress.com/item/1005004547646195.html)
+- **WiFi wireless control** [:gift:](https://bit.ly/3rB7mx1)  [:gift:](https://www.aliexpress.com/item/3256802192236737.html)   
+- **PEI Bed Sticker** [:gift:](http://bit.ly/3GbI9Sr)
 
 
-## Z9V5-MK1(MK2)
+## Z9V5Pro-MK1(MK2) & Z9V5
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
 - Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color hotend (M4V3)](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)
@@ -33,12 +37,12 @@
   - 4x [A4988](https://www.aliexpress.com/item/2255800771058461.html) used on extruder steps motors
 - LCD Screen: 
  - Z9V5: [128x64 dots LCD screen](https://www.aliexpress.com/item/2255801130809506.html)   
- - Z9V5Pro: [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)      
-### Upgradeable configurations: 
-- [Non-Mix Color hotend](https://www.aliexpress.com/item/3256802765462947.html)
-- [WiFi wireless control](https://www.aliexpress.com/item/3256802192236737.html) 
-- [Dual Gear extruders](https://www.aliexpress.com/item/3256803287046246.html)
-- Bed leveling sensor: [BL-Touch](https://www.aliexpress.com/item/3256801278105777.html)/[ZLSensor](https://www.aliexpress.com/item/3256802678996718.html) 
+ - Z9V5Pro-MK1(MK2): [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)      
+### Recommanded Upgrade Feature
+- **Non-Mix Color E4 hotend**[:gift:](https://www.aliexpress.com/item/3256802765462947.html)  [:gift:](https://bit.ly/39qDtKp)
+- **New Mixing Color hotend** [:gift:](https://bit.ly/3QhWJtf) [:gift:](https://www.aliexpress.com/item/1005004547646195.html)
+- **WiFi wireless control** [:gift:](https://bit.ly/3rB7mx1)  [:gift:](https://www.aliexpress.com/item/3256802192236737.html)   
+- **PEI Bed Sticker** [:gift:](http://bit.ly/3GbI9Sr)
 
 ## Z9M4
 ### Default configurations:

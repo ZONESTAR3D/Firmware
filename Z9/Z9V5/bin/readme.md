@@ -30,5 +30,12 @@ You can check the printer name from the LCD screen too, see "Menu>>**Info>>Model
 - **Z9V5Pro-MK3**: model is **Z9V5Pro-MK3**    
 - **Z9V5Pro-MK4**: model is **Z9V5Pro-MK4**    
 
+-----
+### Recommanded Upgrade Features
+- **Non-Mix Color hotend**[:gift:](https://www.aliexpress.com/item/3256802765462947.html) [:gift:](https://bit.ly/39qDtKp)
+- **New Mixing Color hotend** [:gift:](https://bit.ly/3QhWJtf) [:gift:](https://www.aliexpress.com/item/1005004547646195.html)
+- **WiFi wireless control** [:gift:](https://bit.ly/3rB7mx1)  [:gift:](https://www.aliexpress.com/item/3256802192236737.html)   
+- **PEI Bed Sticker** [:gift:](http://bit.ly/3GbI9Sr)
+
 
 
