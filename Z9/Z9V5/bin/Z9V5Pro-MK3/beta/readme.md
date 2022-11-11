@@ -5,6 +5,16 @@
 
 ## Release Note
 -------
+### Z9V5Pro-MK3 V3.2.0 [:arrow_down:](./Z9V5Pro-MK3_V3_2_0_beta.zip)
+- **Date:** 2022-11-11
+- [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
+  --**This feature only work on E4 (4-IN-1-OUT Non-Mix Color) Hotend**.   
+- [**NEW**] Display the print elapsed time xxxHxxM after printing finished.
+- [**CHG**] Set the home-offset default value to 0
+- [**CHG**] Modify print remain time on LCD screen
+- [**BUG**] Fixed the system crashes on gradient and random mixing color printing.
+- [**BUG**] Fixed temperature instability issue on over 230 degreeC.
+
 ### Z9V5Pro-MK3 V3.1.1 beta [:arrow_down:](./Z9V5Pro-MK3_V3_1_1_beta.zip)
 - **Date:** 2022-10-12
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
