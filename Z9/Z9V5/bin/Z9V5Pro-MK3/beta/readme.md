@@ -5,6 +5,10 @@
 
 ## Release Note
 -------
+### Z9V5Pro-MK3 V3.2.1 [:arrow_down:](./Z9V5Pro-MK3_V3_2_1_beta.zip)
+- **Date:** 2022-11-15
+- [**CHG**] Correct shows temperature of hotend and hotbed
+
 ### Z9V5Pro-MK3 V3.2.0 [:arrow_down:](./Z9V5Pro-MK3_V3_2_0_beta.zip)
 - **Date:** 2022-11-11
 - [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
