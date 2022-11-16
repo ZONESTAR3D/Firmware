@@ -4,6 +4,21 @@
 You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 
 ## Release Note
+### Z9V5Pro-MK3 V3.2.1 [:arrow_down:](./Z9V5Pro-MK3_V3_2_1.zip)
+- **Date:** 2022-11-15
+- [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
+  --**This feature only work on E4 (4-IN-1-OUT Non-Mix Color) Hotend**.   
+- [**NEW**] Display the print elapsed time xxxHxxM after printing finished.
+- [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
+- [**CHG**] Set the home-offset default value to 0
+- [**CHG**] Modify print remain time on LCD screen
+- [**CHG**] Change "PID auto tune" feature.
+- [**CHG**] Delete "Max Hotend temp" menu, but you still need to take care when setting temperature of the mixing color hotend.
+- [**BUG**] Fixed the system crashes on gradient and random mixing color printing.
+- [**BUG**] Fixed temperature instability issue on over 230 degreeC.[:bulb:Tips](#1)
+- [**BUG**] Fixed some known bugs.
+
+
 ### Z9V5Pro-MK3 V3.0.0 [:arrow_down:](Z9V5Pro-MK3_V3_0_0.zip)
 - **Date:** 2022-07-06    
 :warning: **NOTE** it need upgrade to [:point_up: **DWIN LCD MENU V3**](#about-dwin-lcd-menu-v3)
