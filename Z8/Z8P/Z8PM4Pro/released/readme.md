@@ -6,21 +6,18 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 4. Power on the printer, push the power button and wait about 30 seconds
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:  ***MENU>>Control>>Restore Defaults***
 
-#### :warning: !ATTETION PLEASE! 
-#### About DWIN LCD MENU V3
-1. You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware 3.0 or last version, otherwise it will cause some display issue on LCD MENU. 
-2. We will stop to release firmware for "DWIN LCD MENU V2" from 2022-10, V2.2.0 will be the last version for "DWIN LCD MENU V2".
+#### :heavy_exclamation_mark:ATTETION PLEASE:heavy_exclamation_mark:
+#### DWIN LCD MENU
+1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
+2. The firmware of DWIN display screen is downward compatible, please upgrade to the latest version.
 3. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
 4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V3.pdf)  
 
-#### About DWIN LCD MENU V2
-1. You must to upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
-2. We will stop to release firmware for "DWIN LCD MENU V1" from 2022-04-20, V1.3.0 will be the last version for "DWIN LCD MENU V1".
-3. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-4. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
-
-## Release Note
+# Release Note
 --------------
+## V3.x.x
+:warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
+
 ### Z8PM4Pro V3.2.1 [:arrow_down:Download](./Z8PM4Pro_V3_2_1.zip)
 - **Date:** 2022-11-15
 - [**CHG**] Correct shows temperature of hotend and hotbed
@@ -40,10 +37,13 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 - [**BUG**] Fixed the bug HOME Z offset after did "Baby Step Z".
 
 ### Z8PM4Pro V3.0.0 [:arrow_down:Download](./Z8PM4Pro_V3_0_0.zip)
-- [**NEW**] Upgrade to **DWIN LCD MENU V3** [:point_up:](#about-dwin-lcd-menu-v3)
+- [**NEW**] Upgrade to [:point_up: **DWIN LCD MENU V3**](#dwin-lcd-menu)
 - [**NEW**] Add a FlowRate Menu in "Print>>Tune" menu
 
 --------------
+## V2.x.x
+:warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
+
 ### Z8PM4Pro V2.2.0 [:arrow_down:Download](./Z8PM4Pro_V2_3_0.zip)
 - **Date:** 2022-10-18
 - [**BUG**] Fixed the bug HOME Z offset after did "Baby Step Z".
@@ -61,7 +61,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ### Z8PM4Pro V2.0.0 [:arrow_down:Download](./Z8PM4Pro_V2_0_0.zip)
 - **Date:** 2022-04-25
-- [**NEW**] Upgrade to **DWIN LCD MENU V2** [:point_up:](#about-dwin-lcd-menu-v2)
+- [**NEW**] Upgrade to **DWIN LCD MENU V2** [:point_up:](#dwin-lcd-menu)
 - [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.
 - [**NEW**] Add "View User Guide" on INFO menu.
 - [**NEW**] Add "View Update News" on INFO menu.
@@ -80,6 +80,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 - [**CHG**] Change LCD message while temperature error occured.
 
 --------------
+## V1.x.x
 ### Z8PM4Pro V1.3.0 [:arrow_down:Download](./Z8PM4Pro_V1_3_0.zip)
 - **Date:** 2022-03-2
 - ***First release***

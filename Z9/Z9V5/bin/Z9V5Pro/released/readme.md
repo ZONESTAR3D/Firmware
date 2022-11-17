@@ -10,7 +10,7 @@
 ## Release Note
 ----
 ## Firmware V3.x.x
-:warning: If you upgraded the control board firmware to V3.x.x or last version, You need to upgrade the DWIN LCD screen firmware too, about details, please refer to [:point_up: **here**](#dwin-lcd-menu) 
+:warning: **If you upgraded the control board firmware to V3.0.0 or last version, You need to upgrade the DWIN LCD screen firmware too, about details, please refer to [:point_up: here](#dwin-lcd-menu)**
 
 ### Z9V5Pro V3.2.1   [:arrow_download:](./Z9V5Pro_V3_2_1.zip)
 - **Date:** 2022-11-15   
@@ -35,7 +35,7 @@
 
 ----
 ## Firmware V2.x.x
-:warning: If you upgraded the control board firmware to V2.x.x or last version, You need to upgrade the DWIN LCD screen firmware too, about details, please refer to [:point_up: **here**](#dwin-lcd-menu) 
+:warning: **If you upgraded the control board firmware to V2.0.0 or last version, You need to upgrade the DWIN LCD screen firmware too, about details, please refer to [:point_up: here](#dwin-lcd-menu)**
 
 ### Z9V5Pro V2.0.0 [:arrow_download:](./Z9V5Pro_V2_0_0.zip)
 - **Date:** 2022-04-20
