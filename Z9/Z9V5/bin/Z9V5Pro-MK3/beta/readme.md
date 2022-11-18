@@ -5,16 +5,16 @@
 
 ## Release Note
 -------
-### Z9V5Pro-MK3 V3.2.2 [:arrow_down:](./Z9V5Pro-MK3_V3_2_2.zip)
+### Z9V5Pro-MK3 V3.2.2 beta [:arrow_down:](./Z9V5Pro-MK3_V3_2_2_beta.zip)
 - **Date:** 2022-11-18
 - [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
 - [**CHG**] Dynamically adjust the hotend target temperature based on planned E moves.
 
-### Z9V5Pro-MK3 V3.2.1 [:arrow_down:](./Z9V5Pro-MK3_V3_2_1_beta.zip)
+### Z9V5Pro-MK3 V3.2.1 beta [:arrow_down:](./Z9V5Pro-MK3_V3_2_1_beta.zip)
 - **Date:** 2022-11-15
 - [**CHG**] Correct shows temperature of hotend and hotbed
 
-### Z9V5Pro-MK3 V3.2.0 [:arrow_down:](./Z9V5Pro-MK3_V3_2_0_beta.zip)
+### Z9V5Pro-MK3 V3.2.0 beta [:arrow_down:](./Z9V5Pro-MK3_V3_2_0_beta.zip)
 - **Date:** 2022-11-11
 - [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
   --**This feature only work on E4 (4-IN-1-OUT Non-Mix Color) Hotend**.   

@@ -5,7 +5,7 @@
 
 ## Release Note
 ----
-### Z9V5Pro V3.2.2 [:arrow_down:](./Z9V5Pro_V3_2_2_beta.zip)
+### Z9V5Pro V3.2.2 beta [:arrow_down:](./Z9V5Pro_V3_2_2_beta.zip)
 - **Date:** 2022-11-18
 - [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
 - [**CHG**] Dynamically adjust the hotend target temperature based on planned E moves.
