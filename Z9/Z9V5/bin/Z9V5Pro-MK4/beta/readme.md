@@ -2,6 +2,11 @@
 
 ----
 ## Release Note
+### Z9V5Pro-MK4 V1.2.2 [:arrow_down:](./Z9V5ProMK4_V1_2_2.zip)
+- **Date:** 2022-11-18
+- [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
+- [**CHG**] Dynamically adjust the hotend target temperature based on planned E moves.
+
 ### Z9V5Pro-MK4 V1.2.1 [:arrow_down:](./Z9V5ProMK4_V1_2_1.zip)
 - **Date:** 2022-11-15
 - [**CHG**] Correct shows temperature of hotend and hotbed
