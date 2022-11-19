@@ -9,10 +9,10 @@ Included firmware hex file for Z6F and Z6FB.
 ## :file_folder: [SourceCode](./SourceCode/)
 Included firmware suource code。
 
-## [USB driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+## :link: [USB driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 ZMIB used a CP2102 USB to UART bridge chip, please download the new driver from [***Here***](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
-## [Upload firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
+## :link: [Upload firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
 If you want to upload firmware to your 3D printer, please refer to the guide in [***Here***](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)
 
 ## Wiring
