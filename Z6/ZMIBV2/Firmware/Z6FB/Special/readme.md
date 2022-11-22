@@ -4,6 +4,11 @@ To upgrade [:point_right: **BMG extruder**](https://www.aliexpress.com/item/1005
 The motor working direction may be reversed, please refer to [**change motor direction by modifing the stepping motor wire**](./Change_motor_working_direction.jpg).
 
 ----
+## Not limited Z height
+If you changed Z profile to a higher profile, you can upload this firmware.
+:arrow_down: [**Download Firmware HEX file**](./Z6FB_BigZHeigth.zip)  
+
+----
 ## Add bed auto leveling sensor
 If you want to add a bed leveling sensor to Z6F(B), please refer to [:point_right: **here**](./withAutoBedLevling/readme.md)
 
