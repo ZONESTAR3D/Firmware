@@ -16,13 +16,30 @@ About wiring, please refer to "[Z9M4 Firmware and Wiring Diagram.pdf](.\./Z9M4%2
 ![how to change motor woking direction](./how_to_change_motor_woking_direction.jpg)
 
 ----
-
 ## Release Note
-#### About DWIN LCD MENU V3
+### Firmware V3.x.x
 You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
+### :file_folder: [V3.2.2](./V3_2_2/)    
+- **Date:** 	 2022-11-24
+- **NOTE:** 	 
+- [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
+  --**This feature only work on E4 (4-IN-1-OUT Non-Mix Color) Hotend**.   
+- [**NEW**] Display the print elapsed time xxxHxxM after printing finished.
+- [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
+- [**CHG**] Correct shows temperature of hotend and hotbed.
+- [**CHG**] Set the home-offset default value to 0.
+- [**CHG**] Modify print remain time on LCD screen.
+- [**CHG**] Change "PID auto tune" feature.
+- [**BUG**] Fixed the system crashes on gradient and random mixing color printing.
+- [**BUG**] Fixed temperature instability issue on over 230 degreeC.
+- [**BUG**] Fixed some bugs.
+#### :black_circle: Z9M4 + LCDDWIN [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_V3_2_2.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@XYZ [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_TMC220x%40XYZ_V3_2_2.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_TMC220x%40All_V3_2_2.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All + 3DTouch [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_3DTouch_TMC220x%40All_V3_2_2.zipp)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All + BGM Extruder [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_BGM_TMC220x%40All_V3_2_2.zip)
 
-### :file_folder: [V3.0.0_beta](./V3_0_0_beta/)    
-#### :warning: Only for 4.3" DWIN_LCD
+### :file_folder: [V3.0.0_beta](./V3_0_0_beta/) 
 - **Date:** 	 2022-10-18
 - **NOTE:** 	 
 	- [**NEW**] Upgrade to DWIN LCD MENU V3 [:point_up: About detail](#about-dwin-lcd-menu-v3)
@@ -36,16 +53,16 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 	- [**CHG**] Allow to move extruder motors while printing is paused.
 	- [**BUG**] Correct print time (printed time and remain time).
 	- [**BUG**] Fixed some known bugs.
-
 #### :black_circle: Z9M4 + LCDDWIN [:arrow_down:](./V3_0_0_beta/Z9M4_LCDDWIN_V3_0_0.zip)
 #### :black_circle: Z9M4 + LCDDWIN + TMC220x@XYZ [:arrow_down:](./V3_0_0_beta/Z9M4_LCDDWIN_TMC220x@XYZ_V3_0_0.zip)
 #### :black_circle: Z9M4 + LCDDWIN + TMC220x@All [:arrow_down:](./V3_0_0_beta/Z9M4_LCDDWIN_TMC220x@All_V3_0_0.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All + 3DTouch [:arrow_down:](./V3_0_0_beta/Z9M4_LCDDWIN_3DTouch_TMC220x%40All_V3_0_0.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All + BGM Extruder [:arrow_down:](./V3_0_0_beta/Z9M4_LCDDWIN_BGM_TMC220x%40All_V3_0_0.zip)
 
 --------
+### Firmware V2.x.x
 #### About DWIN LCD MENU V2
-1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
-2. About how to upgrade firmware of DWIN LCD screen ,please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-3. About the new LCD screen function description, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN%20MENU%20Description%20V2.pdf)  
+You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 2.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 
 ### :file_folder: [V2.0.0_beta](./V2_0_0_beta/)
 #### :warning: Only for 4.3" DWIN_LCD

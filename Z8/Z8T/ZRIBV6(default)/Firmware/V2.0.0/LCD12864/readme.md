@@ -1,6 +1,7 @@
 ## How to upload firmware to the control board
 ### :one: Download firmware HEX file
 Click the download link to download a ZIP file, and then unzip it at your PC, you can get the HEX file for upload to 3d printer.
+![](./download.gif)
 #### How to choose firmware
 - If you haven't upgraded any features, please [**:arrow_down: download the orignal firmware**](./Z8T_V200.zip) and choose one firmware file:
   - **English menu** Z8T\_Vxxx_en.HEX    
