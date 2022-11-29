@@ -5,6 +5,11 @@
 
 ## Release Note
 ----
+### Z9V5Pro V3.2.3 beta [:arrow_down:](./Z9V5Pro_V3_2_3_beta.zip)
+- **Date:** 2022-11-18
+- [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](M73_PrusaSlicer.jpg)**
+    <!-- - **[:point_right: How to set in Cura]()** -->
+
 ### Z9V5Pro V3.2.2 beta [:arrow_down:](./Z9V5Pro_V3_2_2_beta.zip)
 - **Date:** 2022-11-18
 - [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
