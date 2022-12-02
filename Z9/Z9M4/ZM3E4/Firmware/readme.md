@@ -19,7 +19,7 @@ About wiring, please refer to "[Z9M4 Firmware and Wiring Diagram.pdf](.\./Z9M4%2
 ## Release Note
 ### Firmware V3.x.x
 You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
-### :file_folder: [V3.2.2](./V3_2_2/)    
+### :file_folder: [V3.2.2](./V3_2_2_/)    
 - **Date:** 	 2022-11-24
 - **NOTE:** 	 
 - [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
@@ -33,11 +33,16 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 - [**BUG**] Fixed the system crashes on gradient and random mixing color printing.
 - [**BUG**] Fixed temperature instability issue on over 230 degreeC.
 - [**BUG**] Fixed some bugs.
-#### :black_circle: Z9M4 + LCDDWIN [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_V3_2_2.zip)
-#### :black_circle: Z9M4 + LCDDWIN + TMC220x@XYZ [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_TMC220x%40XYZ_V3_2_2.zip)
-#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_TMC220x%40All_V3_2_2.zip)
-#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All + 3DTouch [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_3DTouch_TMC220x%40All_V3_2_2.zipp)
-#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All + BGM Extruder [:arrow_down:](./V3_2_2/Z9M4_LCDDWIN_BGM_TMC220x%40All_V3_2_2.zip)
+#### :black_circle: Z9M4 + LCDDWIN [:arrow_down:](./V3_2_2/LCD_DWIN/Z9M4_LCDDWIN_V3_2_2.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@XYZ [:arrow_down:](./V3_2_2/LCD_DWIN/Z9M4_LCDDWIN_TMC220x%40XYZ_V3_2_2.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All [:arrow_down:](./V3_2_2/LCD_DWIN/Z9M4_LCDDWIN_TMC220x%40All_V3_2_2.zip)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All + 3DTouch [:arrow_down:](./V3_2_2/LCD_DWIN/Z9M4_LCDDWIN_3DTouch_TMC220x%40All_V3_2_2.zipp)
+#### :black_circle: Z9M4 + LCDDWIN + TMC220x@All + BGM Extruder [:arrow_down:](./V3_2_2/LCD_DWIN/Z9M4_LCDDWIN_BGM_TMC220x%40All_V3_2_2.zip)
+#### :black_circle: Z9M4 + LCD12864 [:arrow_down:](./V3_2_2/LCD12864%2BTFT35/Z9M4_V3_2_3_beta.zip)
+#### :black_circle: Z9M4 + LCD12864 + TMC220x@XYZ [:arrow_down:](./V3_2_2/LCD12864%2BTFT35/Z9M4_TMC220x%40XYZ_V3_2_3_beta.zip)
+#### :black_circle: Z9M4 + LCD12864 + TMC220x@All [:arrow_down:](./V3_2_2/LCD12864%2BTFT35/Z9M4_TMC220x%40All_V3_2_3_beta.zip)
+#### :black_circle: Z9M4 + LCD12864 + TMC220x@All + 3DTouch [:arrow_down:](./V3_2_2/LCD12864%2BTFT35/Z9M4_TMC220x%40All_3DTouch_V3_2_3_beta.zip)
+#### :black_circle: Z9M4 + LCD12864 + TMC220x@All + BGM Extruder [:arrow_down:](./V3_2_2/LCD12864%2BTFT35/Z9M4_TMC220x%40All_BGM_V3_2_3_beta.zip)
 
 ### :file_folder: [V3.0.0_beta](./V3_0_0_beta/) 
 - **Date:** 	 2022-10-18
