@@ -19,7 +19,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 :warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
 
 ### Z8PM4Pro V3.2.3 [:arrow_down:Download](./Z8PM4Pro_V3_2_3.zip)
-- **Date:** 2022-11-28
+- **Date:** 2022-12-03
 - [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](M73_PrusaSlicer.jpg)**
 
 ### Z8PM4Pro V3.2.2 [:arrow_down:Download](./Z8PM4Pro_V3_2_2.zip)
