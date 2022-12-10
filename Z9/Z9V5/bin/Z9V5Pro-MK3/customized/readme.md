@@ -9,6 +9,8 @@ Upgraded all motor drivers to TMC2209
 Upgraded all motor drivers to TMC2209 and Upgraded bed leveling sensor to 3DTouch/BLTouch.
 #### Z9V5Pro-MK3-BGM_V3_1_1 [:arrow_down:](./Z9V5Pro-MK3-BGM_V3_1_1.zip)
 Upgraded Extruders to Dual Gear Extruders 
+#### Z9V5ProMK3Max_V3_2_3 [:arrow_down:](./Z9V5ProMK3Max_V3_2_3.zip)
+Upgrade Z9V5Pro-MK3 to 500mmx500mm build size
 
 -----
 #### About how to upload firmware, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin#how-to-upload-firmware-to-z9v5pro)
