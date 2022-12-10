@@ -4,3 +4,4 @@
 
 ## Wiring Diagram
 ![](./M8R2-ZRIBV6.jpg)
+![](./M8S-ZRIBV6.jpg)
