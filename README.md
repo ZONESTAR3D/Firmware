@@ -3,8 +3,6 @@
 
 ---------
 ## ZONESTAR 3D Printer Firmware download link:
-- :file_folder: [**P802 Serial: P802C/P802M/P802N/P802Q/M8R2**](./P802/)
-- :file_folder: [**D805 Serial: D805/D805S/D805SR2**](./D805S/)
 - :file_folder: [**Z5 Serial: Z5/Z5S/Z5SM2/Z5SR2**](./Z5/)
 - :file_folder: [**Z5X Serial: Z5X/Z5XM2**](./Z5X/)
 - :file_folder: [**Z6 Serial: Z6/Z6B/Z6F/Z6FB**](./Z6/)
@@ -32,3 +30,8 @@
 3. Unzip "Arduloader.zip" , there is a user guide"Arduloader_user_guide.pdf" in this zip file, please read it. 
 4. Connect the printer to your PC, please make sure the driver has been installed correctly. 
 5. Follow "Arduloader_user_guide.pdf" to upload the firmware to your control board.
+
+----
+### :file_folder:[Discontinued 3D Printer product Firmware](./backup/)
+- :file_folder: [**P802 Serial: P802C/P802M/P802N/P802Q/M8R2**](./backup/P802/)
+- :file_folder: [**D805 Serial: D805/D805S/D805SR2**](./backup/D805S/)

@@ -1,9 +1,0 @@
-***************************************************************
-	Model: Z5S
-	Control Boar: ZMIB-V2
-***************************************************************
-Version: V1.2
-Date: 20190320
-[DEBUG ]Fix filament run out detection issue
-[CHANGE]Calibrate the HOTEND temperature
-***************************************************************

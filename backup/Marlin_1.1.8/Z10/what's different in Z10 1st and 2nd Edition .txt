@@ -1,4 +1,0 @@
-Z10 2nd Edition upgraded:
-1. Power supply modify to 24V
-2. Control board upgrade to ZRIBV6
-3. Upgrade hotbed bracket, wires etc.
