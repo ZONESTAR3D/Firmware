@@ -8,6 +8,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
-### [:arrow_down: Z8PM4Pro V1.0.0](./Z8PM4Pro-MK2_V1_0_0.zip)
+### [:arrow_down: Z8PM4-MK2 V1.1](./Z8PM4MK2_V1_1.zip)
+- **Date:** 2022-12-14
+- [CHG]Correct the temperature when the temperature is less than 20 degree
+
+### [:arrow_down: Z8PM4-MK2 V1.0](./Z8PM4MK2_V1_0.zip)
 - **Date:** 2022-12-03
 - ***First release***
