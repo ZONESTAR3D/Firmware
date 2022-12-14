@@ -5,6 +5,10 @@
 
 ## Release Note
 ----
+### [Z9V5Pro-MK3 V3.2.4 beta :arrow_down:](./Z9V5Pro-MK3_V3_2_4_beta.zip)
+- **Date:** 2022-12-14
+- [**CHG**] Correct temperature when the temperature is less than 20 degree
+
 ### [Z9V5Pro-MK3 V3.2.3 beta :arrow_down:](./Z9V5Pro-MK3_V3_2_3_beta.zip)
 - **Date:** 2022-11-28
 - [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](M73_PrusaSlicer.jpg)**
