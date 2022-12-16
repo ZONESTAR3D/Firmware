@@ -11,6 +11,12 @@
 ----
 ## Firmware V3.x.x
 :warning: **If you upgraded the control board firmware to V3.0.0 or last version, You need to upgrade the DWIN LCD screen firmware too, about details, please refer to [:point_up: here](#dwin-lcd-menu)**
+### [Z9V5Pro V3.2.4 :arrow_down:](./Z9V5Pro_V3_2_4.zip)
+- **Date:** 2022-12-14
+- [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](M73_PrusaSlicer.jpg)**
+- [**CHG**] Correct temperature when the temperature is less than 20 degree
+- [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
+- [**CHG**] Dynamically adjust the hotend target temperature based on planned E moves.
 
 ### [Z9V5Pro V3.2.1 :arrow_down:](./Z9V5Pro_V3_2_1.zip)
 - **Date:** 2022-11-15   
