@@ -1,8 +1,8 @@
 ## Firmware of Z8P series 3d printer
 ### :file_folder: [Z8PM3](./Z8PM3/)
-
+### :file_folder: [Z8PM3Pro](./Z8PM3Pro/)
 ### :file_folder: [Z8PM4Pro](./Z8PM4Pro/)
-
+### :file_folder: [Z8PM4-MK2](./Z8PM4-MK2/)
 ----
 #### What's different between Z8PM3 with Z8PM4Pro
 - Z8PM4Pro with 4 extruders and a 4-IN-1-OUT mix color hotend; Z8PM3 with 3 extruders and a 3-IN-1-OUT mix color hotend.
