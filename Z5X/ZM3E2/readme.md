@@ -28,9 +28,8 @@
 
 -----
 ## Firmware source code
-- :arrow_down:[Z5X](./SourceCode/Z5X_ZM3E2_V1_2_0.zip)
-- :arrow_down:[Z5XM2](./SourceCode/Z5XM2_ZM3E2_V1_2_0.zip)
-- :arrow_down:[Z5XR2S](./SourceCode/Z5XR2S_ZM3E2_V1_2_0.zip)
+#### Firmware source code download link: https://github.com/ZONESTAR3D/source-code-for-3d-printer
+#### Config file: https://github.com/ZONESTAR3D/source-code-for-3d-printer/tree/main/config/Z5X_ZM3E2
 
 -----
 ## Sales link:

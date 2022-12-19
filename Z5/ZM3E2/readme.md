@@ -23,7 +23,9 @@
 ### Upgraded WiFi (and PL-08N bed leveling sensor)
 ![](./ZM3E2-WiFi_PL08N.png)
 
-## :file_folder: [Firmware source code](./Sourcecode/)
+## Firmware source code
+#### Firmware source code download link: https://github.com/ZONESTAR3D/source-code-for-3d-printer
+#### Config file: https://github.com/ZONESTAR3D/source-code-for-3d-printer/tree/main/config/Z5S_ZM3E2
 
 -----
 ## Sales link:
