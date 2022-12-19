@@ -32,3 +32,10 @@
 - :arrow_down:[Z5XM2](./SourceCode/Z5XM2_ZM3E2_V1_2_0.zip)
 - :arrow_down:[Z5XR2S](./SourceCode/Z5XR2S_ZM3E2_V1_2_0.zip)
 
+-----
+## Sales link:
+- **[:gift: 3d touch](https://www.aliexpress.com/item/1005001464420529.html)**
+- **[:gift: PL-08N - Choose "PL-08N 3V"](https://www.aliexpress.com/item/4000596309710.html)**
+- **[:gift: WiFi Module - Choose "WiFi Module for ZM3E2"](https://www.aliexpress.com/item/1005002378551489.html)**
+
+

@@ -23,5 +23,10 @@
 ### Upgraded WiFi (and PL-08N bed leveling sensor)
 ![](./ZM3E2-WiFi_PL08N.png)
 
-
 ## :file_folder: [Firmware source code](./Sourcecode/)
+
+-----
+## Sales link:
+- **[:gift: 3d touch](https://www.aliexpress.com/item/1005001464420529.html)**
+- **[:gift: PL-08N - Choose "PL-08N 3V"](https://www.aliexpress.com/item/4000596309710.html)**
+- **[:gift: WiFi Module - Choose "WiFi Module for ZM3E2"](https://www.aliexpress.com/item/1005002378551489.html)**
