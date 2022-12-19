@@ -10,10 +10,10 @@
 #### [:arrow_down: Z5X upgrade to ZM3E2 control board](./Z5X_ZM3E2_V1_2_0_en.zip)
 #### [:arrow_down: Z5XM2 upgrade to ZM3E2 control board](./Z5XM2_ZM3E2_V1_2_0_en.zip)
 #### [:arrow_down: Z5XR2S upgrade to ZM3E2 control board](./Z5XR2S_ZM3E2_V1_2_0_en.zip)
-#### [:arrow_down: Z5X upgrade to ZM3E2 control board and 3d Touch bed leveling sensor](Z5X_ZM3E2_3DTouch_V1_2_0_en)
+#### [:arrow_down: Z5X upgrade to ZM3E2 control board and 3d Touch bed leveling sensor](Z5X_ZM3E2_3DTouch_V1_3_0_beta.zip)
 <!-- #### [:arrow_down: Z5XM2 upgrade to ZM3E2 control board and 3d Touch bed leveling sensor]() -->
 <!-- #### [:arrow_down: Z5XR2S upgrade to ZM3E2 control board and 3d Touch bed leveling sensor]() -->
-#### [:arrow_down: Z5X upgrade to ZM3E2 control board, PL08N bed leveling sensor and WiFi](Z5X_ZM3E2_PL08N_WiFi_V1_3_0_en)
+#### [:arrow_down: Z5X upgrade to ZM3E2 control board, PL08N bed leveling sensor and WiFi](./Z5X_ZM3E2_PL08N_WiFi_V1_3_0_en.zip)
 <!-- #### [:arrow_down: Z5XM2 upgrade to ZM3E2 control board and WiFi]() -->
 <!-- #### [:arrow_down: Z5XR2 upgrade to ZM3E2 control board and WiFi]() -->
 
