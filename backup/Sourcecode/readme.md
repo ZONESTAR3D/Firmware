@@ -1,14 +1,15 @@
 ### [:arrow_down: V3](./Sourcecode/V3.zip)
 ### [:arrow_down: V4](./Sourcecode/V4.zip)
 
-----
+-----
 ## How to build firmware source code
 ### 1. Download and install [Arduino IDE V1.18.x](https://www.arduino.cc/en/software). The last version should work too, but we don't test it.
 ### 2. Open the config.h file and modify the below line, about details of the MODEL_NUMBER, please open the "modelist.h" file to view the definition
 >
     #define	MODEL_NUMBER		D805SR2
-### 3. Open Marlin.ino in Arduino IDE and build it
+### 3. Open Marlin.ino in Arduino IDE and build it.
 
+-----
 #### modelist.h
 >
     /*********************************************************************************************************/
