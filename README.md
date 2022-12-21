@@ -33,5 +33,5 @@
 
 ----
 ### :file_folder:[Discontinued 3D Printer product Firmware](./backup/)
-- :file_folder: [**P802 Serial: P802C/P802M/P802N/P802Q/M8R2**](./backup/P802/)
-- :file_folder: [**D805 Serial: D805/D805S/D805SR2**](./backup/D805S/)
+- [**Firware**](./backup/Firmware/)
+- [**Sourcecode**](./backup/Sourcecode/)
