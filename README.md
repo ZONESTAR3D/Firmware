@@ -1,7 +1,27 @@
+### Choose Language (Translated by google)
+[![](./lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=es)
+[![](./lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=fr)
+[![](./lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=pt)
+[![](./lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=de)
+[![](./lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=it)
+[![](./lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=pl)
+[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ru)
+[![](./lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=el)
+[![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ja)
+[![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ko)
+[![](./lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=id)
+[![](./lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=th)
+[![](./lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=vi)
+[![](./lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=iw)
+[![](./lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ar)
+[![](./lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=tr)
+[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=zh-CN)
+
+-----
 # Firmware file for ZONESTAR 3D printer
 ***NOTE:If you find any question, please feel free to contact us by email: [support@zonestar3d.com](support@zonestar3d.com)***
 
----------
+-----
 ## ZONESTAR 3D Printer Firmware download link:
 - :file_folder: [**Z5 Serial: Z5/Z5S/Z5SM2/Z5SR2**](./Z5/)
 - :file_folder: [**Z5X Serial: Z5X/Z5XM2**](./Z5X/)
@@ -10,11 +30,11 @@
 - :file_folder: [**Z9 series: Z9M2/Z9M3/Z9M4/Z9V5**](./Z9/)
 - :file_folder: [**Z10 series: Z10S/Z10M2**](./Z10/)
 
----------
+-----
 ## How to Upload Firmware
 ***ATTETION:Please distinguish the control board model before upload firmware***
 
-### For ZM3E2/ZM3E4 control board 
+### For ZM3E2/ZM3E4 32-bit control board 
 :movie_camera: [**How to download firmware bin(Hex) file and copy to SD card**](./Firmware_Download.gif)
 1. Download the zip file and unzip it, you will got a firmware.bin file
 2. Copy firmware.bin to the root directory of Micro-SD card
@@ -24,7 +44,7 @@
 	- For LCD12864: "MENU>>Configuration>>Advanced setting>>initialize  EEPROM"
 	- For LCD_DWIN: "MENU>>Control>>Restore Defaults"    
 
-### For ZRIB & ZMIB control board  
+### For ZRIB & ZMIB 8-bit control board  
 1. Download firmware upgrade tool: [:arrow_down:](./Firmware_Upload_tool_for_ZRIB_ZMIB/Arduloader.zip).
 2. Download HEX file and copy the hex file to the same directory with the tool.   
 3. Unzip "Arduloader.zip" , there is a user guide"Arduloader_user_guide.pdf" in this zip file, please read it. 
