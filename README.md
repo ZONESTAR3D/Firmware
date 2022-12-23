@@ -53,5 +53,5 @@
 
 ----
 ### :file_folder:[Discontinued 3D Printer product Firmware](./backup/)
-- [**Firware**](./backup/Firmware/)
+- [**Firmware**](./backup/Firmware/)
 - [**Sourcecode**](./backup/Sourcecode/)
