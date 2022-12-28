@@ -5,7 +5,7 @@
 4. Power on the printer, push the power button and wait about 30 seconds
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:
 LCD12864: MENU>>config>>Advanced setting>>Initlizate EEPROM
-TFT_LCD: MENU>>config>>Restore Defaults
+DWIN TFT_LCD: MENU>>config>>Restore Defaults
 
 ### [:file_folder: LCDDWIN](./LCDDWIN/)
 Firmware for 4.3" TFT-LCD screen.
