@@ -53,5 +53,6 @@
 
 ----
 ### :file_folder:[Discontinued 3D Printer product Firmware](./backup/)
+If your printer model is P802C, P802M, P802N, P802Q, Z9M2, Z9M3, D805S, D806, please find the firmware from the below link:
 - [**Firmware**](./backup/Firmware/)
 - [**Sourcecode**](./backup/Sourcecode/)
