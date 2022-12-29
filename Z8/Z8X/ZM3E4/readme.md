@@ -25,9 +25,3 @@ DWIN TFT_LCD: MENU>>config>>Restore Defaults
 
 -----
 ### ![](./LCD-DWIN.jpg) Firmware for DWIN 4.3" TFT-LCD screen
-#### [:arrow_down: Download firmware]()
-#### Configration:
-- **LCD:** DWIN 4.3" TFT-LCD screen
-- **Motor Driver:** [TMC2208 or TMC2209](https://www.aliexpress.com/item/1005003951621661.html) used on all axis.
-#### Wiring Diagram
-![]()
