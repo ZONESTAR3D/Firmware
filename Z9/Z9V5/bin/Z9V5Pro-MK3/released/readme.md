@@ -4,6 +4,13 @@
 You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 
 ## Release Note
+-----
+### Z9V5Pro-MK3 V3.2.4 [:arrow_down:](./Z9V5Pro-MK3_V3_2_4.zip)
+- **Date:** 2022-12-14
+- [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](../beta/M73_PrusaSlicer.jpg)**
+- [**CHG**] Correct temperature when the temperature is less than 20 degree.
+- [**CHG**] When the hotend/hotbed heating fail, only showed message but not turn off printer.
+
 ### Z9V5Pro-MK3 V3.2.1 [:arrow_down:](./Z9V5Pro-MK3_V3_2_1.zip)
 - **Date:** 2022-11-15
 - [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
@@ -42,7 +49,24 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 - [**BUG**] Fix bug on hotend max temp setting.
 - [**BUG**] Fix bug on display on hotend high temperature.
 
----------------
+-----
+### Z9V5Pro-MK3 V2.7.0 [:arrow_down:](Z9V5Pro-MK3_V2_7_0.zip)
+- **Date:** 2022-12-14
+- [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](../beta/M73_PrusaSlicer.jpg)**
+- [**CHG**] Correct temperature when the temperature is less than 20 degree.
+- [**CHG**] When the hotend/hotbed heating fail, only showed message but not turn off printer.
+- [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
+  --**This feature only work on E4 (4-IN-1-OUT Non-Mix Color) Hotend**.   
+- [**NEW**] Display the print elapsed time xxxHxxM after printing finished.
+- [**CHG**] Set the home-offset default value to 0
+- [**CHG**] Modify print remain time on LCD screen
+- [**CHG**] Change "PID auto tune" feature.
+- [**CHG**] Delete "Max Hotend temp" menu, but you still need to take care when setting temperature of the mixing color hotend.
+- [**BUG**] Fixed the system crashes on gradient and random mixing color printing.
+- [**BUG**] Fixed temperature instability issue on over 230 degreeC.
+- [**BUG**] Fixed some known bugs.
+
+
 ### Z9V5Pro-MK3 V2.6.0 [:arrow_down:](Z9V5Pro-MK3_V2_6_0.zip)
 - **Date:** 2022-10-17
 - [**NEW**] Add a "Viwe Update News" on info Menu.
