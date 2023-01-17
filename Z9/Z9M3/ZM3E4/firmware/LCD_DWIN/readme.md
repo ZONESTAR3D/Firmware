@@ -31,3 +31,13 @@ If the printer used different parts, the control board need to be uploaded diffe
 - **Extruder:** Titan Extruder
 - **Motor Drivers:** TMC2208 or TMC2209 used to XYZ axis and Extruders motors
 - **Bed Leveling Sensor:** PL-08N
+
+
+-----
+### Firmware Upload Steps
+1. Download and unzip the firmware zip file
+2. Copy firmware.bin to the root directoy of Micro-SD card
+3. Power off the printer and plug the Micro-SD card into socket on control board
+4. Power on the printer, wait about 30 seconds (need to push the DC power switch if you have installed it)
+5. Reset the EEPROM after uploaded frimware:    
+  `MENU>>Contol>>Restore defaults`
