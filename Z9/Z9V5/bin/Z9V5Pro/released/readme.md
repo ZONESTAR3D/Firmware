@@ -1,11 +1,9 @@
-#### DWIN LCD MENU
-:warning: !ATTETION PLEASE!    
-1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware V2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
-2. About how to upgrade firmware of DWIN LCD screen ,please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#upload-firmware)  
-3. About the new LCD screen function description, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#user-guide)  
+### About how to upload firmware of the 3d printer, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin#how-to-upload-firmware-to-z9v5pro)
 
-----
-#### About how to upload firmware, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin#how-to-upload-firmware-to-z9v5pro)
+### :warning: !ATTENTION PLEASE!
+- You must upgrade the DWIN LCD screen menu files before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. 
+- About how to upgrade the LCD MENU files of DWIN LCD, please refer to [:point_right: **here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN).
+- About the newest MENU description, please refer to  [:point_right: **here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/readme.md).
 
 ## Release Note
 ----
