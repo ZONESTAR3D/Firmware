@@ -2,6 +2,13 @@
 
 -----
 ## Release Note
+### [Z9V5Pro-MK4 V1.2.4 :arrow_down:](./Z9V5ProMK4_V1_2_4.zip)
+- **Date:** 2022-12-14
+- [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](../beta/M73_PrusaSlicer.jpg)**
+- [**CHG**] Correct temperature when the temperature is less than 20 degree
+- [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
+- [**CHG**] Dynamically adjust the hotend target temperature based on planned E moves.
+
 ### Z9V5Pro-MK4 V1.2 [:arrow_down:](./Z9V5ProMK4_V1_2.zip)
 - **Date:** 2022-11-11
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
