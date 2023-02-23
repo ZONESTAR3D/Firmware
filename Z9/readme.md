@@ -1,5 +1,5 @@
 # Firmware for ZONESTAR Z9  
-## Z9V5Pro-MK4
+## :file_folder: [Z9V5Pro-MK4](./Z9V5/bin/Z9V5Pro-MK4)
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
 - Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [**4-IN-1-OUT Non-Mix Color hotend**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend).
@@ -13,7 +13,7 @@
 - **WiFi wireless control** [:gift:](https://bit.ly/3rB7mx1)  [:gift:](https://www.aliexpress.com/item/3256802192236737.html)   
 - **PEI Bed Sticker** [:gift:](http://bit.ly/3GbI9Sr)
 
-## Z9V5Pro-MK3
+## :file_folder: [Z9V5Pro-MK3](./Z9V5/bin/Z9V5Pro-MK3)
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
 - Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color hotend (M4V4)](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)
@@ -27,7 +27,7 @@
 - **PEI Bed Sticker** [:gift:](http://bit.ly/3GbI9Sr)
 
 
-## Z9V5Pro-MK1(MK2) & Z9V5
+## :file_folder: [Z9V5Pro-MK1&MK2](./Z9V5/bin/Z9V5Pro)
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
 - Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color hotend (M4V3)](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)
@@ -37,14 +37,14 @@
   - 4x [A4988](https://www.aliexpress.com/item/2255800771058461.html) used on extruder steps motors
 - LCD Screen: 
  - Z9V5: [128x64 dots LCD screen](https://www.aliexpress.com/item/2255801130809506.html)   
- - Z9V5Pro-MK1(MK2): [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)      
+ - Z9V5Pro: [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)      
 ### Recommanded Upgrade Feature
 - **Non-Mix Color E4 hotend**[:gift:](https://www.aliexpress.com/item/3256802765462947.html)  [:gift:](https://bit.ly/39qDtKp)
 - **New Mixing Color hotend** [:gift:](https://bit.ly/3QhWJtf) [:gift:](https://www.aliexpress.com/item/1005004547646195.html)
 - **WiFi wireless control** [:gift:](https://bit.ly/3rB7mx1)  [:gift:](https://www.aliexpress.com/item/3256802192236737.html)   
 - **PEI Bed Sticker** [:gift:](http://bit.ly/3GbI9Sr)
 
-## Z9M4
+## :file_folder:[Z9M4](./Z9M4)
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
 - Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color hotend (M4V2)](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend).
@@ -58,7 +58,7 @@
 - [WiFi wireless control](https://www.aliexpress.com/item/3256802192236737.html) 
 - [Dual Z drivers](https://www.aliexpress.com/item/3256801447052364.html)
 
-## Z9M3
+## :file_folder: [Z9M3](./Z9M3)
 ### Default configurations: 
 - Control board: [ZRIBV6 (8 bits control board)](#zribv6)
 - Extrude system: 3 Extrusion feeder + 3-IN-1-OUT hotend.
@@ -76,7 +76,7 @@
 - [WiFi wireless control](https://www.aliexpress.com/item/3256802192236737.html) . ***MUST to upgrade ZM3E4 32 bits control boar first***   
 - [Dual Z drivers](https://www.aliexpress.com/item/3256801447052364.html)
 
-## Z9M2
+## :file_folder:[Z9M2](./Z9M2)
 ### Default configurations:
 - Control board: [ZRIBV6 (8 bits control board)](#zribv6)  
 - Extrude system: 2 Extrusion feeder + 2-IN-1-OUT hotend
