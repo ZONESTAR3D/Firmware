@@ -9,6 +9,18 @@
 #### Wiring Diagram for ZRINB6
 ![](./Z9M2_ZRIBV6.jpg)
 
+### Upload the firmware to ZRIB control board
+#### Upload firmware with Arduloader (only worked on windows)
+- About how to upload firmware to ZRIB control board with Arduloader, please refer to [**here**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB).
+#### Upload firmware by Cura
+1. Download the .hex file and upzip to your PC
+2. Connect the printer to your computer via the USB cable.
+3. Open up Cura. Click "Machine" on the menu bar and click "Install custom firmwa..."
+4. Navigate to the .hex file and open it.
+5. Click "OK" if a notification pops up regarding updating RepRap with Cura.
+6. Once it says the firmware has been updated successfully, you can see the LCD screen restart again and show the first menu. 
+
+-------
 ## Upgraded ZM3E4 32-bit control board
 #### :file_folder: [Firmware BIN file](./Firmware/)
 #### :link: [Firmware Source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
