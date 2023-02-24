@@ -12,7 +12,7 @@
 ### Upload the firmware to ZRIB control board
 #### Upload firmware with Arduloader (only worked on windows)
 - About how to upload firmware to ZRIB control board with Arduloader, please refer to [**here**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB).
-#### Upload firmware by Cura
+#### Upload firmware with Cura
 1. Download the .hex file and upzip to your PC
 2. Connect the printer to your computer via the USB cable.
 3. Open up Cura. Click "Machine" on the menu bar and click "Install custom firmwa..."
