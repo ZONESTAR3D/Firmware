@@ -1,5 +1,4 @@
 ## Release Note
-## Release Note
 ### Firmware V3.2.3
 **Date:** 	 2023-03-23
 **NOTE:**    
@@ -9,6 +8,7 @@
 - **[:arrow_down: Z9M4 + LCDDWIN + TMC220x@All + BGM Extruder](./Z9M4_LCDDWIN_BGM_TMC220x%40All_V3_2_3.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down: Z9M4 + LCDDWIN + TMC220x@All + 3DTouch](./Z9M4_LCDDWIN_3DTouch_TMC220x%40All_V3_2_3.zip) [:art: Wiring Diagram: Wiring 2](#wiring-1)**
 
+-----
 ### Firmware V3.2.2
 **Date:** 	 2022-11-24
 **NOTE:**    
@@ -30,6 +30,7 @@ You must upgrade the DWIN LCD screen firmware before upgrading the printer firmw
 - **[:arrow_down: Z9M4 + LCDDWIN + TMC220x@All + BGM Extruder](./Z9M4_LCDDWIN_BGM_TMC220x%40All_V3_2_2.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down: Z9M4 + LCDDWIN + TMC220x@All + 3DTouch](./Z9M4_LCDDWIN_3DTouch_TMC220x%40All_V3_2_2.zip) [:art: Wiring Diagram: Wiring 2](#wiring-1)**
 
+-----
 ### Wiring 1
 - **4.3" TFT_LCD (+ WiFi Module)**     
 **:warning: WiFi Module is optional**    
