@@ -1,6 +1,6 @@
 ## Release Note
 ### Firmware V3.2.3
-**Date:** 	 2023-03-23
+**Date:** 	 2023-03-23    
 **NOTE:**    
 - **[:arrow_down: Z9M4 + LCDDWIN](./Z9M4_LCDDWIN_V3_2_3.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down: Z9M4 + LCDDWIN + TMC220x@XYZ ](./Z9M4_LCDDWIN_TMC220x%40XYZ_V3_2_3.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
@@ -10,7 +10,7 @@
 
 -----
 ### Firmware V3.2.2
-**Date:** 	 2022-11-24
+**Date:** 	 2022-11-24    
 **NOTE:**    
 You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. For more details, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
 [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
