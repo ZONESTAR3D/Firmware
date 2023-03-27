@@ -5,10 +5,13 @@
 ![](1.jpg)
 ![](2.jpg)
 
-### Wiring Diagram
-#### ZRIBV6
+### ZRIBV6
+#### :file_folder:[Firmware](./ZRIBV6(default)/)
+#### Wiring Diagram
 ![](Z8T_ZRIBV6_Wiring_Diagram.jpg)
 
 #### ZM3E4
+#### :file_folder:[Firmware](./ZM3E4/)
+#### Wiring Diagram
 ![](Z8M3(M4)_ZM3E4_Wiring_Diagram.jpg)
 
