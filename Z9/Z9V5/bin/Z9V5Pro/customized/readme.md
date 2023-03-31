@@ -16,6 +16,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ### Upgraded 3DTouch [:arrow_down:](./Z9V5Pro_3DTouch_V3_2_5_beta.zip)
 ### Upgraded TMC220x motor drivers [:arrow_down:](./Z9V5Pro_TMC220xALL_V3_2_5_beta.zip)
 ### Upgraded 3DTouch and TMC220x motor drivers [:arrow_down:](./Z9V5Pro_3DTouch_TMC220xALL_V3_2_5_beta.zip)
+### Upgrade ZL-Sensor bed leveling sensor [:arrow_down:](./ZLSENSOR/readme.md)
 - **Date:** 2023-03-31
 - [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
   --**This feature only work on E4 (4-IN-1-OUT Non-Mix Color) Hotend**.   
