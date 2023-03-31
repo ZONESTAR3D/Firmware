@@ -7,6 +7,14 @@
 
 ## Release Note
 ----
+### [Z9V5Pro V3.2.5 beta :arrow_down:](./Z9V5Pro_V3_2_5_beta.zip)
+- **Date:** 2023-03-31
+- [**NEW**] Add a "laser" item in "confire" menu, Turn it on when you use the laser engraving function.      
+- [**NEW**] Add a "troubleshooting" item in "infor" menu, click it to pop up a QRcord of troubleshooting link.     
+  
+**About laser item**    
+For ZM3E4 control board, laser engraving PWM and the extruder fan PWM  of the 3D printer used the same pin of MCU. When it be used as a extruder fan PWM of the 3D printing function, at the instant the fan is turned on, the PWM pin should output a short time high level (it is 500ms in the firmware) to help the fan to rotate successfully. However, this is not good at the engraving resolution. After adding this menu, the user can turn the "laser" on on LCD MENU when using laser engraving, so the machine don't out put a short time high level while the PWM output.
+
 ### [Z9V5Pro V3.2.4 beta :arrow_down:](./Z9V5Pro_V3_2_4_beta.zip)
 - **Date:** 2022-12-14
 - [**CHG**] Correct temperature when the temperature is less than 20 degree
