@@ -85,9 +85,9 @@
 
 
 ## About the control board:
-### ZRIBV6
-![ZRIBV6](ZRIBV6.jpg)
+### ![ZRIBV6](ZRIBV6.jpg) ZRIBV6
 
-### [ZM3E4](https://www.aliexpress.com/item/3256801114422275.html)
+
+### ![ZM3E4](ZM3E4.jpg) [ZM3E4](https://www.aliexpress.com/item/3256801114422275.html)
 [**Upgrade to ZM3E4**](https://www.aliexpress.com/item/1005001300737027.html)  
-![ZM3E4](ZM3E4.jpg)
+
