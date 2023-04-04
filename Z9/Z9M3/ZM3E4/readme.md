@@ -1,5 +1,7 @@
 ## [:file_folder: Firmware](./firmware/)
 Included firmware bin files of Z9M3 upgraded to ZM3E4 control board 
+### [![](../../LCD12864.jpg)](./firmware/LCD12864/)
+### [![](../../LCDDWIN.jpg)](./firmware/LCD_DWIN/)
 
 ## Source code
 Please download firmware source code from [**Here**](https://github.com/ZONESTAR3D/source-code-for-3d-printer).  
