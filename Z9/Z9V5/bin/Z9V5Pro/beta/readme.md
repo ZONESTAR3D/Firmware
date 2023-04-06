@@ -7,6 +7,12 @@
 
 ## Release Note
 ----
+### [Z9V5Pro V3.3.0 beta :arrow_down:](./Z9V5Pro_V3_3_0_beta.zip)
+- **Date:** 2023-04-06
+- [**NEW**]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)
+- [**CHG**]Change the initlize mix rate table (suit for Whit+Cyan+Magenta+Yellow)
+- [**BUG**]Fix a bug, it will cause the printer auto shutdown when doing auto mixing
+
 ### [Z9V5Pro V3.2.5 beta :arrow_down:](./Z9V5Pro_V3_2_5_beta.zip)
 - **Date:** 2023-03-31
 - [**NEW**] Add a "laser" item in "confire" menu, Turn it on when you use the laser engraving function.      
