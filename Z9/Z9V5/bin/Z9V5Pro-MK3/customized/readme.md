@@ -3,25 +3,25 @@
 - The customized firmware may not be test completely, if there is any question, please feel free to let me know, thanks! email: support@zonestar3d.com
 
 -----
-#### [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3\beta)
+#### [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
 
 ### Upgraded all motor drivers to TMC2209
-**[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_3_0](./Z9V5Pro-MK3-TMC2209_V3_3_0.zip)**
-**[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_1_1](./Z9V5Pro-MK3-TMC2209_V3_1_1.zip)**
+- **[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_3_0](./Z9V5Pro-MK3-TMC2209_V3_3_0.zip)**
+- **[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_1_1](./Z9V5Pro-MK3-TMC2209_V3_1_1.zip)**
 ### Upgraded bed leveling sensor to 3DTouch/BLTouch
-**[:arrow_down:Z9V5Pro-MK3-3DTouch_V3_3_0](./Z9V5Pro-MK3-3DTouch_V3_3_0.zip)**
+- **[:arrow_down:Z9V5Pro-MK3-3DTouch_V3_3_0](./Z9V5Pro-MK3-3DTouch_V3_3_0.zip)**
 ### Upgraded all motor drivers to TMC2209 and Upgraded bed leveling sensor to 3DTouch/BLTouch.
-**[:arrow_down:Z9V5Pro-MK3-3DTouch-TMC2209_V3_3_0](./Z9V5Pro-MK3-3DTouch-TMC2209_V3_1_1.zip)**
-**[:arrow_down:Z9V5Pro-MK3-3DTouch-TMC2209_V3_1_1](./Z9V5Pro-MK3-3DTouch-TMC2209_V3_1_1.zip)**
+- **[:arrow_down:Z9V5Pro-MK3-3DTouch-TMC2209_V3_3_0](./Z9V5Pro-MK3-3DTouch-TMC2209_V3_1_1.zip)**
+- **[:arrow_down:Z9V5Pro-MK3-3DTouch-TMC2209_V3_1_1](./Z9V5Pro-MK3-3DTouch-TMC2209_V3_1_1.zip)**
 
 ### Upgraded Extruders to Dual Gear Extruders 
-**[:arrow_down:Z9V5Pro-MK3-BGM_V3_3_0](./Z9V5Pro-MK3-BGM_V3_3_0.zip)**
-**[:arrow_down:Z9V5Pro-MK3-BGM_V3_1_1](./Z9V5Pro-MK3-BGM_V3_1_1.zip)**
+- **[:arrow_down:Z9V5Pro-MK3-BGM_V3_3_0](./Z9V5Pro-MK3-BGM_V3_3_0.zip)**
+- **[:arrow_down:Z9V5Pro-MK3-BGM_V3_1_1](./Z9V5Pro-MK3-BGM_V3_1_1.zip)**
 
 ### Upgrade to 500mmx500mm build size 
-**[:arrow_down:Z9V5ProMK3Max_V3_3_0](./Z9V5ProMK3Max_V3_3_0.zip)**
-**[:arrow_down:Z9V5ProMK3Max_3DTouch_V3_3_0](./Z9V5ProMK3Max_3DTouch_V3_3_0.zip)**
-**[:arrow_down:Z9V5ProMK3Max_V3_2_3](./Z9V5ProMK3Max_V3_2_3.zip)**
+- **[:arrow_down:Z9V5ProMK3Max_V3_3_0](./Z9V5ProMK3Max_V3_3_0.zip)**
+- **[:arrow_down:Z9V5ProMK3Max_3DTouch_V3_3_0](./Z9V5ProMK3Max_3DTouch_V3_3_0.zip)**
+- **[:arrow_down:Z9V5ProMK3Max_V3_2_3](./Z9V5ProMK3Max_V3_2_3.zip)**
 
 -----
 ### Wiring
