@@ -8,10 +8,12 @@ Because Z9V5 used ZM3E4V1 and ZM3E4V2 control board, please choose corret firmwa
 
 ## Firmware download link
 ### Firmware for SN-V1xxxx
+- **V3.3.0 [:arrow_down:](./SN-V1xxxx/Z9V5Pro_V1XXX_ZLSENSOR_V3_3_0.zip)**
 - **V3.2.5 [:arrow_down:](./SN-V1xxxx/Z9V5Pro_V1XXX_ZLSENSOR_V3_2_5.zip)**
 - **V1.3.6 [:arrow_down:](./SN-V1xxxx/Z9V5Pro_V1XXX_ZLSENSOR_V1_3_6.zip)**
 - **V1.2.7 [:arrow_down:](./SN-V1xxxx/Z9V5Pro_V1XXX_ZLSENSOR_V1_2_7.zip)**
 ### Firmware for others
+- **V3.3.0 [:arrow_down:](./Others/Z9V5Pro_ZLSENSOR_V3_3_0.zip)**
 - **V3.2.5 [:arrow_down:](./Others/Z9V5Pro_ZLSENSOR_V3_2_5.zip)**
 - **V1.3.6 [:arrow_down:](./Others/Z9V5Pro_ZLSENSOR_V1_3_6.zip)**
 - **V1.3.2 [:arrow_down:](./Others/Z9V5Pro_ZLSENSOR_V1_3_2.zip)**

@@ -12,15 +12,17 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 #### [Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
+### :warning:Note
+If you upgraded TMC220x motor drivers, please use [:point_right:the firmware for Z9V5Pro-MK3](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/customized).
 ### Upgraded 3DTouch 
-- **[:arrow_down:Z9V5Pro_3DTouch_V3_1_1_beta](./Z9V5Pro_3DTouch_V3_1_1_beta.zip)**
-- **[:arrow_down:Z9V5Pro_3DTouch_V3_2_5_beta](./Z9V5Pro_3DTouch_V3_2_5_beta.zip)**
-### Upgraded TMC220x motor drivers 
-- **[:arrow_down:Z9V5Pro_TMC220xALL_V3_2_5_beta](./Z9V5Pro_TMC220xALL_V3_2_5_beta.zip)**
-### Upgraded 3DTouch and TMC220x motor drivers 
-- **[:arrow_down:Z9V5Pro_3DTouch_TMC220xALL_V3_2_5_beta](./Z9V5Pro_3DTouch_TMC220xALL_V3_2_5_beta.zip)**
+- **[:arrow_down:Z9V5Pro_3DTouch_V3_1_1](./Z9V5Pro_3DTouch_V3_1_1.zip)**
+- **[:arrow_down:Z9V5Pro_3DTouch_V3_2_5](./Z9V5Pro_3DTouch_V3_2_5.zip)**
+- **[:arrow_down:Z9V5Pro_3DTouch_V3_3_0](./Z9V5Pro_3DTouch_V3_3_0.zip)**
 ### Upgrade ZL-Sensor bed leveling sensor 
 - **[:arrow_down:](./ZLSENSOR/readme.md)**
+### Upgraded 500x500 build size 
+- **[:arrow_down:Z9V5ProMax_V3_3_0](./Z9V5ProMax_V3_3_0.zip)**
+- **[:arrow_down:Z9V5ProMax_3DTouch_V3_3_0](./Z9V5ProMax_3DTouch_V3_3_0.zip)**
 
 -----
 ## Wiring
