@@ -2,6 +2,10 @@
 
 ----
 ## Release Note
+### [Z9V5Pro-MK4 V1.3.1 beta :arrow_down:](./Z9V5ProMK4_V1_3_1.zip)
+- **Date:** 2023-04-26
+- [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
+
 ### [Z9V5Pro-MK4 V1.3.0 beta :arrow_down:](./Z9V5ProMK4_V1_3_0.zip)
 - **Date:** 2023-04-06
 - [**NEW**]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)

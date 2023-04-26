@@ -18,6 +18,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ## V3.x.x
 :warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
 
+### [:arrow_down: Z8PM4Pro V3.3.1](./Z8PM4Pro_V3_3_1.zip)
+- **Date:** 2023-04-26
+- [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
+
 ### [Z8PM4Pro V3.3.0 beta :arrow_down:](./Z8PM4Pro_V3_3_0.zip)
 - **Date:** 2023-04-06
 - [NEW]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)

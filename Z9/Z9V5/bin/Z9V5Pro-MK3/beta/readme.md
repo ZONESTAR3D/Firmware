@@ -7,13 +7,17 @@
 
 ## Release Note
 ----
-### [Z9V5Pro-MK3 V3.3.0 beta :arrow_down:](./Z9V5Pro-MK3_V3_3_0_beta.zip)
+### [:arrow_down: Z9V5Pro-MK3 V3.3.1 beta](./Z9V5Pro-MK3_V3_3_1_beta.zip)
+- **Date:** 2023-04-26
+- [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
+
+### [:arrow_down: Z9V5Pro-MK3 V3.3.0 beta](./Z9V5Pro-MK3_V3_3_0_beta.zip)
 - **Date:** 2023-04-06
 - [**NEW**]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)
 - [**CHG**]Change the initlize mix rate table (suit for Whit+Cyan+Magenta+Yellow)
 - [**BUG**]Fix a bug, it will cause the printer auto shutdown when doing auto mixing
 
-### [Z9V5Pro-MK3 V3.2.4 beta :arrow_down:](./Z9V5Pro-MK3_V3_2_4_beta.zip)
+### [:arrow_down: Z9V5Pro-MK3 V3.2.4 beta](./Z9V5Pro-MK3_V3_2_4_beta.zip)
 - **Date:** 2022-12-14
 - [**CHG**] Correct temperature when the temperature is less than 20 degree
 

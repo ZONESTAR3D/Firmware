@@ -5,15 +5,18 @@
 - About how to upgrade the LCD MENU files of DWIN LCD, please refer to [:point_right: **here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN).
 - About the newest MENU description, please refer to  [:point_right: **here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/readme.md).
 
-## Release Note
 ----
-### [Z9V5Pro V3.3.0 beta :arrow_down:](./Z9V5Pro_V3_3_0_beta.zip)
+## Release Note
+### [:arrow_down: Z9V5Pro V3.3.1 beta](./Z9V5Pro_V3_3_1_beta.zip)
+- **Date:** 2023-04-26
+- [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
+### [:arrow_down: Z9V5Pro V3.3.0 beta](./Z9V5Pro_V3_3_0_beta.zip)
 - **Date:** 2023-04-06
 - [**NEW**]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)
 - [**CHG**]Change the initlize mix rate table (suit for Whit+Cyan+Magenta+Yellow)
 - [**BUG**]Fix a bug, it will cause the printer auto shutdown when doing auto mixing
 
-### [Z9V5Pro V3.2.5 beta :arrow_down:](./Z9V5Pro_V3_2_5_beta.zip)
+### [:arrow_down: Z9V5Pro V3.2.5 beta](./Z9V5Pro_V3_2_5_beta.zip)
 - **Date:** 2023-03-31
 - [**NEW**] Add a "laser" item in "confire" menu, Turn it on when you use the laser engraving function.      
 - [**NEW**] Add a "troubleshooting" item in "infor" menu, click it to pop up a QRcord of troubleshooting link.     

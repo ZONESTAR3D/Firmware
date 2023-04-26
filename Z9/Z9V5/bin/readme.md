@@ -2,6 +2,7 @@
 - [**:point_right: Z9V5Pro-MK1 & Z9V5Pro-MK2**](./Z9V5Pro/readme.md)
 - [**:point_right: Z9V5Pro-MK3**](./Z9V5Pro-MK3/readme.md)
 - [**:point_right: Z9V5Pro-MK4**](./Z9V5Pro-MK4/readme.md)
+- [**:point_right: Z9V5Pro-MK5**](./Z9V5Pro-MK5/readme.md)
 
 ## How to upload firmware to Z9V5Pro
 Please following the below steps to upload the firmware: 
@@ -21,7 +22,8 @@ You can distinguish by serial number, there is a white lable on the power supply
 - **Z9V5Pro-MK1:** Serial Number is **xxxxxxxxxx**   
 - **Z9V5Pro-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
 - **Z9V5Pro-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
-- **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx**     
+- **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx** 
+- **Z9V5Pro-MK5:** Serial Number is **MK5-xxxxxxxxxx** 
 ![Z9V5_SN](Z9V5_SN.jpg)    
 ### Method 2. Check the original firmware version:
 You can check the printer name from the LCD screen too, see "Menu>>**Info>>Model**", refer to the below picture:   
@@ -29,6 +31,7 @@ You can check the printer name from the LCD screen too, see "Menu>>**Info>>Model
 - **Z9V5Pro-MK1** and **Z9V5Pro-MK2**: model is **Z9V5Pro** or **Z9V5Pro-MK1(2)**  
 - **Z9V5Pro-MK3**: model is **Z9V5Pro-MK3**    
 - **Z9V5Pro-MK4**: model is **Z9V5Pro-MK4**    
+- **Z9V5Pro-MK5**: model is **Z9V5Pro-MK5**    
 
 -----
 ### Recommanded Upgrade Features
