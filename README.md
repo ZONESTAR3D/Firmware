@@ -12,7 +12,7 @@
 [![](./lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ro)
 [![](./lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ru)
 [![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ja)
 [![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ko)
 [![](./lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=id)
@@ -23,7 +23,7 @@
 [![](./lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=tr)
 [![](./lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=el)
 [![](./lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=pt)
-[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=ru)
+[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
 # Firmware file for ZONESTAR 3D printer
