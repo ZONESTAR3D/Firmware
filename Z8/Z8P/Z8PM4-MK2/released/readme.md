@@ -8,6 +8,12 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
+### [:arrow_down: Z8PM4-MK2 V1.2](./Z8PM4MK2_V1_2.zip)
+- **Date:** 2023-04-26
+- [NEW]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)
+- [CHG]Change the initlize mix rate table (suit for Whit+Cyan+Magenta+Yellow)
+- [BUG]Fix a bug, it will cause the printer auto shutdown when doing auto mixing
+
 ### [:arrow_down: Z8PM4-MK2 V1.1](./Z8PM4MK2_V1_1.zip)
 - **Date:** 2022-12-14
 - [CHG]Correct the temperature when the temperature is less than 20 degree
