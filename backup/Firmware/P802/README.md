@@ -19,7 +19,7 @@
 ### :arrow_down:[M8R2 and P802QM2](./M8R2%26P802QM2.zip)
 
 -----
-## :file_folder: [P802N with ZM3E4 board](./P802_ZM3E4/)
+## :file_folder: [P802N upgraded ZM3E4 32 bits control board](./P802_ZM3E4/)
 
 
 
