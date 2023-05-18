@@ -6,6 +6,9 @@
 -----
 #### [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta)
 
+### Use independent extruder settings (steps/mm)
+- **[:arrow_down:Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2](./Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2.zip)**
+
 ### Upgraded bed leveling sensor to 3DTouch/BLTouch.
 - **[:arrow_down:Z9V5ProMK4_3DTouch_V1_3_0](./Z9V5ProMK4_3DTouch_V1_3_0.zip)**
 - **[:arrow_down:Z9V5ProMK4_3DTouch_V1_2_3](./Z9V5ProMK4_3DTouch_V1_2_3.zip)**
