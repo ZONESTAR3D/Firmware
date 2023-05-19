@@ -7,9 +7,14 @@
 
 ## Release Note
 ----
+### [:arrow_down: Z9V5Pro-MK3 V3.3.2 beta](./Z9V5Pro-MK3_V3_3_2_beta.zip)
+- **Date:** 2023-05-19
+- [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
+About hot to set the Home offset and probe offset, please refer to [**here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md)
+
 ### [:arrow_down: Z9V5Pro-MK3 V3.3.1 beta](./Z9V5Pro-MK3_V3_3_1_beta.zip)
 - **Date:** 2023-04-26
-- [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
+- [**BUG**]Fix a bug on doing "Prepare>>Move>>Extruder All".
 
 ### [:arrow_down: Z9V5Pro-MK3 V3.3.0 beta](./Z9V5Pro-MK3_V3_3_0_beta.zip)
 - **Date:** 2023-04-06
