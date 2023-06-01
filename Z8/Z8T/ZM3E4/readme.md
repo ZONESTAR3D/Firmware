@@ -23,3 +23,6 @@ Firmware for 12864 LCD screen.
 - **[:arrow_down: Z8T_ZM3E4_TMC220x@ALL_V210.zip](./LCD12864/Z8T_ZM3E4_TMC220x@ALL_V210.zip): Z8T upgraded control board to ZM3E4 and motor driver to TMC2208(9).**  
 - **[:arrow_down: Z8T_ZM3E4_TMC220x@ALL_V211.zip](./LCD12864/Z8T_ZM3E4_TMC220x@ALL_V211.zip): Z8T upgraded control board to ZM3E4 and motor driver to TMC2208(9).**  
 - **[:arrow_down: Z8T_ZM3E4_TMC220x@ALL_V220.zip](./LCD12864/Z8T_ZM3E4_TMC220x@ALL_V220.zip): Z8T upgraded control board to ZM3E4 and motor driver to TMC2208(9).**  
+- **[:arrow_down: Z8T_ZM3E4_TMC220x@ALL_3DTouch_V220.zip](./LCD12864/Z8T_ZM3E4_TMC220x%40ALL_3DTouch_V220.zip): Z8T upgraded control board to ZM3E4, motor driver to TMC2208(9) and 3DTouch Bed leveling sensor.**     
+  - How to wiring the 3DTouch, please refer to the picture below:
+![](./LCD12864/LCD12864_Wiring2.jpg)
