@@ -1,3 +1,14 @@
+### How to upload firmware to ZM3E4 control board
+Please following the below steps to upload the firmware: 
+1. Download the zip file and unzip it, you can get a ***firmware.bin*** file.
+2. Copy that ***firmware.bin*** to the root directory of Micro-SD card.    
+:bell: **We suggest you format (FAT32) the SD card before copy**.      
+3. Power off the control board and plug the Micro-SD card into socket on control board.
+4. Power on the control board and wait about 30 seconds (a LED will flash on the control board).
+5. Power on the control board again.
+6. Do ***Configuaration>>Restore Defaults*** on LCD MENU to reset settings.  
+
+-----
 ## Firmware
 ### [:arrow_down: P802N_ZM3E4_TCM220x](./P802N_ZM3E4_TCM220x.zip)
 P802N with defaule extruder, used TMC2208 on all motors (X/Y/Z1/Z2/E0)
