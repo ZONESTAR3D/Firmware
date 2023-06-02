@@ -7,7 +7,10 @@ P802N with defaule extruder, used TMC2225 on all motors (X/Y/Z1/Z2/E0), upgraded
 P802N with 2-IN-1-OUT mix color hotend, used TMC2225 on X/Y/Z1/Z2 motors and A4988 on extruder motors
 ### [:arrow_down:P802NM2_ZM3E4](./P802NM2_ZM3E4.zip)
 P802N with 2-IN-1-OUT mix color hotend, used A4988 on all motors
-
+### [:arrow_down:P802NM2_ZM3E4_NonZEND](./P802NM2_ZM3E4_NonZEND.zip)
+P802N with 2-IN-1-OUT mix color hotend, used A4988 on all motors, without Z ENDSTOP (connect bed leveling sensor to Z-MIN).
+### [:arrow_down:P802NM2_ZM3E4_NonZEND_TMC2225@XYZ](./P802NM2_ZM3E4_NonZEND_TMC2225%40XYZ.zip)
+P802N with 2-IN-1-OUT mix color hotend, used TMC2225 on X/Y/Z1/Z2 motors and A4988 on extruder motors, without Z ENDSTOP (connect bed leveling sensor to Z-MIN).
 
 -----
 ## Wiring Diagram
