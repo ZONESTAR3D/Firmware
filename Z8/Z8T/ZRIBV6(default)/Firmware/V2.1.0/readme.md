@@ -7,6 +7,7 @@
 
 ## LCDDWIN  
 ### Firmware hex file for 4.3" TFT-LCD screen
+![](../LCDDWIN.jpg) 
 - **[Documents of 4.3" TFT-LCD screen](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)**   
 - **[:gift: Sell link](https://www.aliexpress.com/item/1005002378065646.html)**      
 - **Upgraded TMC220x at X/Y/Z motor drivers and 3D Touch bed leveling sensor[:arrow_down:Z8T_LCDDWIN_TMC220x@XYZ_3DTouch_V210](./LCDDWIN/Z8T_LCDDWIN_TMC220x@XYZ_3DTouch_V210.hex)**
