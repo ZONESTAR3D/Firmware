@@ -1,7 +1,7 @@
 ## LCD12864
 ### Firmware hex file for LCD12864 screen
-[***More about 128x64 dots LCD screen***](https://www.aliexpress.com/item/4001317124258.html)  
 ![](../LCD12864.jpg)  
+- **[:gift: Sell link](https://www.aliexpress.com/item/4001317124258.html)**  
 - **Upgraded TMC220x at X/Y/Z motor drivers [:arrow_down:Z8T_ZRIB_TMC220x@XYZ_V2_1_0_en](./LCD12864/Z8T_ZRIB_TMC220x@XYZ_V2_1_0_en.zip)**
 - **Upgraded TMC220x at all motor drivers [:arrow_down:Z8T_ZRIB_TMC220x@ALL_V2_1_0_en](./LCD12864/Z8T_ZRIB_TMC220x@ALL_V2_1_0_en.zip)**
 
