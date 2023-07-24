@@ -8,6 +8,17 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
+### [Z8PM4-MK2 V1.3.1 beta :arrow_down: ](./Z8PM4MK2_V1_3_0.zip)
+- **Date:** 2023-07-24
+- [**NEW**]Enable the function of separately adjusting parameters such as stps/mm for each extruder    
+  - **Menu**: Control>>Motion    
+  - **Gcode**: M92 Tn Exxx.xx 
+
+### [Z8PM4-MK2 V1.3.0 beta :arrow_down: ](./Z8PM4MK2_V1_3_0.zip)
+- **Date:** 2023-05-19
+- [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
+About hot to set the Home offset and probe offset, please refer to [**here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md)
+
 ### [:arrow_down: Z8PM4-MK2 V1.2.1](./Z8PM4MK2_V1_2_1.zip)
 - **Date:** 2023-04-26
 - [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
