@@ -10,7 +10,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 # Release Note
 ### [Z8PM4-MK2 V1.3.1 beta :arrow_down: ](./Z8PM4MK2_V1_3_1.zip)
 - **Date:** 2023-07-24
-- [**NEW**]Enable the function of separately adjusting parameters such as stps/mm for each extruder    
+- [**NEW**]Enable the function of separately adjusting parameters such as steps/mm for each extruder    
   - **Menu**: Control>>Motion    
   - **Gcode**: M92 Tn Exxx.xx 
 
