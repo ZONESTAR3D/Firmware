@@ -5,6 +5,7 @@
 ### [Z9V5Pro-MK4 V1.3.3 beta :arrow_down: ](./Z9V5ProMK4_V1_3_3.zip)
 - **Date:** 2023-07-31
 - [**NEW**] Allow for adjusting parameters for each extruder separately, such as steps/mm and acceleration, etc.
+- [**CHG**] Correct temperature table of nozzle to get more accurate temperature.
 
 ### [Z9V5Pro-MK4 V1.3.2 beta :arrow_down: ](./Z9V5ProMK4_V1_3_2.zip)
 - **Date:** 2023-05-19
