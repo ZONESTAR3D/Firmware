@@ -8,6 +8,12 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
+### [Z8PM4-MK2 V1.3.2 beta :arrow_down: ](./Z8PM4MK2_V1_3_2.zip)
+- **Date:** 2023-08-05
+- [**BUG**]Fix the issue where the machine crashes when starting the gradient printing function during  printing.
+- [**CHG**]Add debounce for measuring hotend and hotbed temperature.
+
+
 ### [Z8PM4-MK2 V1.3.1 beta :arrow_down: ](./Z8PM4MK2_V1_3_1.zip)
 - **Date:** 2023-07-24
 - [**NEW**]Enable the function of separately adjusting parameters such as steps/mm for each extruder    
