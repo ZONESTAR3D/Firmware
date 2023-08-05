@@ -2,6 +2,11 @@
 
 ----
 ## Release Note
+### [Z9V5Pro-MK4 V1.4.0 beta :arrow_down: ](./Z9V5ProMK4_V1_4_0.zip)
+- **Date:** 2023-08-05
+- [**CHG**]Add debounce for measuring hotend and hotbed temperature.   
+- [**BUG**]Fix the issue where the machine crashes when starting the gradient mixing during printing.     
+
 ### [Z9V5Pro-MK4 V1.3.3 beta :arrow_down: ](./Z9V5ProMK4_V1_3_3.zip)
 - **Date:** 2023-07-31
 - [**NEW**] Allow for adjusting parameters for each extruder separately, such as steps/mm and acceleration, etc.

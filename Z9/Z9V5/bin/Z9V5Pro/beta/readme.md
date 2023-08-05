@@ -7,9 +7,17 @@
 
 ----
 ## Release Note
+### [:arrow_down: Z9V5Pro V3.4.0 beta](./Z9V5Pro_V3_4_0_beta.zip)
+- **Date:** 2023-08-05
+- [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
+About hot to set the Home offset and probe offset, please refer to [**here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md)
+- [**CHG**]Add debounce for measuring hotend and hotbed temperature.   
+- [**CHG**]Correction temperature     
+- [**BUG**]Fix the issue where the machine crashes when starting the gradient mixing during printing.     
+
 ### [:arrow_down: Z9V5Pro V3.3.1 beta](./Z9V5Pro_V3_3_1_beta.zip)
 - **Date:** 2023-04-26
-- [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
+- [**BUG**]Fix a bug on doing "Prepare>>Move>>Extruder All".
 ### [:arrow_down: Z9V5Pro V3.3.0 beta](./Z9V5Pro_V3_3_0_beta.zip)
 - **Date:** 2023-04-06
 - [**NEW**]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)

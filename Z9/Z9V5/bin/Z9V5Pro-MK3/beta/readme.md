@@ -7,6 +7,15 @@
 
 ## Release Note
 ----
+### [:arrow_down: Z9V5Pro-MK3 V3.4.0](./Z9V5Pro-MK3_V3_4_0_beta.zip)
+- **Date:** 2023-08-05
+- [**NEW**]Enable the function of separately adjusting parameters such as steps/mm for each extruder    
+  - **Menu**: Control>>Motion    
+  - **Gcode**: M92 Tn Exxx.xx 
+- [**CHG**]Add debounce for measuring hotend and hotbed temperature.   
+- [**CHG**]Correction temperature     
+- [**BUG**]Fix the issue where the machine crashes when starting the gradient mixing during printing.     
+
 ### [:arrow_down: Z9V5Pro-MK3 V3.3.2 beta](./Z9V5Pro-MK3_V3_3_2_beta.zip)
 - **Date:** 2023-05-19
 - [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
