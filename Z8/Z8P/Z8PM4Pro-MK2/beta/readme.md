@@ -8,10 +8,15 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
+### [Z8PM4-MK2 V1.3.3 beta :arrow_down: ](./Z8PM4MK2_V1_3_3.zip)
+- **Date:** 2023-08-08
+- [**CHG**] Improved processing logic for high and low temperature error alarms.
+- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
+
 ### [Z8PM4-MK2 V1.3.2 beta :arrow_down: ](./Z8PM4MK2_V1_3_2.zip)
 - **Date:** 2023-08-05
 - [**BUG**]Fix the issue where the machine crashes when starting the gradient mixing during printing. 
-- [**CHG**]Add debounce for measuring hotend and hotbed temperature.
+- [**CHG**]Add debounce for measuring hot end and hot bed temperature.
 
 
 ### [Z8PM4-MK2 V1.3.1 beta :arrow_down: ](./Z8PM4MK2_V1_3_1.zip)
