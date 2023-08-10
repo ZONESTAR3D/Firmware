@@ -8,6 +8,11 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
+### [Z8PM4-MK2 V1.3.4 beta :arrow_down: ](./Z8PM4MK2_V1_3_4.zip)
+- **Date:** 2023-08-10
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**CHG**] Change "Configre" menu, shows grey color when the feature is unavailable.
+
 ### [Z8PM4-MK2 V1.3.3 beta :arrow_down: ](./Z8PM4MK2_V1_3_3.zip)
 - **Date:** 2023-08-08
 - [**CHG**] Improved processing logic for high and low temperature error alarms.
