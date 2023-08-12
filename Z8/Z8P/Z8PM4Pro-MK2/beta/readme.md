@@ -8,6 +8,16 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
+### [Z8PM4-MK2 V1.3.6 beta :arrow_down: ](./Z8PM4MK2_V1_3_6.zip)
+- **Date:** 2023-08-12
+- [**CHG**] Optimize configure menu more.
+- [**BUG**] Fix bugs on random mixing features.
+
+### [Z8PM4-MK2 V1.3.5 beta :arrow_down: ](./Z8PM4MK2_V1_3_5.zip)
+- **Date:** 2023-08-11
+- [**CHG**] Optimize Configure menu.
+- [**CHG**] Optimize Mixer Menu.
+
 ### [Z8PM4-MK2 V1.3.4 beta :arrow_down: ](./Z8PM4MK2_V1_3_4.zip)
 - **Date:** 2023-08-10
 - [**BUG**] Fix some known bugs on power loss recovery feature.
