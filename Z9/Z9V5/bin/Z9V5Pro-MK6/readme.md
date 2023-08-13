@@ -6,8 +6,8 @@ Released firmware are for the mass production machine. If you did not upgrade an
 Beta firmware have the latest update features, but it may be unstable.    
 :point_right:[**Beta firmware**](./Beta/readme.md)
 
-<!-- ## :file_folder:[Customized](./customized/) -->
-<!-- Customized firmware for some customers who upgraded some parts or features. -->
+## :file_folder:[Customized](./customized/)
+Customized firmware for upgraded some parts or features.
 
 ----
 #### Firmware Upload Steps  
