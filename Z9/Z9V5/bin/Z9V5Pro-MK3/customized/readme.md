@@ -6,6 +6,7 @@
 #### [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
 
 ### Upgraded all motor drivers to TMC2209
+- **[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_4_0](./Z9V5Pro-MK3-TMC2209_V3_4_0.zip)**
 - **[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_3_2](./Z9V5Pro-MK3-TMC2209_V3_3_2.zip)**
 - **[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_3_0](./Z9V5Pro-MK3-TMC2209_V3_3_0.zip)**
 - **[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_1_1](./Z9V5Pro-MK3-TMC2209_V3_1_1.zip)**
