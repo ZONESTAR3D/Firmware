@@ -6,6 +6,14 @@
 - About the newest MENU description, please refer to  [:point_right: **here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/readme.md).
 
 ----
+### [Z9V5Pro V3.5.0 beta :arrow_down: ](./Z9V5Pro_V3_5_0_beta.zip)
+- **Date:** 2023-08-15
+- [**CHG**] Optimize Configure menu.
+- [**CHG**] Optimize Mixer Menu.
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**CHG**] Improved processing logic for high and low temperature error alarms.
+- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
+
 ## Release Note
 ### [:arrow_down: Z9V5Pro V3.4.0 beta](./Z9V5Pro_V3_4_0_beta.zip)
 - **Date:** 2023-08-05

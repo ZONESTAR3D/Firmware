@@ -2,6 +2,14 @@
 
 ----
 ## Release Note
+### [Z9V5Pro-MK4 V1.5.0 beta :arrow_down: ](./Z9V5ProMK4_V1_5_0.zip)
+- **Date:** 2023-08-15
+- [**CHG**] Optimize Configure menu.
+- [**CHG**] Optimize Mixer Menu.
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**CHG**] Improved processing logic for high and low temperature error alarms.
+- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
+
 ### [Z9V5Pro-MK4 V1.4.1 beta :arrow_down: ](./Z9V5ProMK4_V1_4_1.zip)
 - **Date:** 2023-08-08
 - [**CHG**] Improved processing logic for high and low temperature error alarms.

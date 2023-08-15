@@ -2,6 +2,14 @@
 
 ----
 ## Release Note
+### [:arrow_down: Z9V5Pro-MK5 V1.2.1](./Z9V5ProMK5_V1_2_1.zip)
+- **Date:** 2023-08-12
+- [**CHG**] Optimize Configure menu.
+- [**CHG**] Optimize Mixer Menu.
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**CHG**] Improved processing logic for high and low temperature error alarms.
+- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
+
 ### [:arrow_down: Z9V5Pro-MK5 V1.2.0](./Z9V5ProMK5_V1_2_0.zip)
 - **Date:** 2023-08-05
 - [**NEW**]Enable the function of separately adjusting parameters such as steps/mm for each extruder    
