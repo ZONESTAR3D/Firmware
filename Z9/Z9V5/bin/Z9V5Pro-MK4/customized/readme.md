@@ -9,6 +9,12 @@
 ### Use independent extruder settings (steps/mm)
 - **[:arrow_down:Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2](./Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2.zip)**
 
+### Upgraded BMG Dual Gear Extruder
+- **[:arrow_down:Z9V5ProMK4_BMGLR_V1.5.0](./Z9V5ProMK4_BMGLR_V1_5_0.zip)**     
+- **[:arrow_down:Z9V5ProMK4_BMGLR_V1.3.3](./Z9V5ProMK4_BMGLR_V1_3_3.zip)**        
+About BMG Dual Gear Extruder, please refer to [:gift: here](BMG_ALI) or [:gift: here](BMG_SPY)   
+:warning:NOTE: Z9V5 need 2 PCS left hand BMG extruders and 2 PCS right hand BMG extruders.
+
 ### Upgraded bed leveling sensor to 3DTouch/BLTouch.
 - **[:arrow_down:Z9V5ProMK4_3DTouch_V1_3_0](./Z9V5ProMK4_3DTouch_V1_3_0.zip)**
 - **[:arrow_down:Z9V5ProMK4_3DTouch_V1_2_3](./Z9V5ProMK4_3DTouch_V1_2_3.zip)**
