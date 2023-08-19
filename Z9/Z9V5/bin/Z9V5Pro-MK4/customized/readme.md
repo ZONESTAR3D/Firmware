@@ -20,7 +20,7 @@ About BMG Dual Gear Extruder, please refer to [:gift: here][BMG_ALI] or [:gift: 
 ### Upgraded 3DTouch/BLTouch bed leveling sensor
 - **[:arrow_down:Z9V5ProMK4_3DTouch_V1_5_0](./Z9V5ProMK4_3DTouch_V1_5_0.zip)**
 - **[:arrow_down:Z9V5ProMK4_3DTouch_V1_3_0](./Z9V5ProMK4_3DTouch_V1_3_0.zip)** 
-- **[:arrow_down:Z9V5ProMK4_3DTouch_V1_2_3](./Z9V5ProMK4_3DTouch_V1_2_3.zip)** 
+- **[:arrow_down:Z9V5ProMK4_3DTouch_V1_2_3](./Z9V5ProMK4_3DTouch_V1_2_3.zip)**      
 About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: here][3DTouch_SPY].    
 [:book:3DTouch/BLTouch installation and use guide][3DTouch_Guide].      
 
