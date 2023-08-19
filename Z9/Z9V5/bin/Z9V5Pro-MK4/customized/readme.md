@@ -42,7 +42,7 @@ About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: her
 - **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_3_0](./Z9V5ProMK4Max_3DTouch_V1_3_0.zip)** -> Firmware for upgraded 500x500 kit and 3DTouch/BLTouch bed leveling sensor.  
 - **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_0](./Z9V5ProMK4Max_3DTouch_V1_5_0.zip)** -> Firmware for upgraded 500x500 kit and 3DTouch/BLTouch bed leveling sensor.       
 - **[:arrow_down:Z9V5ProMK4Max_BMGLR_V1_5_0](./Z9V5ProMK4Max_BMGLR_V1_5_0.zip)** -> Firmware for upgraded 500x500 kit and BMG Dual Gear Extruders.           
-About 500mmx500mm upgrade kit, please refer to [:gift: here][UK_9V5_500_SPY] or [:gift: here]][UK_9V5_500_ALI].     
+About 500mmx500mm upgrade kit, please refer to [:gift: here][UK_9V5_500_SPY] or [:gift: here][UK_9V5_500_ALI].     
 [:book:500mmx500mm build size upgrade kit installation and use guide][500x500Kit_Guide].     
 
 
