@@ -9,8 +9,8 @@
 -----
 #### [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta)
 
-### Use independent extruder settings (steps/mm)
-- **[:arrow_down:Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2](./Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2.zip)**
+<!-- ### Use independent extruder settings (steps/mm) -->
+<!-- - **[:arrow_down:Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2](./Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2.zip)** -->
 
 ### Upgraded BMG Dual Gear Extruder
 - **[:arrow_down:Z9V5ProMK4_BMGLR_V1_5_0](./Z9V5ProMK4_BMGLR_V1_5_0.zip)**          
