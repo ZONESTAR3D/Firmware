@@ -3,7 +3,8 @@
 - The customized firmware may not be test completely, if there is any question, please feel free to let me know, thanks! email: support@zonestar3d.com
 
 -----
-#### [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
+### Release Note
+If you want to konw more about what's different on the different firmware version, please read the [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta).
 
 ### Upgraded all motor drivers to TMC2209
 - **[:arrow_down:Z9V5Pro-MK3-TMC2209_V3_4_0](./Z9V5Pro-MK3-TMC2209_V3_4_0.zip)**

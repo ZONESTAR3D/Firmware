@@ -7,7 +7,9 @@
 #### About how to upload firmware, please refer to [:point_right: here][Upload_Guide].
 
 -----
-#### [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta)
+#### Release Note
+If you want to konw more about what's different on the different firmware version, please read the [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta).
+
 
 <!-- ### Use independent extruder settings (steps/mm) -->
 <!-- - **[:arrow_down:Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2](./Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2.zip)** -->
