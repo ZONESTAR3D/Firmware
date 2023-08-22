@@ -8,39 +8,44 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
-### [Z8PM4-MK2 V1.4.0 beta :arrow_down: ](./Z8PM4MK2_V1_4_0.zip)
+### [ :arrow_down: Z8PM4-MK2 V1.4.1 beta](./Z8PM4MK2_V1_4_1.zip)
+- **Date:** 2023-08-22
+- [**BUG**] Solve the problem of some machines mistakenly displaying the maximum temperature or even crashing / auto shutting down during printing due to temperature flipping of the hotbed and hotend.
+
+### :warning:Removed all previously released firmware that may have this issue.
+
+### ~~~[Z8PM4-MK2 V1.4.0 beta]~~~
 - **Date:** 2023-08-15
 - [**CHG**] Build on new PlatformIO core 6.0.
 - [**CHG**] Change temperature watch period and hysteresis. 
 - [**CHG**] Correct Steps/mm of extruders.
 
-### [Z8PM4-MK2 V1.3.6 beta :arrow_down: ](./Z8PM4MK2_V1_3_6.zip)
+### ~~~[Z8PM4-MK2 V1.3.6 beta]~~~
 - **Date:** 2023-08-12
 - [**CHG**] Optimize configure menu more.
 - [**BUG**] Fix bugs on random mixing features.
 
-### [Z8PM4-MK2 V1.3.5 beta :arrow_down: ](./Z8PM4MK2_V1_3_5.zip)
+### ~~~[Z8PM4-MK2 V1.3.5 beta ]~~~
 - **Date:** 2023-08-11
 - [**CHG**] Optimize Configure menu.
 - [**CHG**] Optimize Mixer Menu.
 
-### [Z8PM4-MK2 V1.3.4 beta :arrow_down: ](./Z8PM4MK2_V1_3_4.zip)
+### ~~~[Z8PM4-MK2 V1.3.4 beta ]~~~
 - **Date:** 2023-08-10
 - [**BUG**] Fix some known bugs on power loss recovery feature.
 - [**CHG**] Change "Configre" menu, shows grey color when the feature is unavailable.
 
-### [Z8PM4-MK2 V1.3.3 beta :arrow_down: ](./Z8PM4MK2_V1_3_3.zip)
+### ~~~[Z8PM4-MK2 V1.3.3 beta]~~~
 - **Date:** 2023-08-08
 - [**CHG**] Improved processing logic for high and low temperature error alarms.
 - [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
 
-### [Z8PM4-MK2 V1.3.2 beta :arrow_down: ](./Z8PM4MK2_V1_3_2.zip)
+### ~~~[Z8PM4-MK2 V1.3.2 beta]~~~
 - **Date:** 2023-08-05
 - [**BUG**]Fix the issue where the machine crashes when starting the gradient mixing during printing. 
 - [**CHG**]Add debounce for measuring hot end and hot bed temperature.
 
-
-### [Z8PM4-MK2 V1.3.1 beta :arrow_down: ](./Z8PM4MK2_V1_3_1.zip)
+### ~~~[Z8PM4-MK2 V1.3.1 beta]~~~
 - **Date:** 2023-07-24
 - [**NEW**]Enable the function of separately adjusting parameters such as steps/mm for each extruder    
   - **Menu**: Control>>Motion    
