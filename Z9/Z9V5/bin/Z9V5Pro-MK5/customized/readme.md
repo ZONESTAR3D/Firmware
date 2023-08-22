@@ -7,6 +7,10 @@
 #### About how to upload firmware, please refer to [:point_right: here][Upload_Guide].
 
 -----
+#### Release Note
+If you want to konw more about what's different on the different firmware version, please read the [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK5/beta).
+
+-----
 ### Upgraded 3DTouch/BLTouch bed leveling sensor
 - **[:arrow_down:Z9V5ProMK5_3DTouch_V1.2.x](./Z9V5ProMK5_3DTouch_V1_2.zip)** -> Firmware for upgraded 3DTouch/BLTouch bed leveling sensor.     
 About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: here][3DTouch_SPY].    
