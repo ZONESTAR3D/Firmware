@@ -8,11 +8,14 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
+### [ :arrow_down: Z8PM4-MK2 V1.4.2 beta](./Z8PM4MK2_V1_4_2.zip)
+- **Date:** 2023-08-23
+- [**CHG**] Remove the independent E-step setting since it is not very compatible with the color mixing feature. 
+
 ### [ :arrow_down: Z8PM4-MK2 V1.4.1 beta](./Z8PM4MK2_V1_4_1.zip)
 - **Date:** 2023-08-22
 - [**BUG**] Solve the problem of some machines mistakenly displaying the maximum temperature or even crashing / auto shutting down during printing due to temperature flipping of the hotbed and hotend.
-
-### :warning:Removed all previously released firmware that may have this issue.
+#### :warning:Removed some previously released firmware that may have this issue.
 
 ### ~~~[Z8PM4-MK2 V1.4.0 beta]~~~
 - **Date:** 2023-08-15

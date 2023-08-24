@@ -7,27 +7,20 @@
 
 ## Release Note
 ----
-### [Z9V5Pro-MK3 V3.5.0 beta :arrow_down: ](./Z9V5Pro-MK3_V3_5_0.zip)
-- **Date:** 2023-08-15
+### [:arrow_down: Z9V5Pro-MK3 V3.5.1 beta ](./Z9V5Pro-MK3_V3_5_1_beta.zip)
+- **Date:** 2023-08-23
 - [**CHG**] Optimize Configure menu.
 - [**CHG**] Optimize Mixer Menu.
-- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**CHG**] Correction temperature     
 - [**CHG**] Improved processing logic for high and low temperature error alarms.
 - [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
-
-### [:arrow_down: Z9V5Pro-MK3 V3.4.0](./Z9V5Pro-MK3_V3_4_0_beta.zip)
-- **Date:** 2023-08-05
-- [**NEW**]Enable the function of separately adjusting parameters such as steps/mm for each extruder    
-  - **Menu**: Control>>Motion    
-  - **Gcode**: M92 Tn Exxx.xx 
-- [**CHG**]Add debounce for measuring hotend and hotbed temperature.   
-- [**CHG**]Correction temperature     
-- [**BUG**]Fix the issue where the machine crashes when starting the gradient mixing during printing.     
-
-### [:arrow_down: Z9V5Pro-MK3 V3.3.2 beta](./Z9V5Pro-MK3_V3_3_2_beta.zip)
-- **Date:** 2023-05-19
-- [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
+- [**NEW**] Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
 About hot to set the Home offset and probe offset, please refer to [**here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md)
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**BUG**] Fix the issue where the machine crashes when starting the gradient mixing during printing.    
+- [**BUG**] Solve the problem of some machines mistakenly displaying the maximum temperature or even crashing / auto shutting down during printing due to temperature flipping of the hotbed and hot end.
+#### :warning:Removed some previously released firmware that may have this issue.
+
 
 ### [:arrow_down: Z9V5Pro-MK3 V3.3.1 beta](./Z9V5Pro-MK3_V3_3_1_beta.zip)
 - **Date:** 2023-04-26

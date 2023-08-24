@@ -10,29 +10,28 @@
 #### Release Note
 If you want to konw more about what's different on the different firmware version, please read the [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta).
 
-
-<!-- ### Use independent extruder settings (steps/mm) -->
-<!-- - **[:arrow_down:Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2](./Z9V5ProMK4_DISTINCT_EXTRUDER_V1_3_2.zip)** -->
-
 ### Upgraded BMG Dual Gear Extruder
-- **[:arrow_down:Z9V5ProMK4_BMGLR_V1_5_0](./Z9V5ProMK4_BMGLR_V1_5_0.zip)**          
+- **[:arrow_down:Z9V5ProMK4_BMGLR_V1_5_1](./Z9V5ProMK4_BMGLR_V1_5_1.zip)**          
 About BMG Dual Gear Extruder, please refer to [:gift: here][BMG_ALI] or [:gift: here][BMG_SPY]   
 :warning:NOTE: Z9V5 need 2 PCS left hand BMG extruders and 2 PCS right hand BMG extruders.
 
 ### Upgraded 3DTouch/BLTouch bed leveling sensor
-- **[:arrow_down:Z9V5ProMK4_3DTouch_V1_5_0](./Z9V5ProMK4_3DTouch_V1_5_0.zip)**
+- **[:arrow_down:Z9V5ProMK4_3DTouch_V1_5_1](./Z9V5ProMK4_3DTouch_V1_5_1.zip)**
 - **[:arrow_down:Z9V5ProMK4_3DTouch_V1_3_0](./Z9V5ProMK4_3DTouch_V1_3_0.zip)** 
 - **[:arrow_down:Z9V5ProMK4_3DTouch_V1_2_3](./Z9V5ProMK4_3DTouch_V1_2_3.zip)**      
 About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: here][3DTouch_SPY].    
 [:book:3DTouch/BLTouch installation and use guide][3DTouch_Guide].      
 
+### Upgraded BMG Dual Gear Extruder and 3DTouch/BLTouch
+- **[:arrow_down:Z9V5ProMK4_3DTouch_BMGLR_V1_5_1](./Z9V5ProMK4_3DTouch_BMGLR_V1_5_1.zip)**
+
 ### Upgraded all motor drivers to TMC2209
-- **[:arrow_down:Z9V5ProMK4_TMC220x@All_V1_5_0](./Z9V5ProMK4_TMC220x@All_V1_5_0.zip)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x@All_V1_5_1](./Z9V5ProMK4_TMC220x@All_V1_5_1.zip)**
 - **[:arrow_down:Z9V5ProMK4_TMC220x@All_V1_3_0](./Z9V5ProMK4_TMC220x@All_V1_3_0.zip)**
 - **[:arrow_down:Z9V5ProMK4_TMC220x@All_V1_2_3](./Z9V5ProMK4_TMC220x@All_V1_2_3.zip)**
 
-### Upgraded all motor drivers to TMC2209 and Upgraded bed leveling sensor to 3DTouch/BLTouch.
-- **[:arrow_down:Z9V5ProMK4_TMC220x@All_3DTouch_V1_5_0](./Z9V5ProMK4_TMC220x@All_3DTouch_V1_5_0.zip)**
+### Upgraded all motor drivers to TMC2209 and 3DTouch/BLTouch
+- **[:arrow_down:Z9V5ProMK4_TMC220x@All_3DTouch_V1_5_1](./Z9V5ProMK4_TMC220x@All_3DTouch_V1_5_1.zip)**
 - **[:arrow_down:Z9V5ProMK4_TMC220x@All_3DTouch_V1_3_0](./Z9V5ProMK4_TMC220x@All_3DTouch_V1_3_0.zip)**
 - **[:arrow_down:Z9V5ProMK4_TMC220x@All_3DTouch_V1_2_3](./Z9V5ProMK4_TMC220x@All_3DTouch_V1_2_3.zip)**
 
@@ -40,10 +39,9 @@ About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: her
 - **[:arrow_down:Z9V5ProMK4Max_V1_3_0](./Z9V5ProMK4Max_V1_3_0.zip)** -> Firmware for upgraded 500x500 kit.     
 - **[:arrow_down:Z9V5ProMK4Max_V1_5_0](./Z9V5ProMK4Max_V1_5_0.zip)** -> Firmware for upgraded 500x500 kit.         
 - **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_3_0](./Z9V5ProMK4Max_3DTouch_V1_3_0.zip)** -> Firmware for upgraded 500x500 kit and 3DTouch/BLTouch bed leveling sensor.          
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_0](./Z9V5ProMK4Max_3DTouch_V1_5_0.zip)** -> Firmware for upgraded 500x500 kit and 3DTouch/BLTouch bed leveling sensor.     
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_3_0](./Z9V5ProMK4Max_3DTouch_V1_3_0.zip)** -> Firmware for upgraded 500x500 kit and 3DTouch/BLTouch bed leveling sensor.  
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_0](./Z9V5ProMK4Max_3DTouch_V1_5_0.zip)** -> Firmware for upgraded 500x500 kit and 3DTouch/BLTouch bed leveling sensor.       
-- **[:arrow_down:Z9V5ProMK4Max_BMGLR_V1_5_0](./Z9V5ProMK4Max_BMGLR_V1_5_0.zip)** -> Firmware for upgraded 500x500 kit and BMG Dual Gear Extruders.           
+- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_1](./Z9V5ProMK4Max_3DTouch_V1_5_1.zip)** -> Firmware for upgraded 500x500 kit and 3DTouch/BLTouch bed leveling sensor.          
+- **[:arrow_down:Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_1](./Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_1.zip)** -> Firmware for upgraded 500x500 kit, 3DTouch/BLTouch and BMG Dual Gear Extruders.           
+- **[:arrow_down:Z9V5ProMK4Max_TMC220x@All_3DTouch_BMGLR_V1_5_1](./Z9V5ProMK4Max_TMC220x@All_3DTouch_BMGLR_V1_5_1.zip)** -> Firmware for upgraded 500x500 kit, TMC2209 motor drivers, 3DTouch/BLTouch and BMG Dual Gear Extruders.        
 About 500mmx500mm upgrade kit, please refer to [:gift: here][UK_9V5_500_SPY] or [:gift: here][UK_9V5_500_ALI].     
 [:book:500mmx500mm build size upgrade kit installation and use guide][500x500Kit_Guide].     
 

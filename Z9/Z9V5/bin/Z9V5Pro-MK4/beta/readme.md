@@ -2,33 +2,19 @@
 
 ----
 ## Release Note
-### [Z9V5Pro-MK4 V1.5.0 beta :arrow_down: ](./Z9V5ProMK4_V1_5_0.zip)
-- **Date:** 2023-08-15
-- [**CHG**] Optimize Configure menu.
-- [**CHG**] Optimize Mixer Menu.
-- [**BUG**] Fix some known bugs on power loss recovery feature.
-- [**CHG**] Improved processing logic for high and low temperature error alarms.
-- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
-
-### [Z9V5Pro-MK4 V1.4.1 beta :arrow_down: ](./Z9V5ProMK4_V1_4_1.zip)
-- **Date:** 2023-08-08
-- [**CHG**] Improved processing logic for high and low temperature error alarms.
-- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
-
-### [Z9V5Pro-MK4 V1.4.0 beta :arrow_down: ](./Z9V5ProMK4_V1_4_0.zip)
-- **Date:** 2023-08-05
-- [**CHG**]Add debounce for measuring hotend and hotbed temperature.   
-- [**BUG**]Fix the issue where the machine crashes when starting the gradient mixing during printing.     
-
-### [Z9V5Pro-MK4 V1.3.3 beta :arrow_down: ](./Z9V5ProMK4_V1_3_3.zip)
-- **Date:** 2023-07-31
-- [**NEW**] Allow for adjusting parameters for each extruder separately, such as steps/mm and acceleration, etc.
-- [**CHG**] Correct temperature table of nozzle to get more accurate temperature.
-
-### [Z9V5Pro-MK4 V1.3.2 beta :arrow_down: ](./Z9V5ProMK4_V1_3_2.zip)
-- **Date:** 2023-05-19
+### [:arrow_down: Z9V5Pro-MK4 V1.5.1 beta ](./Z9V5ProMK4_V1_5_1.zip)
+- **Date:** 2023-08-23
 - [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
 About hot to set the Home offset and probe offset, please refer to [**here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md)
+- [**CHG**] Optimize Configure menu.
+- [**CHG**] Optimize Mixer Menu.
+- [**CHG**] Improved processing logic for high and low temperature error alarms.
+- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
+- [**CHG**] Correct temperature table of nozzle to get more accurate temperature.
+- [**BUG**] Fix the issue where the machine crashes when starting the gradient mixing during printing.     
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**BUG**] Solve the problem of some machines mistakenly displaying the maximum temperature or even crashing / auto shutting down during printing due to temperature flipping of the hotbed and hot end.
+#### :warning:Removed some previously released firmware that may have this issue.
 
 ### [Z9V5Pro-MK4 V1.3.1 beta :arrow_down:](./Z9V5ProMK4_V1_3_1.zip)
 - **Date:** 2023-04-26

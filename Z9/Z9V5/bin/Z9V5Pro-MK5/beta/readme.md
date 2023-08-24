@@ -2,23 +2,19 @@
 
 ----
 ## Release Note
-### [:arrow_down: Z9V5Pro-MK5 V1.2.1](./Z9V5ProMK5_V1_2_1.zip)
-- **Date:** 2023-08-12
+### [:arrow_down: Z9V5Pro-MK5 V1.2.4](./Z9V5ProMK5_V1_2_4.zip)
+- **Date:** 2023-08-23
+- [**CHG**] Build on new PlatformIO core 6.0.
 - [**CHG**] Optimize Configure menu.
 - [**CHG**] Optimize Mixer Menu.
-- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**CHG**] Add debounce for measuring hotend and hotbed temperature.   
+- [**CHG**] Correction temperature     
 - [**CHG**] Improved processing logic for high and low temperature error alarms.
 - [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
-
-### [:arrow_down: Z9V5Pro-MK5 V1.2.0](./Z9V5ProMK5_V1_2_0.zip)
-- **Date:** 2023-08-05
-- [**NEW**]Enable the function of separately adjusting parameters such as steps/mm for each extruder    
-  - **Menu**: Control>>Motion    
-  - **Gcode**: M92 Tn Exxx.xx 
-- [**CHG**]Add debounce for measuring hotend and hotbed temperature.   
-- [**CHG**]Correction temperature     
-- [**BUG**]Fix the issue where the machine crashes when starting the gradient mixing during printing.     
-
+- [**BUG**] Fix the issue where the machine crashes when starting the gradient mixing during printing.     
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**BUG**] Solve the problem of some machines mistakenly displaying the maximum temperature or even crashing / auto shutting down during printing due to temperature flipping of the hotbed and hot end.
+#### :warning:Removed some previously released firmware that may have this issue.
 
 ### [:arrow_down: Z9V5Pro-MK5 V1.0.1](./Z9V5ProMK5_V1_0_1.zip)
 - **Date:** 2023-04-26
