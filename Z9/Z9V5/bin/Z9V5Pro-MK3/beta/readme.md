@@ -19,7 +19,7 @@ About hot to set the Home offset and probe offset, please refer to [**here**](ht
 - [**BUG**] Fix some known bugs on power loss recovery feature.
 - [**BUG**] Fix the issue where the machine crashes when starting the gradient mixing during printing.    
 - [**BUG**] Solve the problem of some machines mistakenly displaying the maximum temperature or even crashing / auto shutting down during printing due to temperature flipping of the hotbed and hot end.
-#### :warning:Removed some previously released firmware that may have this issue.
+#### :warning:Removed some previously released firmware (from V3.3.2 ~ V3.4.1 ) that may have this issue.
 
 
 ### [:arrow_down: Z9V5Pro-MK3 V3.3.1 beta](./Z9V5Pro-MK3_V3_3_1_beta.zip)
