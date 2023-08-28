@@ -8,8 +8,9 @@
 - **[:arrow_down: Z9M4 + LCD12864 (Z9M4 default)](./Z9M4_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down: Upgraded TMC2209 motor drivers @ XYZ axis](./Z9M4_TMC220x%40XYZ_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis](./Z9M4_TMC220x%40All_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
-- **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis and BGM Extruders](./Z9M4_TMC220x%40All_BGM_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
-- **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis and 3Dtouch bed leveling sensor](./Z9M4_TMC220x%40All_3DTouch_V3_5_1.zip) [:art: Wiring Diagram: Wiring 2](#wiring-2)**
+- **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis and BGM Extruders](./Z9M4_TMC220x@All_BGM_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
+- **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis and 3Dtouch bed leveling sensor](./Z9M4_TMC220x@All_3DTouch_V3_5_1.zip) [:art: Wiring Diagram: Wiring 2](#wiring-2)**
+- **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis and 3Dtouch bed leveling sensor and BGM Extruders](./Z9M4_TMC220x@All_3DTouch_BGM_V3_5_1.zip) [:art: Wiring Diagram: Wiring 2](#wiring-2)**
 
 ### Firmware V3.2.2
 **Date:** 	 2022-11-24

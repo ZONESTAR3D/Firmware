@@ -13,8 +13,9 @@
 - **[:arrow_down: Z9M4 + LCDDWIN](./Z9M4_LCDDWIN_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down: Upgraded TMC2209 motor drivers @ XYZ axis](./Z9M4_LCDDWIN_TMC220x%40XYZ_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis](./Z9M4_LCDDWIN_TMC220x%40All_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
-- **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis and BGM Extruders](./Z9M4_LCDDWIN_BGM_TMC220x%40All_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
+- **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis and BMG Extruders](./Z9M4_LCDDWIN_BGM_TMC220x%40All_V3_5_1.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down:Upgraded TMC2209 motor drivers @ all axis and 3Dtouch bed leveling sensor](./Z9M4_LCDDWIN_3DTouch_TMC220x%40All_V3_5_1.zip) [:art: Wiring Diagram: Wiring 2](#wiring-1)**
+- **[:arrow_down:Upgraded TMC2209 motor drivers @ all axis and 3Dtouch bed leveling sensor and BMG Extruders](./Z9M4_LCDDWIN_BGM_3DTouch_TMC220x@All_V3_5_1.zip) [:art: Wiring Diagram: Wiring 2](#wiring-1)**
 
 ### Firmware V3.2.3
 **Date:** 	 2023-03-23    
