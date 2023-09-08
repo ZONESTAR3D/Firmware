@@ -2,6 +2,10 @@
 
 ----
 ## Release Note
+### [:arrow_down: Z9V5Pro-MK4 V1.5.2 beta ](./Z9V5ProMK4_V1_5_2.zip)
+- **Date:** 2023-09-08
+- [**NEW**] Enable the function of separately adjusting parameters for each extruder motors (such as steps/mm)      
+
 ### [:arrow_down: Z9V5Pro-MK4 V1.5.1 beta ](./Z9V5ProMK4_V1_5_1.zip)
 - **Date:** 2023-08-23
 - [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.

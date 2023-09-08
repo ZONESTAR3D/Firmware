@@ -8,6 +8,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
+### [ :arrow_down: Z8PM4-MK2 V1.4.3 beta](./Z8PM4MK2_V1_4_3.zip)
+- **Date:** 2023-09-08
+- [**NEW**] Enable the function of separately adjusting parameters for each extruder motors (such as steps/mm)      
+
 ### [ :arrow_down: Z8PM4-MK2 V1.4.2 beta](./Z8PM4MK2_V1_4_2.zip)
 - **Date:** 2023-08-23
 - [**CHG**] Remove the independent E-step setting since it is not very compatible with the color mixing feature. 
