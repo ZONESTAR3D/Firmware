@@ -2,6 +2,10 @@
 
 ----
 ## Release Note
+### [:arrow_down: Z9V5Pro-MK4 V1.5.3 beta ](./Z9V5ProMK4_V1_5_3.zip)
+- **Date:** 2023-09-09
+- [**NEW**] Enable the Linear Advance function (V1.5), about the detail, please refer to [**:point_right:here**](https://marlinfw.org/docs/features/lin_advance.html).     
+
 ### [:arrow_down: Z9V5Pro-MK4 V1.5.2 beta ](./Z9V5ProMK4_V1_5_2.zip)
 - **Date:** 2023-09-08
 - [**NEW**] Enable the function of separately adjusting parameters for each extruder motors (such as steps/mm)      
@@ -9,7 +13,7 @@
 ### [:arrow_down: Z9V5Pro-MK4 V1.5.1 beta ](./Z9V5ProMK4_V1_5_1.zip)
 - **Date:** 2023-08-23
 - [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
-About hot to set the Home offset and probe offset, please refer to [**here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md)
+About hot to set the Home offset and probe offset, please refer to [**:point_right:here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md).    
 - [**CHG**] Optimize Configure menu.
 - [**CHG**] Optimize Mixer Menu.
 - [**CHG**] Improved processing logic for high and low temperature error alarms.
@@ -26,7 +30,7 @@ About hot to set the Home offset and probe offset, please refer to [**here**](ht
 
 ### [Z9V5Pro-MK4 V1.3.0 beta :arrow_down:](./Z9V5ProMK4_V1_3_0.zip)
 - **Date:** 2023-04-06
-- [**NEW**]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)
+- [**NEW**]Add a laser menu, about the detail, please refer to [**:point_right:here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature).
 - [**CHG**]Change the initialize mix rate table (suit for Whit+Cyan+Magenta+Yellow)
 - [**BUG**]Fix a bug, it will cause the printer auto shutdown when doing auto mixing
 
