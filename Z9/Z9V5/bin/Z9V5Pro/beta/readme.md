@@ -8,6 +8,7 @@
 ----
 ## Release Note
 ### [Z9V5Pro V3.5.1 beta :arrow_down: ](./Z9V5Pro_V3_5_1_beta.zip)
+- **Date:** 2023-08-27
 - [**CHG**] Optimize Configure menu.
 - [**CHG**] Optimize Mixer Menu.
 - [**CHG**] Add debounce for measuring hotend and hotbed temperature.   

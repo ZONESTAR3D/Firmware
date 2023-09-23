@@ -7,6 +7,12 @@ If the printer used different parts, the control board need to be uploaded diffe
 - **Motor Driver Module: [:art: A4988](../../../../../partpic/A4988.jpg), [:art: TMC2208](../../../../../partpic/TMC2208.jpg) [:art: TMC2209](../../../../../partpic/TMC2209.jpg) or [:art: TMC2225](../../../../../partpic/TMC2225.jpg)**
 
 ## Firmware Description
+### [:arrow_down: Z9M3_ZM3E4_LCDDWIN_TITAN](./Z9M3_ZM3E4_LCDDWIN_TITAN.zip)
+- **Control board:** ZM3E4
+- **LCD screen:** DWIN 4.3" TFT-LCD
+- **Extruder:** Titan Extruder
+- **Motor Drivers:** A4988 used to XYZ axis and Extruder's motors 
+- **Bed Leveling Sensor:** PL-08N
 ### [:arrow_down: Z9M3_ZM3E4_LCDDWIN_TITAN_TMC220x%40XYZ](./Z9M3_ZM3E4_LCDDWIN_TITAN_TMC220x%40XYZ.zip)
 - **Control board:** ZM3E4
 - **LCD screen:** DWIN 4.3" TFT-LCD
