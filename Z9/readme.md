@@ -1,5 +1,7 @@
 # Firmware for ZONESTAR Z9  
 ## :file_folder: [Z9V5](./Z9V5)
+The last version Z9, it includes multiple iterative updated versions MK1, MK2, MK3, MK4, MK5, etc.. 
+
 ## :file_folder:[Z9M4](./Z9M4)
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
