@@ -18,6 +18,18 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ## V3.x.x
 :warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
 
+### [:arrow_down: Z8PM4Pro V3.4.0](./Z8PM4Pro_V3_4_0.zip)
+- **Date:** 2023-09-09
+- [**CHG**] Build on new PlatformIO core 6.0.
+- [**CHG**] Optimize Configure menu.
+- [**CHG**] Optimize Mixer Menu.
+- [**NEW**] Enable the function of separately adjusting parameters such as steps/mm for each extruder    
+- [**CHG**] Improved processing logic for high and low temperature error alarms.
+- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
+- [**CHG**] Correct Steps/mm of extruders.
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**BUG**] Fix the issue where the machine crashes when starting the gradient mixing during printing. 
+
 ### [:arrow_down: Z8PM4Pro V3.3.1](./Z8PM4Pro_V3_3_1.zip)
 - **Date:** 2023-04-26
 - [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
