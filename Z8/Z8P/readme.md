@@ -18,4 +18,6 @@
  ![](./Z8PM4Pro.jpg) ![](./Z8PM3.jpg)
 
 #### What's different between Z8PM3 and Z8PM4
-- Z8PM4 equipped with 4 extruders and a 4-IN-1-OUT mix color hotend; Z8PM3 equipped with 3 extruders and a 3-IN-1-OUT mix color hotend.
+- **Z8PM4** equipped with 4 extruders and a 4-IN-1-OUT mix color hotend.    
+- **Z8PM3** equipped with 3 extruders and a 3-IN-1-OUT mix color hotend.     
+![](./M3vsM4.jpg)
