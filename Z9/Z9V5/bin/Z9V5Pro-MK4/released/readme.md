@@ -6,8 +6,6 @@
 
 ### [:arrow_down: Z9V5Pro-MK4 V1.5.1](./Z9V5ProMK4_V1_5_1.zip)
 - **Date:** 2023-08-23
-- [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
-About hot to set the Home offset and probe offset, please refer to [**:point_right:here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md).    
 - [**CHG**] Optimize Configure menu.
 - [**CHG**] Optimize Mixer Menu.
 - [**CHG**] Improved processing logic for high and low temperature error alarms.
@@ -22,7 +20,7 @@ About hot to set the Home offset and probe offset, please refer to [**:point_rig
 - [**NEW**]Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
 About hot to set the Home offset and probe offset, please refer to [**here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md)
 - [**NEW**]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)
-- [**CHG**]Change the initlize mix rate table (suit for Whit+Cyan+Magenta+Yellow)
+- [**CHG**]Change the initialize mix rate table (suit for Whit+Cyan+Magenta+Yellow)
 - [**BUG**]Fix a bug on doing "Prepare>>Move>>Extruder All".
 - [**BUG**]Fix a bug, it will cause the printer auto shutdown when doing auto mixing
 
