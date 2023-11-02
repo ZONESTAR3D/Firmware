@@ -7,7 +7,21 @@
 
 
 ## Release Note
+
 -----
+### [:arrow_down: Z9V5Pro-MK3 V3.5.1](./Z9V5Pro-MK3_V3_5_1.zip)
+- **Date:** 2023-08-23
+- [**CHG**] Optimize Configure menu.
+- [**CHG**] Optimize Mixer Menu.
+- [**CHG**] Correction temperature     
+- [**CHG**] Improved processing logic for high and low temperature error alarms.
+- [**CHG**] Increase the knob running speed for selecting menu options on the main menu.
+- [**NEW**] Add a "probe offset" item in control menu, to set the offset from probe to nozzle.
+About hot to set the Home offset and probe offset, please refer to [**here**](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/common/set_offset.md)
+- [**BUG**] Fix some known bugs on power loss recovery feature.
+- [**BUG**] Fix the issue where the machine crashes when starting the gradient mixing during printing.    
+- [**BUG**] Solve the problem of some machines mistakenly displaying the maximum temperature or even crashing / auto shutting down during printing due to temperature flipping of the hotbed and hot end.
+
 ### Z9V5Pro-MK3 V3.2.4 [:arrow_down:](./Z9V5Pro-MK3_V3_2_4.zip)
 - **Date:** 2022-12-14
 - [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](../beta/M73_PrusaSlicer.jpg)**

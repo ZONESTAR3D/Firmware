@@ -7,7 +7,7 @@
 
 ----
 ## Release Note
-### [Z9V5Pro V3.5.1 beta :arrow_down: ](./Z9V5Pro_V3_5_1_beta.zip)
+### [:arrow_down: Z9V5Pro V3.5.1 beta](./Z9V5Pro_V3_5_1_beta.zip)
 - **Date:** 2023-08-27
 - [**CHG**] Optimize Configure menu.
 - [**CHG**] Optimize Mixer Menu.
@@ -50,25 +50,25 @@ About hot to set the Home offset and probe offset, please refer to [**here**](ht
 **About laser item**    
 For ZM3E4 control board, laser engraving PWM and the extruder fan PWM  of the 3D printer used the same pin of MCU. When it be used as a extruder fan PWM of the 3D printing function, at the instant the fan is turned on, the PWM pin should output a short time high level (it is 500ms in the firmware) to help the fan to rotate successfully. However, this is not good at the engraving resolution. After adding this menu, the user can turn the "laser" on on LCD MENU when using laser engraving, so the machine don't out put a short time high level while the PWM output.
 
-### [Z9V5Pro V3.2.4 beta :arrow_down:](./Z9V5Pro_V3_2_4_beta.zip)
+### [:arrow_down: Z9V5Pro V3.2.4 beta](./Z9V5Pro_V3_2_4_beta.zip)
 - **Date:** 2022-12-14
 - [**CHG**] Correct temperature when the temperature is less than 20 degree
 
-### Z9V5Pro V3.2.3 beta [:arrow_down:](./Z9V5Pro_V3_2_3_beta.zip)
+### [:arrow_down: Z9V5Pro V3.2.3 beta](./Z9V5Pro_V3_2_3_beta.zip)
 - **Date:** 2022-11-28
 - [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](M73_PrusaSlicer.jpg)**
     <!-- - **[:point_right: How to set in Cura]()** -->
 
-### Z9V5Pro V3.2.2 beta [:arrow_down:](./Z9V5Pro_V3_2_2_beta.zip)
+### [:arrow_down: Z9V5Pro V3.2.2 beta](./Z9V5Pro_V3_2_2_beta.zip)
 - **Date:** 2022-11-18
 - [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
 - [**CHG**] Dynamically adjust the hotend target temperature based on planned E moves.
 
-### Z9V5Pro V3.2.1 beta [:arrow_down:](./Z9V5Pro_V3_2_1_beta.zip)
+### [:arrow_down: Z9V5Pro V3.2.1 beta](./Z9V5Pro_V3_2_1_beta.zip)
 - **Date:** 2022-11-15
 - [**CHG**] Correct shows temperature of hotend and hotbed
 
-### Z9V5Pro V3.2.0 beta [:arrow_down:](./Z9V5Pro_V3_2_0_beta.zip)
+### [:arrow_down: Z9V5Pro V3.2.0 beta](./Z9V5Pro_V3_2_0_beta.zip)
 - **Date:** 2022-11-11
 - [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
   --**This feature only work on E4 (4-IN-1-OUT Non-Mix Color) Hotend**.   
@@ -78,14 +78,14 @@ For ZM3E4 control board, laser engraving PWM and the extruder fan PWM  of the 3D
 - [**BUG**] Fixed the system crashes on gradient and random mixing color printing.
 - [**BUG**] Fixed temperature instability issue on over 230 degreeC.
 
-### Z9V5Pro V3.1.1 beta [:arrow_down:](./Z9V5Pro_V3_1_1_beta.zip)
+### [:arrow_down: Z9V5Pro V3.1.1 beta](./Z9V5Pro_V3_1_1_beta.zip)
 - **Date:** 2022-10-12
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
 - [**CHG**] Change "PID auto tune" feature.
 - [**CHG**] Delete "HOT end Max temperature" setting menu, but you still need to take care when setting temperature of the mixing color hotend.
 - [**BUG**] Fixed some bugs.
 
-### Z9V5Pro V3.0.0 beta [:arrow_down:](Z9V5Pro_V3_0_0_beta.zip)
+### [:arrow_down: Z9V5Pro V3.0.0 beta](Z9V5Pro_V3_0_0_beta.zip)
 - **Date:** 2022-07-06
 - [**NEW**] Add a "flow rate" tune menu when priinting from SD card  
 - [**NEW**] Add a menu to adjust the brightness of LOGO backlight
@@ -96,7 +96,7 @@ For ZM3E4 control board, laser engraving PWM and the extruder fan PWM  of the 3D
 - [**CHG**] Allow to move extruder motors without heating the nozzle.
 - [**CHG**] Allow to move extruder motors while printing is paused.
 
-### Z9V5Pro V2.1.0 beta [:arrow_down:](./Z9V5Pro_V2_1_0_beta.zip)
+### [:arrow_down: Z9V5Pro V2.1.0 beta](./Z9V5Pro_V2_1_0_beta.zip)
 - **Date:** 2022-09-26
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
 - [**NEW**] Add a menu to adjust the brightness of LOGO backlight
@@ -110,11 +110,11 @@ For ZM3E4 control board, laser engraving PWM and the extruder fan PWM  of the 3D
 - [**BUG**] Fix issue when adjust Z offset when auto bed leveling is actived
 - [**BUG**] To solve the misjudgment issue on checking the hot bed when the ambient temperature is low in the automatic test program.
 
-### Z9V5Pro V2.0.2 beta [:arrow_down:](Z9V5Pro_V2_0_2_beta.zip)
+### [:arrow_down: Z9V5Pro V2.0.2 beta](Z9V5Pro_V2_0_2_beta.zip)
 - **Date:** 2022-04-25
 - [**BUG**] Fix bug on print time shows.
 
-### Z9V5Pro V2.0.1 beta
+### [:arrow_down: Z9V5Pro V2.0.1 beta](Z9V5Pro_V2_0_1_beta.zip)
 - [**BUG**] Fix bug on hotend max temp setting.
 - [**BUG**] Fix bug on display on hotend high temperature.
 - [**BUG**] Fix bug on print time.
@@ -124,69 +124,69 @@ For ZM3E4 control board, laser engraving PWM and the extruder fan PWM  of the 3D
 ----
 DWIN LCD MENU V1
 
-### Z9V5Pro V1.4.2 beta [:arrow_down:](Z9V5Pro_V1_4_2_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.4.2 beta](Z9V5Pro_V1_4_2_Beta.zip)
 - **Date:** 2022-04-25
 - [**BUG**] Fix bug on print time shows.
 
-### Z9V5Pro V1.4.1 beta [:arrow_down:](./Z9V5Pro_V1_4_1_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.4.1 beta](./Z9V5Pro_V1_4_1_Beta.zip)
 - **Date:** 2022-04-22
 - [**BUG**] Fix bug on hotend max temp setting.
 - [**BUG**] Fix bug on display on hotend high temperature.
 - [**NEW**] Turn off WiFi settings if WiFi connection is fail.
 - [**NEW**] Add a "Viwe Update News" on info Menu.
 
-### Z9V5Pro V1.4.0 beta [:arrow_down:](./Z9V5Pro_V1_4_0_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.4.0 beta](./Z9V5Pro_V1_4_0_Beta.zip)
 - **Date:** 2022-04-15
 - [**BUG**] Fix the issue can't find the SD card.
 - [**NEW**] Show a QRcode for visiting the ESP3D website page while WiFi is connected (WiFi module is required).
 
-### Z9V5Pro V1.3.9 beta [:arrow_down:](./Z9V5Pro_V1_3_9_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.3.9 beta](./Z9V5Pro_V1_3_9_Beta.zip)
 - **Date:** 2022-04-14
 - [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.
 - [**NEW**] Add "View User Guide" on INFO menu.
 
-### Z9V5Pro V1.3.8 beta [:arrow_down:](./Z9V5Pro_V1_3_8_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.3.8 beta](./Z9V5Pro_V1_3_8_Beta.zip)
 - **Date:** 2022-04-01
 - [**CHG**] Add Nozzle temperature setting on filament menu.
 - [**BUG**] Extend the waiting time to confirm the connection of WiFi.
 
-### Z9V5Pro V1.3.7 beta [:arrow_down:](./Z9V5Pro_V1_3_7_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.3.7 beta](./Z9V5Pro_V1_3_7_Beta.zip)
 - **Date:** 2022-03-08
 - [**CHG**] Correct HOTEND temperature.
 - [**CHG**] Change the menu [HOTEND Temp] to [Nozzle Temp].   
 - [**NEW**] Auto save "baby Z offset adjustment" on the previous printing. 
 - [**NEW**] Auto disable motors after did "Stop printing".
 
-### Z9V5Pro V1.3.6 beta [:arrow_down:](./Z9V5Pro_V1_3_6_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.3.6 beta](./Z9V5Pro_V1_3_6_Beta.zip)
 - **Date:** 2022-02-23
 - [**BUG**] fix the bug of setting max hotend temperature.  
 - [**CHG**] Change LCD message while temperature error occured.  
  
-### Z9V5Pro V1.3.5 beta [:arrow_down:](./Z9V5Pro_V1_3_5_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.3.5 beta](./Z9V5Pro_V1_3_5_Beta.zip)
 - **Date:** 2022-01-07
 - [**New**] Add PID Tune menu 
 - [**CHG**] Change a little menu display 
 
-### Z9V5Pro V1.3.1 beta [:arrow_down:](./Z9V5Pro_V1_3_1_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.3.1 beta](./Z9V5Pro_V1_3_1_Beta.zip)
 - **Date:** 2021-12-03
 - [**New**] force to do once HOME while start bed leveling 
 
-### Z9V5Pro V1.3.0 beta [:arrow_down:](./Z9V5Pro_V1_3_0_Beta.zip)
+### [:arrow_down: Z9V5Pro V1.3.0 beta](./Z9V5Pro_V1_3_0_Beta.zip)
 - **Date:** 2021-12-01
 - [**New**] Add a "***Control>>configre>>Max HOTEND Temp***" menu, so that you can upgrade to high temperature hotend. **ATTETION:Overheating may damaged the hotend, ensure your hotend can work in that temperature before set the temperature**.    
 - [**New**] Add a "***Control>>configre>>PID AutoTune***" menu to auto tune the PID parameter.  **NOTE: While do PID autotune, please wait until the LCD show PID Auto tune finished!**   
 - [**CHG**] Correct the temperature table of hotend and hotbed to get more accurate temperature display    
 
-### Z9V5Pro V1.2.8 beta [:arrow_down:](./Z9V5Pro_V1_2_8_beta.zip)
+### [:arrow_down: Z9V5Pro V1.2.8 beta](./Z9V5Pro_V1_2_8_beta.zip)
 - **Date:** 2021-11-22
 - [**BUG**] Updata the hotend temperature measure table to correct bed temperature display  
 
-### Z9V5Pro V1.2.7 beta [:arrow_down:](./Z9V5Pro_V1_2_7_beta.zip)
+### [:arrow_down: Z9V5Pro V1.2.7 beta](./Z9V5Pro_V1_2_7_beta.zip)
 - **Date:** 2021-11-03  
 - [**BUG**] fix the issue on auto testing  
 ***Auto testing feature: move the cursor to the "Info>>Data:xx-xx-xx" and click the knob 5 time to start an auto testing process***      
 
-### Z9V5Pro V1.2.5 beta [:arrow_down:](./Z9V5Pro_V1_2_5_beta.zip)
+### [:arrow_down: Z9V5Pro V1.2.5 beta](./Z9V5Pro_V1_2_5_beta.zip)
 - **Date:** 2021-07-15   
 - [**BUG**] fix the issue on power loss recovery  
 - [**NEW**]Add feedback on menu scroll
