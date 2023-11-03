@@ -14,16 +14,30 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 #### [Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
 ### :warning:Note
 If you upgraded TMC220x motor drivers, please use [:point_right:the firmware for Z9V5Pro-MK3](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/customized).
-### Upgraded 3DTouch 
-- **[:arrow_down:Z9V5Pro_3DTouch_V3_5_0](./Z9V5Pro_3DTouch_V3_5_0.zip)**
+
+### Upgraded 3DTouch bed leveling sensor 
+- **[:arrow_down:Z9V5Pro_3DTouch_V3_5_1](./Z9V5Pro_3DTouch_V3_5_1.zip)**
 - **[:arrow_down:Z9V5Pro_3DTouch_V3_3_0](./Z9V5Pro_3DTouch_V3_3_0.zip)**
 - **[:arrow_down:Z9V5Pro_3DTouch_V3_2_5](./Z9V5Pro_3DTouch_V3_2_5.zip)**
 - **[:arrow_down:Z9V5Pro_3DTouch_V3_1_1](./Z9V5Pro_3DTouch_V3_1_1.zip)**
+
+### Upgraded 500x500
+- **[:arrow_down:Z9V5ProMax_V3_3_0](./Z9V5ProMax_V3_5_1.zip)**
+- **[:arrow_down:Z9V5ProMax_V3_3_0](./Z9V5ProMax_V3_3_0.zip)**
+
+### Upgraded 500x500 and 3DTouch bed leveling sensor 
+- **[:arrow_down:Z9V5ProMax_3DTouch_V3_5_1](./Z9V5ProMax_3DTouch_V3_5_1.zip)**
+- **[:arrow_down:Z9V5ProMax_3DTouch_V3_3_0](./Z9V5ProMax_3DTouch_V3_3_0.zip)**
+
 ### Upgrade ZL-Sensor bed leveling sensor 
 - **[:file_folder: ZLSENSOR](./ZLSENSOR/readme.md)**
-### Upgraded 500x500 build size 
-- **[:arrow_down:Z9V5ProMax_V3_3_0](./Z9V5ProMax_V3_3_0.zip)**
-- **[:arrow_down:Z9V5ProMax_3DTouch_V3_3_0](./Z9V5ProMax_3DTouch_V3_3_0.zip)**
+
+### Change Hotend Maximus work temperature to 300℃ 
+- **[:arrow_down:Z9V5Pro_V3_5_1_300C](./Z9V5Pro_V3_5_1_300C.zip)**     
+#### :warning: NOTE:
+1. Please confirm that your hot end can support this temperature before use.
+2. If your control board is the ZM3E4 V1 V2.0 or V2.1 version, please modify the resistance R34 on the motherboard to 0 ohms (originally 22 ohms), otherwise it may not be stable when the temperature exceeds 280 degrees Celsius.     
+![](./R34.jpg)
 
 -----
 ## Wiring
