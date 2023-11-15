@@ -15,25 +15,23 @@ If you want to konw more about what's different on the different firmware versio
 - **[:arrow_down:Z9V5ProMK6_3DTouch_V1_0](./Z9V5ProMK6_3DTouch_V1_0.zip)**  ->Firmware for upgraded 3DTouch/BLTouch bed leveling sensor.    
 **About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: here][3DTouch_SPY].**   
 
-### Upgraded BMG Dual Gear Extruder
+<!-- ### Upgraded BMG Dual Gear Extruder
 - **[:arrow_down:Z9V5ProMK6_BMGLR_V1_0](./Z9V5ProMK6_BMGLR_V1_0.zip)** ->Firmware for upgraded Dual Gear Extruders.       
 **About BMG Dual Gear Extruder, please refer to [:gift: here][BMG_ALI] or [:gift: here][BMG_SPY].**    
-:warning:NOTE: Z9V5 need 2 PCS left hand BMG  extruders and 2 PCS right hand BMG extruders.
+:warning:NOTE: Z9V5 need 2 PCS left hand BMG  extruders and 2 PCS right hand BMG extruders. -->
 
 ### Upgrade to 500mmx500mm build size upgrade kit
 **About 500mmx500mm Upgrade kit, please refer to [:gift: here][UK_9V5_500_SPY] or [:gift: here][UK_9V5_500_ALI].**    
 **[:book:500mmx500mm build size upgrade kit installation and use guide][GUIDE_500]**    
 - **[:arrow_down:Z9V5ProMK6Max_V1_0](./Z9V5ProMK6Max_V1_0.zip)**  ->Firmware for upgraded 500x500 kit.
 - **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_0](./Z9V5ProMK6Max_3DTouch_V1_0.zip)** ->Firmware for upgraded 500x500 kit and 3DTouch.
-- **[:arrow_down:Z9V5ProMK6Max_BMGLR_V1_0](./Z9V5ProMK6Max_BMGLR_V1_0.zip)** ->Firmware for upgraded 500x500 kit and Dual Gear Extruders.   
+<!-- - **[:arrow_down:Z9V5ProMK6Max_BMGLR_V1_0](./Z9V5ProMK6Max_BMGLR_V1_0.zip)** ->Firmware for upgraded 500x500 kit and Dual Gear Extruders.    -->
 
 
 -----
 ### Wiring
 Connect the 3d touch bed leveling sensor to EXP1  
 ![](Wiring_3DTouch.png)
-
-
 
 
 [3DTouch_ALI]: https://www.aliexpress.com/item/1005001464420529.html
