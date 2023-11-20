@@ -22,7 +22,8 @@ If you want to konw more about what's different on the different firmware versio
 - **[:arrow_down:Z9V5Pro-MK3-BGM_V3_1_1](./Z9V5Pro-MK3-BGM_V3_1_1.zip)**
 
 ### Upgrade to 500mmx500mm build size 
-
+:warning:NOTE: Please refer to the firmware for Z9V5Pro-MK4, and change the hotend type to "mixing color" on the "Control>>Configre>>Hotend Type:" menu.    
+:link:**Firmware Download Link:https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/customized** 
 
 -----
 ### Wiring
