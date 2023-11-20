@@ -22,9 +22,7 @@ If you want to konw more about what's different on the different firmware versio
 - **[:arrow_down:Z9V5Pro-MK3-BGM_V3_1_1](./Z9V5Pro-MK3-BGM_V3_1_1.zip)**
 
 ### Upgrade to 500mmx500mm build size 
-- **[:arrow_down:Z9V5ProMK3Max_V3_3_0](./Z9V5ProMK3Max_V3_3_0.zip)**
-- **[:arrow_down:Z9V5ProMK3Max_3DTouch_V3_3_0](./Z9V5ProMK3Max_3DTouch_V3_3_0.zip)**
-- **[:arrow_down:Z9V5ProMK3Max_V3_2_3](./Z9V5ProMK3Max_V3_2_3.zip)**
+
 
 -----
 ### Wiring
