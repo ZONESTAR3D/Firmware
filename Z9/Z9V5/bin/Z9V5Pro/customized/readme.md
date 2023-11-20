@@ -35,21 +35,18 @@ If you upgraded TMC220x motor drivers, please use [:point_right:the firmware for
 -----
 ### Upgraded 500x500
 :warning: V3.5.2 change to keep Z motor powered after print is finished, avoid the heat bed to auto drop down.
+#### Upgraded on the Default machine
 - **[:arrow_down:Z9V5ProMax_V3_5_2](./Z9V5ProMax_V3_5_2.zip)**
 - **[:arrow_down:Z9V5ProMax_V3_5_1](./Z9V5ProMax_V3_5_1.zip)**
 - **[:arrow_down:Z9V5ProMax_V3_3_0](./Z9V5ProMax_V3_3_0.zip)**
-
-### Upgraded 500x500 and Dual Gear Extruders (2x left hand and 2x right hand)
+#### Upgraded Dual Gear Extruders (2x left hand and 2x right hand) too
 - **[:arrow_down:Z9V5ProMax_BMGLR_V3_5_2](./Z9V5ProMax_BMGLR_V3_5_2.zip)**
-
-### Upgraded 500x500 and 3DTouch bed leveling sensor 
+#### Upgraded 3DTouch bed leveling sensor too
 - **[:arrow_down:Z9V5ProMax_3DTouch_V3_5_2](./Z9V5ProMax_3DTouch_V3_5_2.zip)**
 - **[:arrow_down:Z9V5ProMax_3DTouch_V3_5_1](./Z9V5ProMax_3DTouch_V3_5_1.zip)**
 - **[:arrow_down:Z9V5ProMax_3DTouch_V3_3_0](./Z9V5ProMax_3DTouch_V3_3_0.zip)**
-
-### Upgraded 500x500, Dual Gear Extruders (2x left hand and 2x right hand) and 3DTouch bed leveling sensor
+### Upgraded Dual Gear Extruders (2x left hand and 2x right hand) and 3DTouch bed leveling sensor too
 - **[:arrow_down:Z9V5ProMax_3DTouch_BMGLR_V3_5_2](./Z9V5ProMax_3DTouch_BMGLR_V3_5_2.zip)**
-
 
 -----
 ## Wiring
