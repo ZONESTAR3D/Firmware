@@ -22,8 +22,12 @@ If you upgraded TMC220x motor drivers, please use [:point_right:the firmware for
 - **[:arrow_down:Z9V5Pro_3DTouch_V3_1_1](./Z9V5Pro_3DTouch_V3_1_1.zip)**
 
 ### Upgraded 500x500
-- **[:arrow_down:Z9V5ProMax_V3_3_0](./Z9V5ProMax_V3_5_1.zip)**
+- **[:arrow_down:Z9V5ProMax_V3_5_2](./Z9V5ProMax_V3_5_2.zip)**
+<!-- - **[:arrow_down:Z9V5ProMax_V3_5_1](./Z9V5ProMax_V3_5_1.zip)** -->
 - **[:arrow_down:Z9V5ProMax_V3_3_0](./Z9V5ProMax_V3_3_0.zip)**
+
+### Upgraded 500x500 and Dual Gear Extruders (2x left hand and 2x right hand)
+- **[:arrow_down:Z9V5ProMax_BMGLR_V3_5_2](./Z9V5ProMax_BMGLR_V3_5_2.zip)**
 
 ### Upgraded 500x500 and 3DTouch bed leveling sensor 
 - **[:arrow_down:Z9V5ProMax_3DTouch_V3_5_1](./Z9V5ProMax_3DTouch_V3_5_1.zip)**
