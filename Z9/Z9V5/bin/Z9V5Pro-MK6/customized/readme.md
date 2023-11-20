@@ -11,6 +11,7 @@
 If you want to konw more about what's different on the different firmware version, please read the [:book:Release Note](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK6/beta).
 
 -----
+## Firmware for Z9V5Pro-MK6 upgraded some features
 ### Upgraded 3DTouch/BLTouch bed leveling sensor
 - **[:arrow_down:Z9V5ProMK6_3DTouch_V1_0](./Z9V5ProMK6_3DTouch_V1_0.zip)**  ->Firmware for upgraded 3DTouch/BLTouch bed leveling sensor.    
 **About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: here][3DTouch_SPY].**   
@@ -20,13 +21,22 @@ If you want to konw more about what's different on the different firmware versio
 **About BMG Dual Gear Extruder, please refer to [:gift: here][BMG_ALI] or [:gift: here][BMG_SPY].**    
 :warning:NOTE: Z9V5 need 2 PCS left hand BMG  extruders and 2 PCS right hand BMG extruders. -->
 
-### Upgrade to 500mmx500mm build size upgrade kit
+-----
+## Firmware for Z9V5Pro-MK6 upgraded 500mmx500mm build size
 **About 500mmx500mm Upgrade kit, please refer to [:gift: here][UK_9V5_500_SPY] or [:gift: here][UK_9V5_500_ALI].**    
 **[:book:500mmx500mm build size upgrade kit installation and use guide][GUIDE_500]**    
-- **[:arrow_down:Z9V5ProMK6Max_V1_0](./Z9V5ProMK6Max_V1_0.zip)**  ->Firmware for upgraded 500x500 kit.
-- **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_0](./Z9V5ProMK6Max_3DTouch_V1_0.zip)** ->Firmware for upgraded 500x500 kit and 3DTouch.
-<!-- - **[:arrow_down:Z9V5ProMK6Max_BMGLR_V1_0](./Z9V5ProMK6Max_BMGLR_V1_0.zip)** ->Firmware for upgraded 500x500 kit and Dual Gear Extruders.    -->
 
+### Only upgraded 500mmx500mm build size upgrade kit
+- **[:arrow_down:Z9V5ProMK6Max_V1_0](./Z9V5ProMK6Max_V1_0.zip)** 
+
+### Also upgraded all motor drivers to TMC2209
+- **[:arrow_down:Z9V5ProMK6Max_TMC220x@All_V1_0](./Z9V5ProMK6Max_TMC220x@All_V1_0.zip)** 
+
+### Also upgraded 3DTouch bed leveling sensor
+- **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_0](./Z9V5ProMK6Max_3DTouch_V1_0.zip)** 
+
+### Also upgraded all motor drivers to TMC2209 and 3DTouch bed leveling sensor
+- **[:arrow_down:Z9V5ProMK6Max_TMC220x@All_3DTouch_V1_0](./Z9V5ProMK6Max_TMC220x@All_3DTouch_V1_0.zip)** 
 
 -----
 ### Wiring
