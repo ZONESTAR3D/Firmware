@@ -1,6 +1,6 @@
 ## Firmware for upgraded some optional features
 #### Upgraded 3DTouch/BLTouch bed leveling sensor 
-**[:arrow_down:Z8PM4MK2_3DTouch_V1_4_2](./Z8PM4MK2_3DTouch_V1_4_2.zip)**
+**[:arrow_down:Z8PM4MK2_3DTouch_V1_4_3](./Z8PM4MK2_3DTouch_V1_4_3.zip)**
 #### Upgraded 3DTouch/BLTouch and TMC2209 motor drivers
 **[:arrow_down:Z8PM4MK2_TMC220x_3DTouch_V1_4_2](./Z8PM4MK2_TMC220x_3DTouch_V1_4_2.zip)**
 #### Upgraded Dual Gear Extruders (4x right hand)
