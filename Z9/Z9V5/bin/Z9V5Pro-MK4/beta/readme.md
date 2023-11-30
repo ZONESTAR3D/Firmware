@@ -2,13 +2,9 @@
 
 ----
 ## Release Note
-### [:arrow_down: Z9V5Pro-MK4 V1.5.3 beta ](./Z9V5ProMK4_V1_5_3.zip)
-- **Date:** 2023-09-09
-- [**NEW**] Enable the Linear Advance function (V1.5), about the detail, please refer to [**:point_right:here**](https://marlinfw.org/docs/features/lin_advance.html).     
-
-### [:arrow_down: Z9V5Pro-MK4 V1.5.2 beta ](./Z9V5ProMK4_V1_5_2.zip)
-- **Date:** 2023-09-08
-- [**NEW**] Enable the function of separately adjusting parameters for each extruder motors (such as steps/mm)      
+### [:arrow_down: Z9V5Pro-MK4 V1.5.4 beta ](./Z9V5ProMK4_V1_5_4.zip)
+- **Date:** 2023-11-30
+- [**CHG**] Improved the issue of sudden jumps when adjusting values on LCD screen.
 
 ### [:arrow_down: Z9V5Pro-MK4 V1.5.1 beta ](./Z9V5ProMK4_V1_5_1.zip)
 - **Date:** 2023-08-23
