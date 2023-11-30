@@ -13,13 +13,8 @@ If you want to konw more about what's different on the different firmware versio
 -----
 ## Firmware for Z9V5Pro-MK6 upgraded some features
 ### Upgraded 3DTouch/BLTouch bed leveling sensor
-- **[:arrow_down:Z9V5ProMK6_3DTouch_V1_0](./Z9V5ProMK6_3DTouch_V1_0.zip)**  ->Firmware for upgraded 3DTouch/BLTouch bed leveling sensor.    
+- **[:arrow_down:Z9V5ProMK6_3DTouch_V1_0_2](./Z9V5ProMK6_3DTouch_V1_0_2.zip)**    
 **About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: here][3DTouch_SPY].**   
-
-<!-- ### Upgraded BMG Dual Gear Extruder
-- **[:arrow_down:Z9V5ProMK6_BMGLR_V1_0](./Z9V5ProMK6_BMGLR_V1_0.zip)** ->Firmware for upgraded Dual Gear Extruders.       
-**About BMG Dual Gear Extruder, please refer to [:gift: here][BMG_ALI] or [:gift: here][BMG_SPY].**    
-:warning:NOTE: Z9V5 need 2 PCS left hand BMG  extruders and 2 PCS right hand BMG extruders. -->
 
 -----
 ## Firmware for Z9V5Pro-MK6 upgraded 500mmx500mm build size
@@ -27,16 +22,16 @@ If you want to konw more about what's different on the different firmware versio
 **[:book:500mmx500mm build size upgrade kit installation and use guide][GUIDE_500]**    
 
 ### Only upgraded 500mmx500mm build size upgrade kit
-- **[:arrow_down:Z9V5ProMK6Max_V1_0](./Z9V5ProMK6Max_V1_0.zip)** 
+- **[:arrow_down:Z9V5ProMK6Max_V1_0_2](./Z9V5ProMK6Max_V1_0_2.zip)** 
 
 ### Also upgraded all motor drivers to TMC2209
-- **[:arrow_down:Z9V5ProMK6Max_TMC220x@All_V1_0](./Z9V5ProMK6Max_TMC220x@All_V1_0.zip)** 
+- **[:arrow_down:Z9V5ProMK6Max_TMC220x_V1_0_2](./Z9V5ProMK6Max_TMC220x_V1_0_2.zip)** 
 
 ### Also upgraded 3DTouch bed leveling sensor
-- **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_0](./Z9V5ProMK6Max_3DTouch_V1_0.zip)** 
+- **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_0_2](./Z9V5ProMK6Max_3DTouch_V1_0_2.zip)** 
 
 ### Also upgraded all motor drivers to TMC2209 and 3DTouch bed leveling sensor
-- **[:arrow_down:Z9V5ProMK6Max_TMC220x@All_3DTouch_V1_0](./Z9V5ProMK6Max_TMC220x@All_3DTouch_V1_0.zip)** 
+- **[:arrow_down:Z9V5ProMK6Max_TMC220x_3DTouch_V1_0_2](./Z9V5ProMK6Max_TMC220x_3DTouch_V1_0_2.zip)** 
 
 -----
 ### Wiring

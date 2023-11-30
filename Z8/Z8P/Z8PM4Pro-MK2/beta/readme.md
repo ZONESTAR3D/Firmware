@@ -10,7 +10,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 # Release Note
 ### [ :arrow_down: Z8PM4-MK2 V1.4.3 beta](./Z8PM4MK2_V1_4_3.zip)
 - **Date:** 2023-11-29
-- [**CHG**] Improved the issue of sudden jumps when adjusting values
+- [**CHG**] Improved the issue of sudden jumps when adjusting values on LCD screen.
 
 ### [ :arrow_down: Z8PM4-MK2 V1.4.2 beta](./Z8PM4MK2_V1_4_2.zip)
 - **Date:** 2023-08-23
