@@ -8,13 +8,9 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
-### [ :arrow_down: Z8PM4-MK2 V1.4.4 beta](./Z8PM4MK2_V1_4_4.zip)
-- **Date:** 2023-09-09
-- [**NEW**] Enable the Linear Advance function (V1.5), about the detail, please refer to [**:point_right:here**](https://marlinfw.org/docs/features/lin_advance.html).     
-
 ### [ :arrow_down: Z8PM4-MK2 V1.4.3 beta](./Z8PM4MK2_V1_4_3.zip)
-- **Date:** 2023-09-08
-- [**NEW**] Enable the function of separately adjusting parameters for each extruder motors (such as steps/mm)      
+- **Date:** 2023-11-29
+- [**CHG**] Improved the issue of sudden jumps when adjusting values
 
 ### [ :arrow_down: Z8PM4-MK2 V1.4.2 beta](./Z8PM4MK2_V1_4_2.zip)
 - **Date:** 2023-08-23
