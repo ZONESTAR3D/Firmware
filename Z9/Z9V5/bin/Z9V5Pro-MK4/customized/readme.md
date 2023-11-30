@@ -57,13 +57,11 @@ If you want to konw more about what's different on the different firmware versio
 :warning: V1.5.4 change to keep Z motor powered after print is finished, avoid the heat bed to auto drop down.
 ### Only upgraded 500mmx500mm build size kit.
 - **[:arrow_down:Z9V5ProMK4Max_V1_5_4](./MK4_MAX/Z9V5ProMK4Max_V1_5_4.zip)**   
-- **[:arrow_down:Z9V5ProMK4Max_V1_5_3](./MK4_MAX/Z9V5ProMK4Max_V1_5_3.zip)**   
 - **[:arrow_down:Z9V5ProMK4Max_V1_5_1](./MK4_MAX/Z9V5ProMK4Max_V1_5_1.zip)**   
 - **[:arrow_down:Z9V5ProMK4Max_V1_3_0](./MK4_MAX/Z9V5ProMK4Max_V1_3_0.zip)**    
 
 ### Also upgraded 3DTouch/BLTouch bed leveling sensor.     
 - **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_4](./MK4_MAX/Z9V5ProMK4Max_3DTouch_V1_5_4.zip)**    
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_3](./MK4_MAX/Z9V5ProMK4Max_3DTouch_V1_5_3.zip)**     
 - **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_1](./MK4_MAX/Z9V5ProMK4Max_3DTouch_V1_5_1.zip)**    
 - **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_3_0](./MK4_MAX/Z9V5ProMK4Max_3DTouch_V1_3_0.zip)**    
 
@@ -72,16 +70,13 @@ If you want to konw more about what's different on the different firmware versio
 
 ### Also upgraded 3DTouch/BLTouch and BMG Dual Gear Extruders (2x left-hand + 2x right-hand).  
 - **[:arrow_down:Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_4](./MK4_MAX/Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_4.zip)** 
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_3](./MK4_MAX/Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_3.zip)**          
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_1](./MK4_MAX/Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_1.zip)**          
 
 ### Also upgraded TMC2209 motor drivers and BMG Dual Gear Extruders(2x left-hand + 2x right-hand).   
-- **[:arrow_down:Z9V5ProMK4Max_TMC220x@All_BMGLR_V1_5_4](./MK4_MAX/Z9V5ProMK4Max_TMC220x@All_BMGLR_V1_5_4.zip)**  
+- **[:arrow_down:Z9V5ProMK4Max_TMC220x_BMGLR_V1_5_4](./MK4_MAX/Z9V5ProMK4Max_TMC220x_BMGLR_V1_5_4.zip)**  
 
 ### Also upgraded TMC2209 motor drivers, 3DTouch/BLTouch and BMG Dual Gear Extruders(2x left-hand + 2x right-hand).   
-- **[:arrow_down:Z9V5ProMK4Max_TMC220x@All_3DTouch_BMGLR_V1_5_4](./MK4_MAX/Z9V5ProMK4Max_TMC220x@All_3DTouch_BMGLR_V1_5_4.zip)**  
-- **[:arrow_down:Z9V5ProMK4Max_TMC220x@All_3DTouch_BMGLR_V1_5_3](./MK4_MAX/Z9V5ProMK4Max_TMC220x@All_3DTouch_BMGLR_V1_5_3.zip)**  
-- **[:arrow_down:Z9V5ProMK4Max_TMC220x@All_3DTouch_BMGLR_V1_5_1](./MK4_MAX/Z9V5ProMK4Max_TMC220x@All_3DTouch_BMGLR_V1_5_1.zip)** 
+- **[:arrow_down:Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_5_4](./MK4_MAX/Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_5_4.zip)**  
+- **[:arrow_down:Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_5_1](./MK4_MAX/Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_5_1.zip)** 
 
 -----
 ### Wiring
