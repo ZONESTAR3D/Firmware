@@ -6,8 +6,8 @@
 - The customized firmware may not be test completely, if there is any question, please feel free to let me know, thanks! email: support@zonestar3d.com
 
 ## Firmware
-- **[Firmwares for Z9V5Pro (Didn't upgrade to 500x500 build size)](#firmwares-for-z9v5pro)**
-- **[Firmwares for Z9V5Pro (upgrade to 500x500 build size)](#firmwares-for-z9v5pro-max)**
+- **[Firmwares for Z9V5Pro (Didn't upgrade 500x500 build size)](#firmwares-for-z9v5pro)**
+- **[Firmwares for Z9V5Pro-Max (Upgraded 500x500 build size)](#firmwares-for-z9v5pro-max)**
 
 -----
 ## Firmwares for Z9V5Pro 
