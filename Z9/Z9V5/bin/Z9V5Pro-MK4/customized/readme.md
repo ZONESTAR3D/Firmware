@@ -1,12 +1,16 @@
-### About how to upload firmware to the 3d printer, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin#how-to-upload-firmware-to-z9v5pro)
 
-### :warning: ATTENTION PLEASE 
+## :warning: ATTENTION PLEASE 
 - Please select a firmware and download it based on which features you have upgraded.
 - All the firmware below already includes support for WiFi upgrades.
+- How to upload firmware to the 3d printer, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin#how-to-upload-firmware-to-z9v5pro)   
 - The customized firmware may not be test completely, if there is any question, please feel free to let me know, thanks! email: support@zonestar3d.com
 
+## Firmware
+- **[Firmwares for Z9V5Pro (Didn't upgrade to 500x500 build size)](#firmwares-for-z9v5pro)**
+- **[Firmwares for Z9V5Pro (upgrade to 500x500 build size)](#firmwares-for-z9v5pro-max)**
+
 -----
-## Firmwares for Z9V5Pro upgraded some features
+## Firmwares for Z9V5Pro 
 :pushpin: The following firmwares are for those that have not upgraded to 500x500 build size, but have upgraded some other features.
 ### Upgraded BMG Dual Gear Extruder
 - **[:arrow_down:Z9V5ProMK4_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_BMGLR_V1_5_4.zip)**          
@@ -42,9 +46,9 @@
 <!-- - **[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_5_1](./MK4/Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_5_1.zip)** -->
 
 -----
-## Firmwares for Z9V5Pro-Max upgraded some features
-:pushpin: The following firmwares are for those that have upgraded to 500x500 build size.
-:warning: V1.5.4 change to keep Z motor powered after print is finished, avoid the heat bed to auto drop down.
+## Firmwares for Z9V5Pro-Max 
+:pushpin: The following firmwares are for those that have upgraded to 500x500 build size.     
+:warning: V1.5.4 change to keep Z motor powered after print is finished, avoid the heat bed to auto drop down.    
 ### Only upgraded 500mmx500mm build size kit.
 - **[:arrow_down:Z9V5ProMK4Max_V1_5_4](./MK4_Max/Z9V5ProMK4Max_V1_5_4.zip)**   
 <!-- - **[:arrow_down:Z9V5ProMK4Max_V1_5_1](./MK4_Max/Z9V5ProMK4Max_V1_5_1.zip)**    -->
