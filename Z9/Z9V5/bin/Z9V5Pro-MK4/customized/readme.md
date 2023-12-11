@@ -11,7 +11,7 @@
 
 -----
 ## Firmwares for Z9V5Pro 
-:pushpin: The following firmwares are for those that have not upgraded to 500x500 build size, but have upgraded some other features.
+:pushpin: The following firmwares are for the machines have not upgraded 500x500 build size.
 ### Upgraded BMG Dual Gear Extruder
 - **[:arrow_down:Z9V5ProMK4_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_BMGLR_V1_5_4.zip)**          
 <!-- - **[:arrow_down:Z9V5ProMK4_BMGLR_V1_5_1](./MK4/Z9V5ProMK4_BMGLR_V1_5_1.zip)**           -->
@@ -47,7 +47,7 @@
 
 -----
 ## Firmwares for Z9V5Pro-Max 
-:pushpin: The following firmwares are for those that have upgraded to 500x500 build size.     
+:pushpin: The following firmwares are for the machines have upgraded 500x500 build size.     
 :warning: V1.5.4 change to keep Z motor powered after print is finished, avoid the heat bed to auto drop down.    
 ### Only upgraded 500mmx500mm build size kit.
 - **[:arrow_down:Z9V5ProMK4Max_V1_5_4](./MK4_Max/Z9V5ProMK4Max_V1_5_4.zip)**   
