@@ -18,23 +18,23 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ## V3.x.x
 :warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
 
-### [Z8PM4Pro V3.2.4 beta :arrow_down:](./Z8PM4Pro_V3_2_4.zip)
+### [Z8PM4Pro V3.2.4 beta :arrow_down:](./Z8PM4ProMK1_V3_2_4.zip)
 - **Date:** 2022-12-14
 - [**CHG**] Correct temperature when the temperature is less than 20 degree
 
-### Z8PM4Pro V3.2.3 [:arrow_down:Download](./Z8PM4Pro_V3_2_3.zip)
+### Z8PM4Pro V3.2.3 [:arrow_down:Download](./Z8PM4ProMK1_V3_2_3.zip)
 - **Date:** 2022-12-03
 - [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](M73_PrusaSlicer.jpg)**
 
-### Z8PM4Pro V3.2.2 [:arrow_down:Download](./Z8PM4Pro_V3_2_2.zip)
+### Z8PM4Pro V3.2.2 [:arrow_down:Download](./Z8PM4ProMK1_V3_2_2.zip)
 - **Date:** 2022-11-18
 - [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
 
-### Z8PM4Pro V3.2.1 [:arrow_down:Download](./Z8PM4Pro_V3_2_1.zip)
+### Z8PM4Pro V3.2.1 [:arrow_down:Download](./Z8PM4ProMK1_V3_2_1.zip)
 - **Date:** 2022-11-15
 - [**CHG**] Correct shows temperature of hotend and hotbed
 
-### Z8PM4Pro V3.2.0 [:arrow_down:Download](./Z8PM4Pro_V3_2_0.zip)
+### Z8PM4Pro V3.2.0 [:arrow_down:Download](./Z8PM4ProMK1_V3_2_0.zip)
 - **Date:** 2022-11-11
 - [**NEW**] Add a "Auto Unload" menu, turn on it, the printer will unload filament automatically if the printing is abort.    
   --**This feature only for 4-IN-1-OUT Non-Mix Color Hotend**.   
@@ -44,11 +44,11 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 - [**BUG**] Fixed the system crashes on gradient and random mixing color printing.
 - [**BUG**] Fixed temperature instability issue on over 230 degreeC.
 
-### Z8PM4Pro V3.1.0 [:arrow_down:Download](./Z8PM4Pro_V3_1_0.zip)
+### Z8PM4Pro V3.1.0 [:arrow_down:Download](./Z8PM4ProMK1_V3_1_0.zip)
 - **Date:** 2022-10-18
 - [**BUG**] Fixed the bug HOME Z offset after did "Baby Step Z".
 
-### Z8PM4Pro V3.0.0 [:arrow_down:Download](./Z8PM4Pro_V3_0_0.zip)
+### Z8PM4Pro V3.0.0 [:arrow_down:Download](./Z8PM4ProMK1_V3_0_0.zip)
 - [**NEW**] Upgrade to [:point_up: **DWIN LCD MENU V3**](#dwin-lcd-menu)
 - [**NEW**] Add a FlowRate Menu in "Print>>Tune" menu
 
@@ -56,22 +56,22 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ## V2.x.x
 :warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
 
-### Z8PM4Pro V2.2.0 [:arrow_down:Download](./Z8PM4Pro_V2_3_0.zip)
+### Z8PM4Pro V2.2.0 [:arrow_down:Download](./Z8PM4ProMK1_V2_3_0.zip)
 - **Date:** 2022-10-18
 - [**BUG**] Fixed the bug HOME Z offset after did "Baby Step Z".
 
-### Z8PM4Pro V2.2.0 [:arrow_down:Download](./Z8PM4Pro_V2_2_0.zip)
+### Z8PM4Pro V2.2.0 [:arrow_down:Download](./Z8PM4ProMK1_V2_2_0.zip)
 - **Date:** 2022-09-26
 - [**NEW**] Add a "HOME OFFSET" menu, support to adjust the X/Y/Z HOME offset on LCD screen.
 - [**CHG**] Change "PID auto tune" feature.
 - [**CHG**] Delete "HOT end Max temperature" setting menu, but you still need to take care when setting temperature of the mixing color hotend.
 - [**BUG**] Fixed some bugs.
 
-### Z8PM4Pro V2.1.0 [:arrow_down:Download](./Z8PM4Pro_V2_1_0.zip)
+### Z8PM4Pro V2.1.0 [:arrow_down:Download](./Z8PM4ProMK1_V2_1_0.zip)
 - **Date:** 2022-04-25
 - [**BUG**] Correct print and remine time
 
-### Z8PM4Pro V2.0.0 [:arrow_down:Download](./Z8PM4Pro_V2_0_0.zip)
+### Z8PM4Pro V2.0.0 [:arrow_down:Download](./Z8PM4ProMK1_V2_0_0.zip)
 - **Date:** 2022-04-25
 - [**NEW**] Upgrade to **DWIN LCD MENU V2** [:point_up:](#dwin-lcd-menu)
 - [**NEW**] Auto return to print menu if doesn't operature on tune menu for a while.
@@ -93,6 +93,6 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 --------------
 ## V1.x.x
-### Z8PM4Pro V1.3.0 [:arrow_down:Download](./Z8PM4Pro_V1_3_0.zip)
+### Z8PM4Pro V1.3.0 [:arrow_down:Download](./Z8PM4ProMK1_V1_3_0.zip)
 - **Date:** 2022-03-2
 - ***First release***

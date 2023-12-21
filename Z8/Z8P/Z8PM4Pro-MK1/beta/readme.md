@@ -18,11 +18,11 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ## V3.x.x
 :warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
 
-### [:arrow_down: Z8PM4Pro V3.4.1](./Z8PM4Pro_V3_4_1.zip)
+### [:arrow_down: Z8PM4Pro V3.4.1](./Z8PM4ProMK1_V3_4_1.zip)
 - **Date:** 2023-11-29
 - [**CHG**] Improved the issue of sudden jumps when adjusting values
 
-### [:arrow_down: Z8PM4Pro V3.4.0](./Z8PM4Pro_V3_4_0.zip)
+### [:arrow_down: Z8PM4Pro V3.4.0](./Z8PM4ProMK1_V3_4_0.zip)
 - **Date:** 2023-09-09
 - [**CHG**] Build on new PlatformIO core 6.0.
 - [**CHG**] Optimize Configure menu.
@@ -34,28 +34,28 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 - [**BUG**] Fix some known bugs on power loss recovery feature.
 - [**BUG**] Fix the issue where the machine crashes when starting the gradient mixing during printing. 
 
-### [:arrow_down: Z8PM4Pro V3.3.1](./Z8PM4Pro_V3_3_1.zip)
+### [:arrow_down: Z8PM4Pro V3.3.1](./Z8PM4ProMK1_V3_3_1.zip)
 - **Date:** 2023-04-26
 - [BUG]Fix a bug on doing "Prepare>>Move>>Extruder All".
 
-### [Z8PM4Pro V3.3.0 beta :arrow_down:](./Z8PM4Pro_V3_3_0.zip)
+### [:arrow_down: Z8PM4Pro V3.3.0 beta](./Z8PM4ProMK1_V3_3_0.zip)
 - **Date:** 2023-04-06
 - [NEW]Add a laser menu, about the detail, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving#two-turn-on-the-laser-engine-feature)
 - [CHG]Change the initlize mix rate table (suit for Whit+Cyan+Magenta+Yellow)
 - [BUG]Fix a bug, it will cause the printer auto shutdown when doing auto mixing
 
-### [Z8PM4Pro V3.2.4 beta :arrow_down:](./Z8PM4Pro_V3_2_4.zip)
+### [:arrow_down: Z8PM4Pro V3.2.4 beta](./Z8PM4ProMK1_V3_2_4.zip)
 - **Date:** 2022-12-14
 - [**CHG**] Correct temperature when the temperature is less than 20 degree
 
-### Z8PM4Pro V3.2.3 [:arrow_down:Download](./Z8PM4Pro_V3_2_3.zip)
+### [:arrow_down: Z8PM4Pro V3.2.3](./Z8PM4ProMK1_V3_2_3.zip)
 - **Date:** 2022-12-03
 - [**NEW**] Add to support M73 gcode command to obtain more accurate printing progress percent and printing remaining time. **[:point_right: How to set in PrusaSlicer](M73_PrusaSlicer.jpg)**
 
-### Z8PM4Pro V3.2.2 [:arrow_down:Download](./Z8PM4Pro_V3_2_2.zip)
+### [:arrow_down: Z8PM4Pro V3.2.2](./Z8PM4ProMK1_V3_2_2.zip)
 - **Date:** 2022-11-18
 - [**CHG**] Don't turn off power if the hotend/hotbed can't heat to the setting temperature.
 
-### Z8PM4Pro V3.0.0 [:arrow_down:Download](./Z8PM4Pro_V3_0_0.zip)
+### [:arrow_down: Z8PM4Pro V3.0.0](./Z8PM4ProMK1_V3_0_0.zip)
 - [**NEW**] Upgrade to [:point_up: **DWIN LCD MENU V3**](#dwin-lcd-menu)
 - [**NEW**] Add a FlowRate Menu in "Print>>Tune" menu
