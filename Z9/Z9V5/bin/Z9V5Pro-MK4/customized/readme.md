@@ -6,12 +6,11 @@
 - The customized firmware may not be test completely, if there is any question, please feel free to let me know, thanks! email: support@zonestar3d.com
 
 ## Firmware
-- **[Firmwares for Z9V5Pro (Didn't upgrade 500x500 build size)](#firmwares-for-z9v5pro)**
+- **[Firmwares for Z9V5Pro (Not upgrade 500x500 build size)](#firmwares-for-z9v5pro)**
 - **[Firmwares for Z9V5Pro-Max (Upgraded 500x500 build size)](#firmwares-for-z9v5pro-max)**
 
 -----
 ## Firmwares for Z9V5Pro 
-:pushpin: The following firmwares are for the machines have not upgraded 500x500 build size.
 ### Upgraded BMG Dual Gear Extruder
 - **[:arrow_down:Z9V5ProMK4_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_BMGLR_V1_5_4.zip)**          
 <!-- - **[:arrow_down:Z9V5ProMK4_BMGLR_V1_5_1](./MK4/Z9V5ProMK4_BMGLR_V1_5_1.zip)**           -->
