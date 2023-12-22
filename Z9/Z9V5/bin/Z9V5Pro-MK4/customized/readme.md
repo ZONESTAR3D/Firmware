@@ -9,6 +9,9 @@
 - **[Firmwares for Z9V5Pro (Not upgrade 500x500 build size)](#firmwares-for-z9v5pro)**
 - **[Firmwares for Z9V5Pro-Max (Upgraded 500x500 build size)](#firmwares-for-z9v5pro-max)**
 
+### Release note
+Please refer to [:point_right: here](../beta/readme.md)
+
 -----
 ## Firmwares for Z9V5Pro 
 ### Upgraded BMG Dual Gear Extruder
