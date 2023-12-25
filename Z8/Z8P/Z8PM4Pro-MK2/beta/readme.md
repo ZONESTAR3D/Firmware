@@ -7,7 +7,23 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:  ***MENU>>Control>>Restore Defaults***
 
 ----
+# :warning: Notice
+Starting from version 1.5.0, the firmware of **MK2** and **MK2A** has been separated because **Z8PM4Pro-MK2** and **Z8PM4Pro-MK2A** used different control board - **Z8PM4Pro-MK2** used **ZM3E4 V2.1** and **Z8PM4Pro-MK2** used **ZM3E4 V3.0**. If the firmware does not correspond to the control board version, the temperature measurement results may not be accurate.    
+Please select the corresponding firmware based on the model of your machine. Regarding how to distinguish between **Z8PM4Pro-MK2** and **Z8PM4Pro-MK2A**, please refer to [**:link: this link**](https://github.com/ZONESTAR3D/Z8P/tree/main?tab=readme-ov-file#z8p-mk2-has-been-upgraded-to-z8p-mk2a-since-2024-the-main-upgrades-of-z8p-mk2a).    
+:pushpin: If your machine is MK2, but you have upgraded to a ZM3E4 V3.0, you should choose the firmware for MK2A.
+
+----
 # Release Note
+### [ :arrow_down: Z8PM4-MK2 V1.5.0 beta](./Z8PM4MK2_V1_5_0.zip)
+### [ :arrow_down: Z8PM4-MK2A V1.5.0 beta](./Z8PM4MK2A_V1_5_0.zip)
+- **Date:** 2023-12-25
+- [**CHG**] Support to access the SD card files from USB.      
+  :pushpin: Hint:      
+  - Do not access the SD card during printing.
+  - The speed of accessing the SD card through USB is about 300KB/S. If the file is large, please be patient to wait for the access to be completed.
+  - If the SD card cannot be found when inserting USB, please restart the 3D printer and unplug the USB cable to try again.
+
+
 ### [ :arrow_down: Z8PM4-MK2 V1.4.3 beta](./Z8PM4MK2_V1_4_3.zip)
 - **Date:** 2023-11-29
 - [**CHG**] Improved the issue of sudden jumps when adjusting values on LCD screen.
