@@ -17,11 +17,12 @@ Please select the corresponding firmware based on the model of your machine. Reg
 ### [ :arrow_down: Z8PM4-MK2 V1.5.0 beta](./Z8PM4MK2_V1_5_0.zip)
 ### [ :arrow_down: Z8PM4-MK2A V1.5.0 beta](./Z8PM4MK2A_V1_5_0.zip)
 - **Date:** 2023-12-25
-- [**CHG**] Support to access the SD card files from USB.      
+- [**NEW**] Support to access the SD card files from USB Port.    
   :pushpin: Hint:      
   - Do not access the SD card during printing.
+  - Must plug the SD card before power on the machine if you need to access it from USB port.
+  - If released the SD card from machine, you need to disconnect the USB cable and restart the machine, otherwise you can't find the SD card from PC.
   - The speed of accessing the SD card through USB is about 300KB/S. If the file is large, please be patient to wait for the access to be completed.
-  - If the SD card cannot be found when inserting USB, please restart the 3D printer and unplug the USB cable to try again.
 
 
 ### [ :arrow_down: Z8PM4-MK2 V1.4.3 beta](./Z8PM4MK2_V1_4_3.zip)
