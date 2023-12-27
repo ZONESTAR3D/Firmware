@@ -6,6 +6,7 @@
 - **Date:** 2023-12-25
 - [**CHG**] Support to access the SD card files from USB.      
   :pushpin: Hint:      
+  - Plug the SD card before power on.
   - Do not access the SD card during printing.
   - The speed of accessing the SD card through USB is about 300KB/S. If the file is large, please be patient to wait for the access to be completed.
   - If the SD card cannot be found when inserting USB, please restart the 3D printer and unplug the USB cable to try again.
