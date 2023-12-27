@@ -2,6 +2,14 @@
 
 ----
 ## Release Note
+### [:arrow_down: Z9V5Pro-MK5 V1.3.0](./Z9V5ProMK5_V1_3_0.zip)
+- **Date:** 2023-12-25
+- [**CHG**] Support to access the SD card files from USB.      
+  :pushpin: Hint:      
+  - Do not access the SD card during printing.
+  - The speed of accessing the SD card through USB is about 300KB/S. If the file is large, please be patient to wait for the access to be completed.
+  - If the SD card cannot be found when inserting USB, please restart the 3D printer and unplug the USB cable to try again.
+
 ### [:arrow_down: Z9V5Pro-MK5 V1.2.4](./Z9V5ProMK5_V1_2_4.zip)
 - **Date:** 2023-08-23
 - [**CHG**] Build on new PlatformIO core 6.0.
