@@ -1,9 +1,16 @@
-
 ## :warning: ATTENTION PLEASE 
 - Please select a firmware and download it based on which features you have upgraded.
 - All the firmware below already includes support for WiFi upgrades.
-- How to upload firmware to the 3d printer, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin#how-to-upload-firmware-to-z9v5pro)   
 - The customized firmware may not be test completely, if there is any question, please feel free to let me know, thanks! email: support@zonestar3d.com
+
+#### Firmware Upload Steps 
+1. Download the zip file and unzip it.
+2. Copy firmware.bin to the root directory of micro-SD card, 
+NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
+3. Power off the printer and plug the micro-SD card into socket on control board
+4. Power on the printer, push and hold the DC power button 3 seconds, the ZONESTAR Logo backlight will flash, wait until it goes out.
+5. Push and hold the DC power button 3 seconds , until the LCD screen shows ZONESTAR LOGO.
+6. Do the below step on LCD screen to initialize EEPROM: ***MENU>>Control>>Restore Defaults***
 
 ## Firmware
 - **[Firmwares for Z9V5Pro (Not upgrade 500x500 build size)](#firmwares-for-z9v5pro)**

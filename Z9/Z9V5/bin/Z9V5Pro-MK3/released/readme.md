@@ -1,14 +1,19 @@
-### About how to upload firmware of the 3d printer, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin#how-to-upload-firmware-to-z9v5pro)
+#### Firmware Upload Steps 
+1. Download the zip file and unzip it.
+2. Copy firmware.bin to the root directory of micro-SD card, 
+NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
+3. Power off the printer and plug the micro-SD card into socket on control board
+4. Power on the printer, push and hold the DC power button 3 seconds, the ZONESTAR Logo backlight will flash, wait until it goes out.
+5. Push and hold the DC power button 3 seconds , until the LCD screen shows ZONESTAR LOGO.
+6. Do the below step on LCD screen to initialize EEPROM: ***MENU>>Control>>Restore Defaults***
 
 ### :warning: !ATTENTION PLEASE!
 - You must upgrade the DWIN LCD screen menu files before upgrading the printer firmware to 3.0.0 or last version, otherwise it will cause some display issue on LCD MENU. 
 - About how to upgrade the LCD MENU files of DWIN LCD, please refer to [:point_right: **here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN).
 - About the newest MENU description, please refer to  [:point_right: **here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/readme.md).
 
-
-## Release Note
-
 -----
+## Firmware Download Link and Release Note
 ### [:arrow_down: Z9V5Pro-MK3 V3.5.1](./Z9V5Pro-MK3_V3_5_1.zip)
 - **Date:** 2023-08-23
 - [**CHG**] Optimize Configure menu.
