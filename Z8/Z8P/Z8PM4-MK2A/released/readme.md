@@ -8,6 +8,6 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 
 ----
 # Release Note
-### [:arrow_down: Z8PM4-MK2A V1.5.0](./Z8PM4MK2_V1_5_0.zip)
-- **Date:** 2022-12-03
+### [:arrow_down: Z8PM4-MK2A V1.4](./Z8PM4MK2_V1_4.zip)
+- **Date:** 2023-08-23
 - ***First release***
