@@ -6,7 +6,7 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 4. Power on the printer, push the power button and wait about 30 seconds
 5. Do the below step on LCD screen to initialize EEPROM after upload firmware:  ***MENU>>Control>>Restore Defaults***
 
-#### :heavy_exclamation_mark:ATTETION PLEASE:heavy_exclamation_mark:
+#### :heavy_exclamation_mark:ATTENTION PLEASE:heavy_exclamation_mark:
 #### DWIN LCD MENU
 1. You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU. 
 2. The firmware of DWIN display screen is downward compatible, please upgrade to the latest version.
