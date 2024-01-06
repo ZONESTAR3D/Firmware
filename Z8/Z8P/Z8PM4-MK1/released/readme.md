@@ -18,6 +18,10 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ## V3.x.x
 :warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
 
+### [:arrow_down: Z8PM4Pro V3.4.1](./Z8PM4ProMK1_V3_4_1.zip)
+- **Date:** 2023-11-29
+- [**CHG**] Improved the issue of sudden jumps when adjusting values
+
 ### [Z8PM4Pro V3.2.4 beta :arrow_down:](./Z8PM4ProMK1_V3_2_4.zip)
 - **Date:** 2022-12-14
 - [**CHG**] Correct temperature when the temperature is less than 20 degree
