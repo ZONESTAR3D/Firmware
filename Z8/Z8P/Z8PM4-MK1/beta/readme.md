@@ -18,6 +18,15 @@ NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
 ## V3.x.x
 :warning: You must upgrade the DWIN LCD screen firmware before upgrading the printer firmware 2.0 or last version, otherwise it will cause some display issue on LCD MENU, about details, please refer to [:point_up: **here**](#dwin-lcd-menu)
 
+### [:arrow_down: Z8PM4Pro V3.5.0](./Z8PM4ProMK1_V3_5_0.zip)
+- **Date:** 2024-01-06
+- [**NEW**] Support to access the SD card files from USB Port.    
+  :pushpin: Hint:      
+  - Do not access the SD card during printing.
+  - Must plug the SD card before power on the machine if you need to access it from USB port.
+  - If released the SD card from machine, you need to disconnect the USB cable and restart the machine, otherwise you can't find the SD card from PC.
+  - The speed of accessing the SD card through USB is about 300KB/S. If the file is large, please be patient to wait for the access to be completed.
+
 ### [:arrow_down: Z8PM4Pro V3.4.1](./Z8PM4ProMK1_V3_4_1.zip)
 - **Date:** 2023-11-29
 - [**CHG**] Improved the issue of sudden jumps when adjusting values
