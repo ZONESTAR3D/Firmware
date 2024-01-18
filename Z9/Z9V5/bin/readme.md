@@ -1,31 +1,3 @@
-### :globe_with_meridians: Choose Language (Translated by google)
-[![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=da)
-[![](../../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=sk)
-
-[![](../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=el)
-[![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin?_x_tr_sl=en&_x_tr_tl=zh-CN)
-
------
 ## Firmware download link
 - [**:point_right: Z9V5Pro-MK1 & Z9V5Pro-MK2**](./Z9V5Pro/readme.md)
 - [**:point_right: Z9V5Pro-MK3**](./Z9V5Pro-MK3/readme.md)
@@ -46,13 +18,14 @@ Please following the below steps to upload the firmware:
 ### :bulb: How do I know if my machine is MK1, MK2, MK3 or MK4?
 **About what's different between Z9V5Pro-MK1/MK2/MK3/MK4, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)**.  
 ### Method 1. Check serial number of your printer:
-You can distinguish by serial number, there is a white lable on the power supply wrote down the serial number.  
-- **Z9V5Pro-MK1:** Serial Number is **xxxxxxxxxx**   
-- **Z9V5Pro-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
-- **Z9V5Pro-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
-- **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx** 
-- **Z9V5Pro-MK5:** Serial Number is **MK5-xxxxxxxxxx** 
+You can distinguish by serial number, there is a white lable on the power supply wrote down the serial number.      
 ![Z9V5_SN](Z9V5_SN.jpg)    
+- **Z9V5Pro-MK1:** Serial Number is **xxxxxxxxxx**      
+- **Z9V5Pro-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
+- **Z9V5Pro-MK3:** Serial Number is **MK3-xxxxxxxxxx**       
+- **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx**    
+- **Z9V5Pro-MK5:** Serial Number is **MK5-xxxxxxxxxx**     
+
 ### Method 2. Check the original firmware version:
 You can check the printer name from the LCD screen too, see "Menu>>**Info>>Model**", refer to the below picture:   
 ![Z9V5_Info](info.jpg)      
