@@ -1,10 +1,15 @@
 ## Firmware download link
-- [**:point_right: Z9V5Pro-MK1 & Z9V5Pro-MK2**](./Z9V5Pro/readme.md)
-- [**:point_right: Z9V5Pro-MK3**](./Z9V5Pro-MK3/readme.md)
-- [**:point_right: Z9V5Pro-MK4**](./Z9V5Pro-MK4/readme.md)
-- [**:point_right: Z9V5Pro-MK5**](./Z9V5Pro-MK5/readme.md)
+- [**:point_right: Firmware for Z9V5Pro-MK1 & Z9V5Pro-MK2**](./Z9V5Pro/readme.md)
+- [**:point_right: Firmware for Z9V5Pro-MK3**](./Z9V5Pro-MK3/readme.md)
+- [**:point_right: Firmware for Z9V5Pro-MK4**](./Z9V5Pro-MK4/readme.md)
+- [**:point_right: Firmware for Z9V5Pro-MK5**](./Z9V5Pro-MK5/readme.md)
 
-## How to upload firmware to Z9V5Pro
+### :bell: HINT
+1. **All the firmware listed in this file are for the motherboard of the machine.**  
+2. **As long as the firmware you choose is for Z9V5Pro, even if you uploaded a wrong firmware (such as your machine model is MK2 but you upgraded a firmware for MK3), the LCD Screen can display normally, you can upload the firmware for MK2 again.**
+3. **Some newer versions of machine firmware require upgraded the LCD display image library too, otherwise some item characters in LCD menus may not be displayed properly. For detail, please read the "release note" on the firmware download page.**
+
+### How to upload firmware to Z9V5Pro
 Please following the below steps to upload the firmware: 
 1. Download the zip file and unzip it, you can get a ***firmware.bin*** file.
 2. Copy that ***firmware.bin*** to the root directory of Micro-SD card.    
