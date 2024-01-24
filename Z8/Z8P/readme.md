@@ -1,12 +1,21 @@
 ## Firmware for Z8P series 3d printer
 
+
+|     Model   |Control Board| LCD Screen  |    Motor Drivers    |Hotend Type|Y-axis Rail|
+|:-----------:|:-----------:|:-----------:|:-------------------:|:---------:|:---------:|
+|Z8PM4Pro-MK2A| ZM3E4V3.0   |  TFT-LCD    | TMC2208x4 + A4988x4 | M4V6      | 2020x2    |
+|Z8PM4Pro-MK2 | ZM3E4V2.1   |  TFT-LCD    | TMC2208x4 + A4988x4 | M4V6      | 2040x1    |
+|Z8PM4Pro-MK1 | ZM3E4V2.0   |  TFT-LCD    |    TMC2225x8        | M4V3      | 2040x1    |
+|Z8PM4        | ZM3E4V2.0   |  LCD12864   |    TMC2225x8        | M4V3      | 2040x1    |
+|Z8PM3        | ZM3E4V2.0   |  LCD12864   |    TMC2225x7        | M3V2      | 2040x1    |
+
 -----
 #### :file_folder: Z8PM4Pro-MK2A
 - **[:arrow_down: Download firmware for Z8PM4Pro-MK2A](./Z8PM4-MK2A/)**
 - What's different between Z8PM4Pro-**MK2A** and Z8PM4Pro-**MK2**
   - Z8PM4Pro-MK2A upgraded the Y-axes rail to 2 pieces of 2020 v-slot profiles.
   - Z8PM4Pro-MK2A added a SD card socket on the right of the control box.
-  - Z8PM4Pro-MK2A Upgraded the control board from ZM3E4V2.x to ZM3E4V3.x   
+  - Z8PM4Pro-MK2A Upgraded the control board to ZM3E4V3.0   
   ![](./MK2vsMK2A.jpg)
 
 ----
