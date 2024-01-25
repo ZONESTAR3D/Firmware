@@ -26,7 +26,7 @@ Please following the below steps to upload the firmware:
 - **[:arrow_down: Upgraded TMC2209 motor drivers @ all axis and BMG Extruders](./Z9M4_LCDDWIN_BMG_TMC220x%40All_V3_5_2.zip) [:art: Wiring Diagram: Wiring 1](#wiring-1)**
 - **[:arrow_down:Upgraded TMC2209 motor drivers @ all axis and 3Dtouch bed leveling sensor](./Z9M4_LCDDWIN_3DTouch_TMC220x%40All_V3_5_2.zip) [:art: Wiring Diagram: Wiring 2](#wiring-1)**
 - **[:arrow_down:Upgraded TMC2209 motor drivers @ all axis and 3Dtouch bed leveling sensor and BMG Extruders](./Z9M4_LCDDWIN_BMG_3DTouch_TMC220x@All_V3_5_2.zip) [:art: Wiring Diagram: Wiring 2](#wiring-1)**
-
+- **[:arrow_down:Upgraded TMC2208 motor drivers @ XYZ axis, 3Dtouch bed leveling sensor and 2x left-hand + 2x  right-hand BMG Extruders](./Z9M4_LCDDWIN_BMGLR_3DTouch_TMC220x@XYZ_DualZEND_V3_6_1.zip) [:art: Wiring Diagram: Wiring 2](#wiring-1)**
 -----
 ### Firmware V3.5.2
 **Date:** 	 2023-12-21    
