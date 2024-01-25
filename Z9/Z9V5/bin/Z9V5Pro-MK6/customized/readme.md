@@ -21,15 +21,19 @@ The customized firmware may not be test completely, if there is any question, pl
 **[:book:500mmx500mm build size upgrade kit installation and use guide][GUIDE_500]**    
 
 #### Only upgraded 500mmx500mm build size upgrade kit
+- **[:arrow_down:Z9V5ProMK6Max_V1_1_1](./Z9V5ProMK6Max_V1_1_1.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_V1_0_2](./Z9V5ProMK6Max_V1_0_2.zip)** 
 
 #### Also upgraded all motor drivers to TMC2209
+- **[:arrow_down:Z9V5ProMK6Max_TMC220x_V1_1_1](./Z9V5ProMK6Max_TMC220x_V1_1_1.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_TMC220x_V1_0_2](./Z9V5ProMK6Max_TMC220x_V1_0_2.zip)** 
 
 #### Also upgraded 3DTouch bed leveling sensor
+- **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_1_1](./Z9V5ProMK6Max_3DTouch_V1_1_1.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_0_2](./Z9V5ProMK6Max_3DTouch_V1_0_2.zip)** 
 
 #### Also upgraded all motor drivers to TMC2209 and 3DTouch bed leveling sensor
+- **[:arrow_down:Z9V5ProMK6Max_TMC220x_3DTouch_V1_1_1](./Z9V5ProMK6Max_TMC220x_3DTouch_V1_1_1.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_TMC220x_3DTouch_V1_0_2](./Z9V5ProMK6Max_TMC220x_3DTouch_V1_0_2.zip)** 
 
 -----
