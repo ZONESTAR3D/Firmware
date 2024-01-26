@@ -1,13 +1,30 @@
 # Firmware for Z9V5  
+## :file_folder: [Z9V5Pro-MK6](./bin/Z9V5Pro-MK6)
+### Default configurations:
+- Control board: [ZM3E4V3.0 (32 bits control board)](#zm3e4)
+- Extrude system: [Dual Gear Extruder](https://www.aliexpress.com/item/3256806053712995.html) + [4-IN-1-OUT Mix Color (M4V6) hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6).
+- Bed Auto leveling sensor: [PL-08N](https://www.aliexpress.com/item/2255800409994958.html)
+- Motor drivers: 
+  - 4x [TMC2208](https://www.aliexpress.com/item/2255800410054263.html) used on XYZ(2) axis steps motors. 
+  - 4x [A4988](https://www.aliexpress.com/item/2255800771058461.html) used on extruder steps motors.
+- LCD Screen: [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)   
+
+### Optional Upgrade Features for Z9V5Pro-MK6
+- [Non-Mix Color hotend](#e4-hotend)
+- [WiFi wireless control](#wifi-module)
+- [PEI Bed Sticker](#pei-bed-sticker) 
+- [Linear Rail](#linear-rail) 
+
+----
 ## :file_folder: [Z9V5Pro-MK5](./bin/Z9V5Pro-MK5)
 ### Default configurations:
 - Control board: [ZM3E4V2.1 (32 bits control board)](#zm3e4)
-- Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Non-Mix Color (M4V6) hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6).
+- Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color (M4V6) hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6).
 - Bed Auto leveling sensor: [PL-08N](https://www.aliexpress.com/item/2255800409994958.html)
 - Motor drivers: 8x [TMC2225](https://www.aliexpress.com/item/3256803084406467.html) motor drivers
 - LCD Screen: [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)   
 
-### Recommanded Upgrade Features for Z9V5Pro-MK5
+### Optional Upgrade Features for Z9V5Pro-MK5
 - [Non-Mix Color hotend](#e4-hotend)
 - [WiFi wireless control](#wifi-module)
 - [PEI Bed Sticker](#pei-bed-sticker) 
@@ -18,12 +35,12 @@
 ## :file_folder: [Z9V5Pro-MK4](./bin/Z9V5Pro-MK4)
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
-- Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Non-Mix Color hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend).
+- Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Non-Mix Color hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4).
 - Bed Auto leveling sensor: [PL-08N](https://www.aliexpress.com/item/2255800409994958.html)
 - Motor drivers: 8x [TMC2225](https://www.aliexpress.com/item/3256803084406467.html) motor drivers
 - LCD Screen: [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)   
 
-### Recommanded Upgrade Features for Z9V5Pro-MK4
+### Optional Upgrade Features for Z9V5Pro-MK4
 - [New Mixing Color hotend](#m4v6-hotend)
 - [WiFi wireless control](#wifi-module)
 - [PEI Bed Sticker](#pei-bed-sticker) 
@@ -34,11 +51,11 @@
 ## :file_folder: [Z9V5Pro-MK3](./bin/Z9V5Pro-MK3)
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
-- Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color hotend (M4V4)](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)
+- Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color hotend (M4V4)](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V3_V4)
 - Bed Auto leveling sensor: [ZL-SENSOR](https://www.aliexpress.com/item/3256802678996718.html)
 - Motor drivers: 8x [TMC2225](https://www.aliexpress.com/item/3256803084406467.html) motor drivers
 - LCD Screen: [4.3" TFT-LCD](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)  
-### Recommanded Upgrade Features for Z9V5Pro-MK3
+### Optional Upgrade Features for Z9V5Pro-MK3
 - [Non-Mix Color hotend](#e4-hotend)
 - [New Mixing Color hotend](#m4v6-hotend)
 - [WiFi wireless control](#wifi-module)
@@ -50,7 +67,7 @@
 ## :file_folder: [Z9V5Pro-MK1&MK2](./bin/Z9V5Pro)
 ### Default configurations:
 - Control board: [ZM3E4 (32 bits control board)](#zm3e4)
-- Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color hotend (M4V3)](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)
+- Extrude system: [Titan Extrusion feeder](https://www.aliexpress.com/item/3256801491924265.html) + [4-IN-1-OUT Mix Color hotend (M4V3)](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V3_V4)
 - Bed Auto leveling sensor: [PL-08N](https://www.aliexpress.com/item/2255800409994958.html)
 - Motor drivers:
   - 4x [TMC2225](https://www.aliexpress.com/item/3256803084406467.html) used on XYZ(2) axis steps motors 
