@@ -1,14 +1,14 @@
 ## :file_folder: [Released](./released/)
 Released firmware is a stable version firmware that has undergone testing.     
-:point_right:[**Released firmware**](./released/readme.md)
+:point_right: [**Released firmware**](./released/readme.md)
  
 ## :file_folder: [Beta](./beta/)
 The beta firmware has the latest update features, but it may be unstable.      
-:point_right:[**Beta firmware**](./beta/readme.md)
+:point_right: [**Beta firmware**](./beta/readme.md)
 
 ## :file_folder:[Customized](./customized/)
 Customized firmware refers to firmware that has upgraded optional features, such stepper motor driver, hot bed leveling sensor, and 500x500 building size kit, etc..
-:point_right:[**Beta firmware**](./customized/readme.md)
+:point_right: [**Beta firmware**](./customized/readme.md)
 
 ----
 #### Firmware Upload Steps 
