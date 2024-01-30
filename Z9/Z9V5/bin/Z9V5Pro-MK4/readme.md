@@ -1,14 +1,14 @@
 ## :file_folder: [Released](./released/)
 Released firmware are for the mass production machine. If you did not upgrade any features, please use the firmware in this directory.    
-:point_right:[**Released firmware**](./released/readme.md)
+:point_right: [**Released firmware**](./released/readme.md)
  
 ## :file_folder: [Beta](./beta/)
 Beta firmware have the latest update features, but it may be unstable.    
-:point_right:[**Beta firmware**](./beta/readme.md)
+:point_right: [**Beta firmware**](./beta/readme.md)
 
 ## :file_folder:[Customized](./customized/)
-Customized firmware for some customers who upgraded some parts or features.
-:point_right:[**Customized firmware**](./customized/readme.md)
+Customized firmware for some customers who upgraded some parts or features.     
+:point_right: [**Customized firmware**](./customized/readme.md)
 
 ----
 #### Firmware Upload Steps 
