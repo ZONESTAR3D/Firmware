@@ -1,0 +1,3 @@
+- **[:arrow_down: Download firmware source code](./Z9M3_ZRIBV6.zip)**   
+- **How to install the building environment, please refer to this link: https://marlinfw.org/docs/basics/install_platformio_vscode.html .** 
+- **The newest firmware source code download link: https://github.com/ZONESTAR3D/source-code-for-3d-printer .**
