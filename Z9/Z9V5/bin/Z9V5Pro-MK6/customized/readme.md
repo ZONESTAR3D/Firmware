@@ -4,14 +4,17 @@ The customized firmware may not be test completely, if there is any question, pl
 -----
 ### Firmware for Z9V5Pro-MK6 upgraded some features
 ##### Upgraded Auto Repeat Print Module
+- **[:arrow_down:Z9V5ProMK6_ARPM_V1_1_2](./Z9V5ProMK6_ARPM_V1_1_2.zip)**    
 - **[:arrow_down:Z9V5ProMK6_ARPM_V1_1_1](./Z9V5ProMK6_ARPM_V1_1_1.zip)**    
 
 #### Upgraded Auto Repeat Print Module and 3DTouch/BLTouch bed leveling sensor
+- **[:arrow_down:Z9V5ProMK6_3DTouch_ARPM_V1_1_2](./Z9V5ProMK6_3DTouch_ARPM_V1_1_2.zip)**  
 - **[:arrow_down:Z9V5ProMK6_3DTouch_ARPM_V1_1_1](./Z9V5ProMK6_3DTouch_ARPM_V1_1_1.zip)**    
 **About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: here][3DTouch_SPY].**   
 
 #### Upgraded 3DTouch/BLTouch bed leveling sensor
-- **[:arrow_down:Z9V5ProMK6_3DTouch_V1_1_2](./Z9V5ProMK6_3DTouch_V1_1_1.zip)**   
+- **[:arrow_down:Z9V5ProMK6_3DTouch_V1_1_2](./Z9V5ProMK6_3DTouch_V1_1_2.zip)**   
+- **[:arrow_down:Z9V5ProMK6_3DTouch_V1_1_1](./Z9V5ProMK6_3DTouch_V1_1_1.zip)**   
 - **[:arrow_down:Z9V5ProMK6_3DTouch_V1_0_2](./Z9V5ProMK6_3DTouch_V1_0_2.zip)**    
 **About 3DTouch/BLTouch, please refer to [:gift: here][3DTouch_ALI] or [:gift: here][3DTouch_SPY].**   
 
@@ -21,18 +24,22 @@ The customized firmware may not be test completely, if there is any question, pl
 **[:book:500mmx500mm build size upgrade kit installation and use guide][GUIDE_500]**    
 
 #### Only upgraded 500mmx500mm build size upgrade kit
+- **[:arrow_down:Z9V5ProMK6Max_V1_1_2](./Z9V5ProMK6Max_V1_1_2.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_V1_1_1](./Z9V5ProMK6Max_V1_1_1.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_V1_0_2](./Z9V5ProMK6Max_V1_0_2.zip)** 
 
 #### Also upgraded all motor drivers to TMC2209
+- **[:arrow_down:Z9V5ProMK6Max_TMC220x_V1_1_2](./Z9V5ProMK6Max_TMC220x_V1_1_2.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_TMC220x_V1_1_1](./Z9V5ProMK6Max_TMC220x_V1_1_1.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_TMC220x_V1_0_2](./Z9V5ProMK6Max_TMC220x_V1_0_2.zip)** 
 
 #### Also upgraded 3DTouch bed leveling sensor
+- **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_1_2](./Z9V5ProMK6Max_3DTouch_V1_1_2.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_1_1](./Z9V5ProMK6Max_3DTouch_V1_1_1.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_3DTouch_V1_0_2](./Z9V5ProMK6Max_3DTouch_V1_0_2.zip)** 
 
 #### Also upgraded all motor drivers to TMC2209 and 3DTouch bed leveling sensor
+- **[:arrow_down:Z9V5ProMK6Max_TMC220x_3DTouch_V1_1_2](./Z9V5ProMK6Max_TMC220x_3DTouch_V1_1_2.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_TMC220x_3DTouch_V1_1_1](./Z9V5ProMK6Max_TMC220x_3DTouch_V1_1_1.zip)** 
 - **[:arrow_down:Z9V5ProMK6Max_TMC220x_3DTouch_V1_0_2](./Z9V5ProMK6Max_TMC220x_3DTouch_V1_0_2.zip)** 
 

@@ -1,5 +1,10 @@
-
 ## Release Note
+### V1.1.2
+- **Date:** 2024-03-14
+- [**CHG**] Optimize BabyStep functionality: 
+1. It is prohibited to call out the "Babystep" menu before starting printing.
+2. Improve the issue of accidentally exiting the BabyStep menu by repeatedly pressing the knob when starting BabyStep.
+
 ### V1.1.1
 - **Date:** 2023-12-25
 - [**NEW**] Support to access the SD card files from USB Port.      
