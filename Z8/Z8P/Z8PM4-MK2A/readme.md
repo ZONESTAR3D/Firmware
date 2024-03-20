@@ -11,8 +11,8 @@ Customized firmware for some customers who upgraded some parts or features.
 [:point_right:**Customized firmware**](./customized/readme.md) 
 
 ----
-#### :blue_book: [Firmware Release Note](../releasenote.md)   
-Detailed information about firmware versions, please refer to [**releasenote.md**](../releasenote.md).
+#### :blue_book: [Firmware Release Note](./releasenote.md)   
+Detailed information about firmware versions, please refer to [**releasenote.md**](./releasenote.md).
 
 ----
 #### :green_book: Firmware Upload Steps
