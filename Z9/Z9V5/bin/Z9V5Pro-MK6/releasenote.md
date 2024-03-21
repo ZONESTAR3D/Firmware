@@ -1,4 +1,9 @@
 ## Release Note
+### V1.1.3
+- **Date:** 2024-03-21
+- [**BUG**] Fixed the Y Home offset after Homed.
+- [**CHG**] Optimize and accelerate the startup process.
+
 ### V1.1.2
 - **Date:** 2024-03-14
 - [**CHG**] Optimize BabyStep functionality: 
