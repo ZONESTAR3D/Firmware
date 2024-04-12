@@ -20,24 +20,17 @@ Please following the below steps to upload the firmware:
 6. Do ***MENU>>Control>>Restore Defaults*** LCD screen to reset settings.  
 
 -----
-### :bulb: How do I know if my machine is MK1, MK2, MK3 or MK4?
-**About what's different between Z9V5Pro-MK1/MK2/MK3/MK4, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)**.  
-### Method 1. Check serial number of your printer:
+### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
+**About what's different between Z9V5Pro-MK1/MK2/MK3/MK4/MK5/MK6, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)**.       
 You can distinguish by serial number, there is a white lable on the power supply wrote down the serial number.      
-![Z9V5_SN](Z9V5_SN.jpg)    
+![](Z9V5_SN.jpg)    
 - **Z9V5Pro-MK1:** Serial Number is **xxxxxxxxxx**      
 - **Z9V5Pro-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
 - **Z9V5Pro-MK3:** Serial Number is **MK3-xxxxxxxxxx**       
 - **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx**    
 - **Z9V5Pro-MK5:** Serial Number is **MK5-xxxxxxxxxx**     
 
-### Method 2. Check the original firmware version:
-You can check the printer name from the LCD screen too, see "Menu>>**Info>>Model**", refer to the below picture:   
-![Z9V5_Info](info.jpg)      
-- **Z9V5Pro-MK1** and **Z9V5Pro-MK2**: model is **Z9V5Pro** or **Z9V5Pro-MK1(2)**  
-- **Z9V5Pro-MK3**: model is **Z9V5Pro-MK3**    
-- **Z9V5Pro-MK4**: model is **Z9V5Pro-MK4**    
-- **Z9V5Pro-MK5**: model is **Z9V5Pro-MK5**    
+
 
 -----
 ### Recommanded Upgrade Features
