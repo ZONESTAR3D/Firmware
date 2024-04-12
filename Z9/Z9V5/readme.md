@@ -1,4 +1,16 @@
 # Firmware for Z9V5  
+-----
+#### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
+You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
+![](Z9V5_SN.jpg)
+- **Z9V5-MK1:** Serial Number is **xxxxxxxxxx**   
+- **Z9V5-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
+- **Z9V5-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
+- **Z9V5-MK4:** Serial Number is **MK4-xxxxxxxxxx**  
+- **Z9V5-MK5:** Serial Number is **MK5-xxxxxxxxxx**  
+- **Z9V5-MK6:** Serial Number is **MK6-xxxxxxxxxx**  
+
+-----
 ## :file_folder: [Z9V5Pro-MK6](./bin/Z9V5Pro-MK6)
 ### Default configurations:
 - Control board: [ZM3E4V3.0](#zm3e4)
@@ -18,7 +30,7 @@
 - [Laser Engraving](#laser-engraving) 
 - [Enclosure Housing](#enclosure-housing) 
 
-----
+  -----
 ## :file_folder: [Z9V5Pro-MK5](./bin/Z9V5Pro-MK5)
 ### Default configurations:
 - Control board: [ZM3E4V2.1](#zm3e4)
@@ -37,7 +49,7 @@
 - [Laser Engraving](#laser-engraving) 
 - [Enclosure Housing](#enclosure-housing) 
 
------
+  -----
 ## :file_folder: [Z9V5Pro-MK4](./bin/Z9V5Pro-MK4)
 ### Default configurations:
 - Control board: [ZM3E4V2.1](#zm3e4)
@@ -56,7 +68,7 @@
 - [Laser Engraving](#laser-engraving) 
 - [Enclosure Housing](#enclosure-housing) 
 
------
+  -----
 ## :file_folder: [Z9V5Pro-MK3](./bin/Z9V5Pro-MK3)
 ### Default configurations:
 - Control board: [ZM3E4V2.0](#zm3e4)
@@ -75,7 +87,7 @@
 - [Laser Engraving](#laser-engraving) 
 - [Enclosure Housing](#enclosure-housing) 
 
------
+  -----
 ## :file_folder: [Z9V5Pro-MK1&MK2](./bin/Z9V5Pro)
 ### Default configurations:
 - Control board: [ZM3E4V1.0/ZM3E4V2.0](#zm3e4)
@@ -98,13 +110,7 @@
 - [Laser Engraving](#laser-engraving) 
 - [Enclosure Housing](#enclosure-housing) 
 
-<!-- ### :file_folder: [Firmware bin file](./bin/)
-Bin file is the complied file of the firmware, you can upload this file to the control board of 3d printer from SD card directly.     
-About how to choose the correct firmware for your kit, please refer to [:point_right: **here**](./bin/readme.md).
-
-### :file_folder:  [Firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
-Z9V5 is open source of firmware, if you are interested in study, modify and build the firmware by yourself, please refer to [:point_right: **here**](https://github.com/ZONESTAR3D/source-code-for-3d-printer).   -->
-
+-----
 ### Wiring block
 ![](Z9V5_WiringBlock.jpg)
 
