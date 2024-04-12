@@ -1,7 +1,7 @@
 # Firmware for Z9V5  
+
 -----
-#### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
-**About what's different between Z9V5Pro-MK1/MK2/MK3/MK4/MK5/MK6, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)**.       
+### :speaker: How to distinguish Z9V5Pro-MK1/MK2/MK3/MK4/MK5/MK6
 You can distinguish by serial number, there is a white lable on the power supply wrote down the serial number.      
 ![](Z9V5_SN.jpg)    
 - **Z9V5Pro-MK1:** Serial Number is **xxxxxxxxxx**      
@@ -9,6 +9,8 @@ You can distinguish by serial number, there is a white lable on the power supply
 - **Z9V5Pro-MK3:** Serial Number is **MK3-xxxxxxxxxx**       
 - **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx**    
 - **Z9V5Pro-MK5:** Serial Number is **MK5-xxxxxxxxxx**     
+
+:pushpin: **About what's different between Z9V5Pro-MK1/MK2/MK3/MK4/MK5/MK6, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)**.     
 
 -----
 ## :file_folder: [Z9V5Pro-MK6](./bin/Z9V5Pro-MK6)

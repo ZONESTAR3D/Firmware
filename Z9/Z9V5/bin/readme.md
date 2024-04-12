@@ -20,8 +20,7 @@ Please following the below steps to upload the firmware:
 6. Do ***MENU>>Control>>Restore Defaults*** LCD screen to reset settings.  
 
 -----
-### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
-**About what's different between Z9V5Pro-MK1/MK2/MK3/MK4/MK5/MK6, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)**.       
+### :speaker: How to distinguish Z9V5Pro-MK1/MK2/MK3/MK4/MK5/MK6
 You can distinguish by serial number, there is a white lable on the power supply wrote down the serial number.      
 ![](Z9V5_SN.jpg)    
 - **Z9V5Pro-MK1:** Serial Number is **xxxxxxxxxx**      
@@ -30,7 +29,7 @@ You can distinguish by serial number, there is a white lable on the power supply
 - **Z9V5Pro-MK4:** Serial Number is **MK4-xxxxxxxxxx**    
 - **Z9V5Pro-MK5:** Serial Number is **MK5-xxxxxxxxxx**     
 
-
+:pushpin: **About what's different between Z9V5Pro-MK1/MK2/MK3/MK4/MK5/MK6, please refer to [:point_right: here](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)**.     
 
 -----
 ### Recommanded Upgrade Features
