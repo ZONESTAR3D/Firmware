@@ -1,7 +1,7 @@
 ## Firmware
-### [ :arrow_down: Z8PM4-MK2A V1.5.2 beta](./Z8PM4MK2A_V1_5_2.zip)
-### [ :arrow_down: Z8PM4-MK2A V1.5.1 beta](./Z8PM4MK2A_V1_5_1.zip)
-### [ :arrow_down: Z8PM4-MK2A V1.5.0 beta](./Z8PM4MK2A_V1_5_0.zip)
+- **[ :arrow_down: Z8PM4-MK2A V1.5.2 beta](./Z8PM4MK2A_V1_5_2.zip)**
+- **[ :arrow_down: Z8PM4-MK2A V1.5.1 beta](./Z8PM4MK2A_V1_5_1.zip)**
+- **[ :arrow_down: Z8PM4-MK2A V1.5.0 beta](./Z8PM4MK2A_V1_5_0.zip)**
 
 ----
 #### :blue_book: [Firmware Release Note](../releasenote.md)   
