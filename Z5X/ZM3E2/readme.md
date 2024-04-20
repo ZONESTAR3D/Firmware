@@ -17,7 +17,7 @@ NOTE: If there is a "old_fw.bin" in the SD card, delete it first.
 #### [:arrow_down: Z5X upgrade to ZM3E2 control board, PL08N bed leveling sensor and WiFi](./Z5X_ZM3E2_PL08N_WiFi_V1_3_0_en.zip)
 <!-- #### [:arrow_down: Z5XM2 upgrade to ZM3E2 control board and WiFi]() -->
 <!-- #### [:arrow_down: Z5XR2 upgrade to ZM3E2 control board and WiFi]() -->
-#### [:arrow_down: Z5X upgrade to ZM3E2 control board, Exchanged X and E2 connector, Portuguese Menu](./Z5X_ZM3E2_SWX&E2_V1_4_1.zip)
+#### [:arrow_down: Z5X upgrade to ZM3E2 control board, Exchanged X and E2 connector](./Z5X_ZM3E2_SWX&E2_V1_4_1.zip)
 #### [:arrow_down: Z5X upgrade to ZM3E2 control board, 3d Touch bed leveling sensor, Exchanged X and E2 connector, Portuguese Menu](./Z5X_ZM3E2_SWX&E2_3DTouch_V1_3_0_PT.zip)
 
 ## Wiring
