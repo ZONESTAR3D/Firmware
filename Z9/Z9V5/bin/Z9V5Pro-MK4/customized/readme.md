@@ -15,13 +15,15 @@ For firmware version upgrade instructions, please refer to the [**release note**
 
 -----
 ### Firmwares for Z9V5Pro 
-#### Upgraded BMG Dual Gear Extruder
+#### Upgraded BMG Dual Gear Extruder (4x right-hand)
+**[:arrow_down: Z9V5ProMK4_BMG_V1_6_2](./MK4/Z9V5ProMK4_BMG_V1_6_2.zip)** 
+#### Upgraded BMG Dual Gear Extruder (2x left-hand and 2x right-hand)
 **[:arrow_down: Z9V5ProMK4_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_BMGLR_V1_6_2.zip)** 
 **[:arrow_down: Z9V5ProMK4_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_BMGLR_V1_5_4.zip)**          
 #### Upgraded 3DTouch/BLTouch bed leveling sensor
 **[:arrow_down: Z9V5ProMK4_3DTouch_V1_6_2](./MK4/Z9V5ProMK4_3DTouch_V1_6_2.zip)**
 **[:arrow_down: Z9V5ProMK4_3DTouch_V1_5_4](./MK4/Z9V5ProMK4_3DTouch_V1_5_4.zip)**
-#### Upgraded BMG Dual Gear Extruder and 3DTouch/BLTouch
+#### Upgraded BMG Dual Gear Extruder (2x left-hand and 2x right-hand) and 3DTouch/BLTouch
 **[:arrow_down:Z9V5ProMK4_3DTouch_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_3DTouch_BMGLR_V1_6_2.zip)**
 **[:arrow_down:Z9V5ProMK4_3DTouch_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_3DTouch_BMGLR_V1_5_4.zip)**
 #### Upgraded all motor drivers to TMC2209
