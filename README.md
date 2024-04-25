@@ -31,13 +31,13 @@
 
 -----
 ## ZONESTAR 3D Printer Firmware download link:
-- :file_folder: [**P802 Serial: P802M/P802N/P802Q/P802C**](./P802/)
-- :file_folder: [**Z5 Serial: Z5/Z5S/Z5SM2/Z5SR2**](./Z5/)
-- :file_folder: [**Z5X Serial: Z5X/Z5XM2**](./Z5X/)
-- :file_folder: [**Z6 Serial: Z6/Z6B/Z6F/Z6FB**](./Z6/)
-- :file_folder: [**Z8 Serial: Z8/Z8X/Z8S/Z8T/Z8P**](./Z8/)
-- :file_folder: [**Z9 series: Z9M2/Z9M3/Z9M4/Z9V5**](./Z9/)
-- :file_folder: [**Z10 series: Z10S/Z10M2**](./Z10/)
+- :file_folder: [**P802 Series: P802M/P802N/P802Q/P802C**](./P802/)
+- :file_folder: [**Z5 Series: Z5/Z5S/Z5SM2/Z5SR2**](./Z5/)
+- :file_folder: [**Z5X Series: Z5X/Z5XM2**](./Z5X/)
+- :file_folder: [**Z6 Series: Z6/Z6B/Z6F/Z6FB**](./Z6/)
+- :file_folder: [**Z8 Series: Z8/Z8X/Z8S/Z8T/Z8P**](./Z8/)
+- :file_folder: [**Z9 Series: Z9M2/Z9M3/Z9M4/Z9V5**](./Z9/)
+- :file_folder: [**Z10 Series: Z10S/Z10M2**](./Z10/)
 
 -----
 ## How to Upload Firmware
