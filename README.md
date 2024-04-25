@@ -31,6 +31,7 @@
 
 -----
 ## ZONESTAR 3D Printer Firmware download link:
+- :file_folder: [**P802 Serial: P802M/P802N/P802Q/P802C**](./P802/)
 - :file_folder: [**Z5 Serial: Z5/Z5S/Z5SM2/Z5SR2**](./Z5/)
 - :file_folder: [**Z5X Serial: Z5X/Z5XM2**](./Z5X/)
 - :file_folder: [**Z6 Serial: Z6/Z6B/Z6F/Z6FB**](./Z6/)
@@ -61,6 +62,6 @@
 
 ----
 ### :file_folder:[Discontinued 3D Printer product Firmware](./backup/)
-If your printer model is P802C, P802M, P802N, P802Q, Z9M2, Z9M3, D805S, D806, please find the firmware from the below link:
+If your printer model is Z9M2, Z9M3, D805S, D806, please find the firmware from the below link:
 - [**Firmware**](./backup/Firmware/)
 - [**Sourcecode**](./backup/Sourcecode/)
