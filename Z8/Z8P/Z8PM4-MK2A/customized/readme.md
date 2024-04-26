@@ -4,11 +4,6 @@
 - **[:arrow_down:Z8PM4MK2A_BMG_3DTouch_V1_5_1](./Z8PM4MK2A_BMG_V1_5_1.zip):** Upgraded [Dual Gear Extruders (4x left-hand Extruder)](#BMG) and [3DTouch/BLTouch](#3DTOUCH).
 - **[:arrow_down:Z8PM4MK2A_TMC220x_3DTouch_V1_5_1](./Z8PM4MK2A_TMC220x_3DTouch_V1_5_1.zip):** Upgraded 3DTouch/BLTouch and TMC2209 motor drivers at all motors.
 
----
-## Wiring
-Connect the 3d touch bed leveling sensor to EXP1  
-![](Wiring_3DTouch.png)
-
 ----
 ## :blue_book: [Firmware Release Note](../releasenote.md)   
 Detailed information about firmware versions, please refer to [**releasenote.md**](../releasenote.md).
@@ -29,3 +24,8 @@ About how to install and debug the 3DTouch/BLTouch, please refer to [:book:**thi
 
 #### <a id="BMG">Dual Gear Extruder</a>
 About how to install Dual Gear Extruder, please refer to [:book:**this guide.**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/Dual_Gear_Extruder/Z8P.md)
+
+---
+## Wiring
+Connect the 3d touch bed leveling sensor to EXP1  
+![](Wiring_3DTouch.png)
