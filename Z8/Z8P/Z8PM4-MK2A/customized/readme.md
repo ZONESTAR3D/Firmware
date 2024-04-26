@@ -19,10 +19,10 @@ NOTE: If there is a "old_fw.bin" in the SD card, delete it first.
 
 ----
 ## User Guide
-#### <a id="BLTOUCH">3DTouch/BLTouch </a>
+#### <a href = "BLTOUCH">3DTouch/BLTouch </a>
 About how to install and debug the 3DTouch/BLTouch, please refer to [:book:**this guide.**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor/3DTouch)
 
-#### <a id="BMG">Dual Gear Extruder</a>
+#### <a href = "BMG">Dual Gear Extruder</a>
 About how to install Dual Gear Extruder, please refer to [:book:**this guide.**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/Dual_Gear_Extruder/Z8P.md)
 
 ---
