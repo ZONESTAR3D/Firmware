@@ -1,8 +1,8 @@
 ## Firmware for upgraded some optional features
-- **[:arrow_down:Z8PM4MK2A_3DTouch_V1_5_1](./Z8PM4MK2A_3DTouch_V1_5_1.zip):** Upgraded [3DTouch/BLTouch](#BLTOUCH).
-- **[:arrow_down:Z8PM4MK2A_BMG_V1_5_1](./Z8PM4MK2A_BMG_V1_5_1.zip):** Upgraded [Dual Gear Extruders (4x left-hand Extruder)](#BMG).
-- **[:arrow_down:Z8PM4MK2A_BMG_3DTouch_V1_5_1](./Z8PM4MK2A_BMG_V1_5_1.zip):** Upgraded [Dual Gear Extruders (4x left-hand Extruder)](#BMG) and [3DTouch/BLTouch](#BLTOUCH).
-- **[:arrow_down:Z8PM4MK2A_TMC220x_3DTouch_V1_5_1](./Z8PM4MK2A_TMC220x_3DTouch_V1_5_1.zip):** Upgraded 3DTouch/BLTouch and TMC2209 motor drivers at all motors.
+- **[:arrow_down:Z8PM4MK2A_3DTouch_V1_5_1](./Z8PM4MK2A_3DTouch_V1_5_1.zip):** Upgraded [3DTouch/BLTouch](#3dtouchbltouch).
+- **[:arrow_down:Z8PM4MK2A_BMG_V1_5_1](./Z8PM4MK2A_BMG_V1_5_1.zip):** Upgraded [Dual Gear Extruders (4x left-hand Extruder)](#dual-gear-extruder).
+- **[:arrow_down:Z8PM4MK2A_BMG_3DTouch_V1_5_1](./Z8PM4MK2A_BMG_V1_5_1.zip):** Upgraded [Dual Gear Extruders (4x left-hand Extruder)](#dual-gear-extruder) and [3DTouch/BLTouch](#3dtouchbltouch).
+- **[:arrow_down:Z8PM4MK2A_TMC220x_3DTouch_V1_5_1](./Z8PM4MK2A_TMC220x_3DTouch_V1_5_1.zip):** Upgraded [3DTouch/BLTouch](#3dtouchbltouch) and TMC2209 motor drivers at all motors.
 
 ----
 ## :blue_book: [Firmware Release Note](../releasenote.md)   
@@ -19,10 +19,10 @@ NOTE: If there is a "old_fw.bin" in the SD card, delete it first.
 
 ----
 ## User Guide
-#### <a href = "BLTOUCH">3DTouch/BLTouch </a>
+#### 3DTouch/BLTouch
 About how to install and debug the 3DTouch/BLTouch, please refer to [:book:**this guide.**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor/3DTouch)
 
-#### <a href = "BMG">Dual Gear Extruder</a>
+#### Dual Gear Extruder
 About how to install Dual Gear Extruder, please refer to [:book:**this guide.**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/Dual_Gear_Extruder/Z8P.md)
 
 ---
