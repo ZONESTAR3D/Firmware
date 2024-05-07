@@ -1,4 +1,5 @@
 ## Firmware
+- [:arrow_down: Z8PM4Pro V3.5.0](./Z8PM4ProMK1_V3_5_0.zip)
 - [:arrow_down: Z8PM4Pro V3.4.1](./Z8PM4ProMK1_V3_4_1.zip)
 - [:arrow_down: Z8PM4Pro V3.2.4](./Z8PM4ProMK1_V3_2_4.zip)
 - [:arrow_down: Z8PM4Pro V3.2.3](./Z8PM4ProMK1_V3_2_3.zip)
