@@ -10,5 +10,5 @@ Due to the firmware upgrade, some functions may be added or modified. You can fi
 ## :link:[Firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
 Z8P is firmware open source, if you are interesting to modify the firmware by yourself, please refer to [:point_right:**here**](https://github.com/ZONESTAR3D/source-code-for-3d-printer). Please note that we do not provide support on how to compile and modify firmware.
 
-#### :blue_book: [Firmware Release Note](./releasenote.md)   
+## :blue_book: [Firmware Release Note](./releasenote.md)   
 Detailed information about firmware versions, please refer to [**releasenote.md**](./releasenote.md).
