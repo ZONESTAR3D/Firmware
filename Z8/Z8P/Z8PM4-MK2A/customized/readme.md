@@ -28,4 +28,5 @@ About how to install Dual Gear Extruder, please refer to [:book:**this guide.**]
 ---
 ## Wiring
 Connect the 3d touch bed leveling sensor to EXP1  
-![](Wiring_3DTouch.png)
+![](Wiring_3DTouch.png)    
+![](./3DTouch_PinDefine.jpg)    
