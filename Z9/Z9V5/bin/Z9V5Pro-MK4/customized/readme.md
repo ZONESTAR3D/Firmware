@@ -76,8 +76,8 @@ For firmware version upgrade instructions, please refer to the [**release note**
 
 ### Wiring
 Connect the 3d touch bed leveling sensor to EXP1  
-![](Wiring_3DTouch.png)
-
+![](Wiring_3DTouch.png)   
+![](3DTouch_PinDefine.jpg)   
 
 [3DTouch_ALI]: https://www.aliexpress.com/item/1005001464420529.html
 [3DTouch_SPY]: https://www.zonestar3dshop.com/products/3d-touch-bltouch-bed-auto-leveling-sensor-for-3d-printers

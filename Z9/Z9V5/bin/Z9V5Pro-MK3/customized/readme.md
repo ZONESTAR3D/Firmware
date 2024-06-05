@@ -28,7 +28,8 @@ If you want to konw more about what's different on the different firmware versio
 -----
 ### Wiring
 Connect the 3d touch bed leveling sensor to EXP1  
-![](Wiring_3DTouch.png)
+![](Wiring_3DTouch.png)   
+![](3DTouch_PinDefine.jpg)   
 
 -----
 #### Firmware Upload Steps 

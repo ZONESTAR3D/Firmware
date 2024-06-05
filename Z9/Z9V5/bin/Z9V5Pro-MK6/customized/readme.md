@@ -46,8 +46,8 @@ The customized firmware may not be test completely, if there is any question, pl
 -----
 ### Wiring
 Connect the 3d touch bed leveling sensor to EXP1  
-![](Wiring_3DTouch.png)
-
+![](Wiring_3DTouch.png)   
+![](3DTouch_PinDefine.jpg)
 
 ----
 #### :blue_book: [Release Note](../releasenote.md)   

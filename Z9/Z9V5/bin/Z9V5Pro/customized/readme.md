@@ -37,8 +37,8 @@
 
 ----
 ## Wiring
-![](./Z9V5Pro%2B3DTouch_wiring.jpg)
-
+![](./Wiring_3DTouch.png)
+![](./3DTouch_PinDefine.jpg)   
 
 ----
 #### :blue_book: [Release Note](../releasenote.md)   
