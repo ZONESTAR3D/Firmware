@@ -10,8 +10,9 @@
 
 ----
 ## Wiring
-Connect the 3d touch bed leveling sensor to EXP1  
-![](Wiring_3DTouch.png)
+Connect the 3d touch bed leveling sensor to EXP1.
+![](./3DTouch_wiring.jpg)    
+![](./3DTouch_PinDefine.jpg)    
 
 ----
 ## User Guide
