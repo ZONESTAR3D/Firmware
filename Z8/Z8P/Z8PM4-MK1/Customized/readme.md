@@ -6,7 +6,7 @@
 - **Upgraded Dual Gear Extruders(4x right hand) [:arrow_down:Z8PM4ProMK1_BMG_V3_5_0](./Z8PM4ProMK1_BMG_V3_5_0.zip)**
 - **Upgraded 3DTouch and Dual Gear Extruders(4x right hand) [:arrow_down:Z8PM4ProMK1_3DTouch_BMG_V3_5_0](./Z8PM4ProMK1_3DTouch_BMG_V3_5_0.zip)**
 - **Upgraded TMC220x motor drivers and Dual Gear Extruders (4x right hand) [:arrow_down:Z8PM4ProMK1_TMC220xALL_BMG_V3_5_0](./Z8PM4ProMK1_TMC220xALL_BMG_V3_5_0.zip)**
-- **Upgraded TMC220x motor drivers, 3DTouch and Dual Gear Extruders(4x right hand) [:arrow_down:Z8PM4ProMK1_TMC220xALL_3DTouch_BMG_V3_5_0](.Z8PM4ProMK1_TMC220xALL_3DTouch_BMG_V3_5_0.zip)**
+- **Upgraded TMC220x motor drivers, 3DTouch and Dual Gear Extruders(4x right hand) [:arrow_down:Z8PM4ProMK1_TMC220xALL_3DTouch_BMG_V3_5_0](./Z8PM4ProMK1_TMC220xALL_3DTouch_BMG_V3_5_0.zip)**
 
 ----
 ## Wiring
