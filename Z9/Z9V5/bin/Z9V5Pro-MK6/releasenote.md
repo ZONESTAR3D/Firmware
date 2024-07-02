@@ -1,4 +1,8 @@
 ## Release Note
+### V1.1.4
+- **Date:** 2024-07-02
+- [**CHG**] Modify maximum speed and acceleration settings to support higher printing speeds
+
 ### V1.1.3
 - **Date:** 2024-03-21
 - [**BUG**] Fixed the Y Home offset after Homed.

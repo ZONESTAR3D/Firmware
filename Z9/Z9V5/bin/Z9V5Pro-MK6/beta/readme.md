@@ -1,4 +1,5 @@
 #### :arrow_down: Firmware Download Link
+- **[:arrow_down: Z9V5Pro-MK6 V1.1.4](./Z9V5ProMK6_V1_1_4.zip)**
 - **[:arrow_down: Z9V5Pro-MK6 V1.1.3](./Z9V5ProMK6_V1_1_3.zip)**
 - **[:arrow_down: Z9V5Pro-MK6 V1.1.2](./Z9V5ProMK6_V1_1_2.zip)**
 - **[:arrow_down: Z9V5Pro-MK6 V1.1.1](./Z9V5ProMK6_V1_1_1.zip)**
