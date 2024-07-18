@@ -16,28 +16,28 @@ For firmware version upgrade instructions, please refer to the [**release note**
 -----
 ### Firmwares for Z9V5Pro 
 #### Upgraded BMG Dual Gear Extruder (4x right-hand)
-**[:arrow_down: Z9V5ProMK4_BMG_V1_6_2](./MK4/Z9V5ProMK4_BMG_V1_6_2.zip)** 
+- **[:arrow_down: Z9V5ProMK4_BMG_V1_6_2](./MK4/Z9V5ProMK4_BMG_V1_6_2.zip)** 
 #### Upgraded BMG Dual Gear Extruder (2x left-hand and 2x right-hand)
-**[:arrow_down: Z9V5ProMK4_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_BMGLR_V1_6_2.zip)** 
-**[:arrow_down: Z9V5ProMK4_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_BMGLR_V1_5_4.zip)**          
+- **[:arrow_down: Z9V5ProMK4_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_BMGLR_V1_6_2.zip)** 
+- **[:arrow_down: Z9V5ProMK4_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_BMGLR_V1_5_4.zip)**          
 #### Upgraded 3DTouch/BLTouch bed leveling sensor
-**[:arrow_down: Z9V5ProMK4_3DTouch_V1_6_2](./MK4/Z9V5ProMK4_3DTouch_V1_6_2.zip)**
-**[:arrow_down: Z9V5ProMK4_3DTouch_V1_5_4](./MK4/Z9V5ProMK4_3DTouch_V1_5_4.zip)**
+- **[:arrow_down: Z9V5ProMK4_3DTouch_V1_6_2 (Sensor connect to EXP1 connector)](./MK4/Z9V5ProMK4_3DTouch_V1_6_2.zip)[:art:Wiring Diagram](#P1)**
+- **[:arrow_down: Z9V5ProMK4_3DTouch_V1_5_4 (Sensor connect to EXP1 connector)](./MK4/Z9V5ProMK4_3DTouch_V1_5_4.zip)[:art:Wiring Diagram](#P1)**
 #### Upgraded BMG Dual Gear Extruder (2x left-hand and 2x right-hand) and 3DTouch/BLTouch
-**[:arrow_down:Z9V5ProMK4_3DTouch_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_3DTouch_BMGLR_V1_6_2.zip)**
-**[:arrow_down:Z9V5ProMK4_3DTouch_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_3DTouch_BMGLR_V1_5_4.zip)**
+- **[:arrow_down:Z9V5ProMK4_3DTouch_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_3DTouch_BMGLR_V1_6_2.zip)**
+- **[:arrow_down:Z9V5ProMK4_3DTouch_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_3DTouch_BMGLR_V1_5_4.zip)**
 #### Upgraded all motor drivers to TMC2209
-**[:arrow_down:Z9V5ProMK4_TMC220x_V1_6_2](./MK4/Z9V5ProMK4_TMC220x_V1_6_2.zip)**
-**[:arrow_down:Z9V5ProMK4_TMC220x_V1_5_4](./MK4/Z9V5ProMK4_TMC220x_V1_5_4.zip)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x_V1_6_2](./MK4/Z9V5ProMK4_TMC220x_V1_6_2.zip)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x_V1_5_4](./MK4/Z9V5ProMK4_TMC220x_V1_5_4.zip)**
 #### Upgraded all motor drivers to TMC2209 and 3DTouch/BLTouch
-**[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_V1_6_2](./MK4/Z9V5ProMK4_TMC220x_3DTouch_V1_6_2.zip)**
-**[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_V1_5_4](./MK4/Z9V5ProMK4_TMC220x_3DTouch_V1_5_4.zip)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_V1_6_2 (Sensor connect to EXP1 connector)](./MK4/Z9V5ProMK4_TMC220x_3DTouch_V1_6_2.zip)[:art:Wiring Diagram](#P1)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_V1_5_4 (Sensor connect to EXP1 connector)](./MK4/Z9V5ProMK4_TMC220x_3DTouch_V1_5_4.zip)[:art:Wiring Diagram](#P1)**
 #### Upgraded all motor drivers to TMC2209 and BMG Dual Gear Extruders (2x left-hand and 2x right-hand)
-**[:arrow_down:Z9V5ProMK4_TMC220x_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_TMC220x_BMGLR_V1_6_2.zip)**
-**[:arrow_down:Z9V5ProMK4_TMC220x_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_TMC220x_BMGLR_V1_5_4.zip)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_TMC220x_BMGLR_V1_6_2.zip)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_TMC220x_BMGLR_V1_5_4.zip)**
 #### Upgraded all motor drivers to TMC2209，3DTouch/BLTouch and BMG Dual Gear Extruders (2x left-hand and 2x right-hand)
-**[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_6_2](./MK4/Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_6_2.zip)**
-**[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_5_4](./MK4/Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_5_4.zip)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_6_2 (Sensor connect to EXP1 connector)](./MK4/Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_6_2.zip)[:art:Wiring Diagram](#P1)**
+- **[:arrow_down:Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_5_4 (Sensor connect to EXP1 connector)](./MK4/Z9V5ProMK4_TMC220x_3DTouch_BMGLR_V1_5_4.zip)[:art:Wiring Diagram](#P1)**
 
 -----
 ### Firmwares for Z9V5Pro-Max 
@@ -47,23 +47,24 @@ For firmware version upgrade instructions, please refer to the [**release note**
 - **[:arrow_down:Z9V5ProMK4Max_V1_6_2](./MK4_Max/Z9V5ProMK4Max_V1_6_2.zip)**   
 - **[:arrow_down:Z9V5ProMK4Max_V1_5_4](./MK4_Max/Z9V5ProMK4Max_V1_5_4.zip)**   
 #### Also upgraded 3DTouch/BLTouch bed leveling sensor.     
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_6_2](./MK4_Max/Z9V5ProMK4Max_3DTouch_V1_6_2.zip)**   
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_4](./MK4_Max/Z9V5ProMK4Max_3DTouch_V1_5_4.zip)**    
+- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_6_2 (Sensor connect to EXP1 connector)](./MK4_Max/Z9V5ProMK4Max_3DTouch_V1_6_2.zip)[:art:Wiring Diagram](#P1)**   
+- **[:arrow_down:Z9V5ProMK4Max_3DTouch_V1_5_4 (Sensor connect to EXP1 connector)](./MK4_Max/Z9V5ProMK4Max_3DTouch_V1_5_4.zip)[:art:Wiring Diagram](#P1)**   
+- **[:arrow_down:Z9V5ProMK4Max(SERVO)_3DTouch_V1_6_2(Sensor connect to SERVO connector)](./MK4_Max/Z9V5ProMK4Max_3DTouch(SERVO)_V1_6_2.zip)[:art:Wiring Diagram](#P2)**    
 #### Also upgraded BMG Dual Gear Extruders (2x left-hand + 2x right-hand).  
 - **[:arrow_down:Z9V5ProMK4Max_BMGLR_V1_6_2](./MK4_Max/Z9V5ProMK4Max_BMGLR_V1_6_2.zip)** 
 - **[:arrow_down:Z9V5ProMK4Max_BMGLR_V1_5_4](./MK4_Max/Z9V5ProMK4Max_BMGLR_V1_5_4.zip)** 
 
 #### Also upgraded 3DTouch/BLTouch and BMG Dual Gear Extruders (2x left-hand + 2x right-hand).  
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_BMGLR_V1_6_2](./MK4_Max/Z9V5ProMK4Max_3DTouch_BMGLR_V1_6_2.zip)** 
-- **[:arrow_down:Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_4](./MK4_Max/Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_4.zip)** 
+- **[:arrow_down:Z9V5ProMK4Max_3DTouch_BMGLR_V1_6_2 (Sensor connect to EXP1 connector)](./MK4_Max/Z9V5ProMK4Max_3DTouch_BMGLR_V1_6_2.zip)[:art:Wiring Diagram](#P1)** 
+- **[:arrow_down:Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_4 (Sensor connect to EXP1 connector)](./MK4_Max/Z9V5ProMK4Max_3DTouch_BMGLR_V1_5_4.zip)[:art:Wiring Diagram](#P1)** 
 
 #### Also upgraded TMC2209 motor drivers and BMG Dual Gear Extruders(2x left-hand + 2x right-hand).   
 - **[:arrow_down:Z9V5ProMK4Max_TMC220x_BMGLR_V1_6_2](./MK4_Max/Z9V5ProMK4Max_TMC220x_BMGLR_V1_6_2.zip)**  
 - **[:arrow_down:Z9V5ProMK4Max_TMC220x_BMGLR_V1_5_4](./MK4_Max/Z9V5ProMK4Max_TMC220x_BMGLR_V1_5_4.zip)**  
 
 #### Also upgraded TMC2209 motor drivers, 3DTouch/BLTouch and BMG Dual Gear Extruders(2x left-hand + 2x right-hand).   
-- **[:arrow_down:Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_6_2](./MK4_Max/Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_6_2.zip)**  
-- **[:arrow_down:Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_5_4](./MK4_Max/Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_5_4.zip)**  
+- **[:arrow_down:Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_6_2 (Sensor connect to EXP1 connector)](./MK4_Max/Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_6_2.zip)**  
+- **[:arrow_down:Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_5_4 (Sensor connect to EXP1 connector)](./MK4_Max/Z9V5ProMK4Max_TMC220x_3DTouch_BMGLR_V1_5_4.zip)**  
 
 -----
 ### About upgradable features
@@ -75,8 +76,11 @@ For firmware version upgrade instructions, please refer to the [**release note**
 **Buy 500mmx500mm upgrade kit: [:gift: Online Store][UK_9V5_500_SPY] or [:gift: Aliexpress][UK_9V5_500_ALI].**     
 
 ### Wiring
-Connect the 3d touch bed leveling sensor to EXP1  
+##### <a id="P1">Connect the 3DTouch/BLTouch bed leveling sensor to EXP1 </a>
 ![](Wiring_3DTouch.png)   
+##### <a id="P2">Connect the 3DTouch/BLTouch bed leveling sensor to SERVO </a>  
+![](Wiring_3DTouch_SERVO.png)   
+##### 3DTouch/BLTouch bed leveling sensor Pin Define
 ![](3DTouch_PinDefine.jpg)   
 
 [3DTouch_ALI]: https://www.aliexpress.com/item/1005001464420529.html

@@ -1,4 +1,8 @@
 ## Release Note
+### V1.1.5
+- **Date:** 2024-07-04
+- [**CHG**] Support G2/G3 Arc command
+
 ### V1.1.4
 - **Date:** 2024-07-02
 - [**CHG**] Modify maximum speed and acceleration settings to support higher printing speeds
