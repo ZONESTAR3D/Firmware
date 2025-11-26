@@ -1,4 +1,9 @@
 ## Release Note
+### V1.5.3
+- **Date:** 2024-04-27
+- [**BUG**] Fix M190 Rx issue
+- [**BUG**] Fix the bug the LCD screen doesn't show print menu when use M24 command on SD card
+- 
 ### V1.5.2
 - **Date:** 2024-03-18
 - [**CHG**] Optimize startup speed

@@ -3,6 +3,7 @@
 - **Upgraded TMC2225 on extruder motor drivers [:arrow_down:Z8PM4ProMK1_TMC2225ALL_V3_5_0](./Z8PM4ProMK1_TMC2225ALL_V3_5_0.zip)**
 - **Upgraded TMC2225 on extruder motor drivers and 3DTouch bed leveling sensor [:arrow_down:Z8PM4ProMK1_TMC2225ALL_3DTouch_V3_5_0](./Z8PM4ProMK1_TMC2225ALL_3DTouch_V3_5_0.zip)**
 - **Upgraded TMC220x on all motor drivers and 3DTouch bed leveling sensor [:arrow_down:Z8PM4ProMK1_TMC2225ALL_3DTouch_V3_5_0](./Z8PM4ProMK1_TMC220xALL_3DTouch_V3_5_0.zip)**
+- **Upgraded TMC220x on extruder motor drivers and 3DTouch bed leveling sensor[:arrow_down:Z8PM4ProMK1_TMC2225XYZ_TMC200xE_3DTouch_V3_5_0](./Z8PM4ProMK1_TMC2225XYZ_TMC200xE_3DTouch_V3_5_0.zip)**
 - **Upgraded Dual Gear Extruders(4x right hand) [:arrow_down:Z8PM4ProMK1_BMG_V3_5_0](./Z8PM4ProMK1_BMG_V3_5_0.zip)**
 - **Upgraded 3DTouch and Dual Gear Extruders(4x right hand) [:arrow_down:Z8PM4ProMK1_3DTouch_BMG_V3_5_0](./Z8PM4ProMK1_3DTouch_BMG_V3_5_0.zip)**
 - **Upgraded TMC220x motor drivers and Dual Gear Extruders (4x right hand) [:arrow_down:Z8PM4ProMK1_TMC220xALL_BMG_V3_5_0](./Z8PM4ProMK1_TMC220xALL_BMG_V3_5_0.zip)**

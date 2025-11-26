@@ -44,6 +44,11 @@ The customized firmware may not be test completely, if there is any question, pl
 - **[:arrow_down:Z9V5ProMK6Max_TMC220x_3DTouch_V1_0_2](./Z9V5ProMK6Max_TMC220x_3DTouch_V1_0_2.zip)** 
 
 -----
+### Firmware for Z9V5Pro-MK6 used ZM3E4V2 control board
+Default Z9V5Pro-MK6 used a ZM3E4V3 control board, if your have replaced a ZM3E4V2.x control board, please use this firmware:
+- **[:arrow_down:Z9V5ProMK6_ZM3E4V2_V1_1_5](./Z9V5ProMK6_ZM3E4V2_V1_1_5.zip)**
+
+-----
 ### Wiring
 Connect the 3d touch bed leveling sensor to EXP1  
 ![](Wiring_3DTouch.png)   
