@@ -1,4 +1,5 @@
 ## Firmware for upgraded some optional features
+- **[:arrow_down:Z8PM4MK2A_TMC2225XYZ_V1_5_2](./Z8PM4MK2A_TMC2225XYZ_V1_5_2.zip):** Used TMC2225 on XYZ motor drivers (replace of the original TMC2208).
 - **[:arrow_down:Z8PM4MK2A_3DTouch_V1_5_1](./Z8PM4MK2A_3DTouch_V1_5_1.zip):** Upgraded [3DTouch/BLTouch](#3dtouchbltouch).
 - **[:arrow_down:Z8PM4MK2A_BMG_V1_5_1](./Z8PM4MK2A_BMG_V1_5_1.zip):** Upgraded [Dual Gear Extruders (4x left-hand Extruder)](#dual-gear-extruder).
 - **[:arrow_down:Z8PM4MK2A_BMG_3DTouch_V1_5_1](./Z8PM4MK2A_BMG_V1_5_1.zip):** Upgraded [Dual Gear Extruders (4x left-hand Extruder)](#dual-gear-extruder) and [3DTouch/BLTouch](#3dtouchbltouch).
